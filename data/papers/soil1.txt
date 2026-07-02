@@ -1,0 +1,1487 @@
+EDITED BY
+
+
+# COPYRIGHT
+
+
+TYPE Original Research PUBLISHED 21 February 2025 DOI 10.3389/fagro.2025.1552425
+
+
+# Comparative analysis of soil and water dynamics in conventional and sod-based crop rotation in Florida
+
+Bibek Acharya 1,2 and Vivek Sharma 1 *
+
+
+Analyzing soil water dynamics is crucial for the advancement of sustainable agriculture, encompassing crop growth management, soil health preservation, and the strategic use of resources. This study assessed the impact of conventional and sod-based crop rotations on water dynamics within the Suwannee River Basin ' s unique karst and sandy soil environment from 20192022. The study was conducted on a 16-hectare center pivot irrigated /uniFB01 eld, featuring two conventional crop rotations: one comprising maize ( Zea mays ) and peanut ( Arachis hypogaea ), and another including maize, carrot ( Daucus carota ), and peanut. In addition, two sod-based rotations were evaluated: one involving two years of bahiagrass ( Paspalum notatum ) followed by maize and peanut, and another comprising two years of bahiagrass succeeded by maize, carrot, and peanut. The results indicated that maize maintained consistent crop water productivity (WPC-ETc) at 2.6 kg m -3 across rotations, while WPC-ETc for peanuts ranged from 1.5 kg m -3 for conventional rotation and 1.1 kg m -3 for sod-based. The cumulative crop evapotranspiration (ETc) for maize throughout the years was on an average 477 mm (Standard Deviation (SD) = 44 mm), while peanuts showed an average cumulative ETc of 354 mm (SD = 39 mm). Carrots and bahiagrass recorded cumulative ETc values in the range of 225-259 mm and 1611 mm (over two years), respectively. Deep percolation accounted for 31% of total water input, which emphasizes the need for strategic water management in porous soils. Additionally, sod-based rotations increased /uniFB01 eld capacity by 32%, soil organic carbon (SOC) by 31% in the top 15 cm, and soil aggregate stability by 101%, enhancing soil structure and moisture conservation. This study highlights sodbased rotations as effective for soil and water conservation, offering practical strategies for water-ef /uniFB01 cient agriculture in similar ecosystems.
+
+
+# KEYWORDS
+
+evapotranspiration, soil moisture, soil water balance, soil water retention, crop water productivity
+
+
+# 1 Introduction
+
+With global warming and emerging water scarcity posing formidable challenges, the pivotal role of soil and water dynamics in agricultural systems, encompassing crop growth, soil health, ecosystem resilience, irrigation, fertilizer management, and crop rotation strategies, demands urgent adaptation and innovation (Yang et al., 2020). Globally, and across many regions in the United States, growers, along with state and federal agricultural and water resource agencies, face the challenge of adopting climatesmart and integrated conservation practices. These practices aim to sustain agricultural productivity while maximizing water, nutrient, and economic ef /uniFB01 ciency, reducing environmental and social impacts, and preserving the natural productivity and quality of land and water resources (Sassenrath et al., 2009). Integrated conservation agriculture is a diversi /uniFB01 ed farming approach based on three core principles: (i) maintaining a permanent vegetative cover on the soil surface, (ii) minimizing soil disturbance, and (iii) implementing diversi /uniFB01 ed crop rotations (FAO, 2008). This approach optimizes natural resource use by integrating crop and livestock inputs and outputs to foster environmentally sustainable practices. Such conservation methods can signi /uniFB01 cantly in /uniFB02 uence soil chemical, biological, and physical properties across various soils, climates, and cropping systems.
+
+The Suwannee River Basin (SRB) of Northern Florida spans roughly 10,955 km 2 and has the highest density of large artesian spring in the world with approximately 300 springs feeding the Suwannee River, which ultimately drains into the Gulf of Mexico. For example, the Suwannee County in SRB reported freshwater withdrawals of 0.116 million m³ day -1 from surface (~0.5%) and groundwater (~99.5%) sources for agriculture use (Marella, 2020). The nutrient-poor soils in the basin necessitate nitrogen (N) inputs to meet crop production goals. However, the region ' s humid subtropical climate, characterized by high annual rainfall, combined with coarse-textured, sandy, and well-draining soils, and karst (carbonate) landscapes with low water and nutrient retention capacity, makes the SRB particularly sensitive to changes in water quality and the ef /uniFB01 ciency of water use in agricultural systems (Sexton et al., 1996; Alva et al., 2006; Katz et al., 2010; Scanlon et al., 2023; Vadez et al., 2023). Maize and peanuts represent signi /uniFB01 cant agricultural products in the SRB and throughout Florida. According to a 2022 report on agriculture in Florida, peanuts were cultivated on roughly 57,465 ha, generating a production value of about $147.3 million (USDA, 2022). In comparison, grain maize cultivation covered an area of about 22,662 ha, with the production value reaching $67.5 million within the state (USDA, 2022).
+
+In the southeastern United States, including the SRB region, soils are typically low in fertility and organic matter content. In many cases, long term continuous row cropping have further degraded these fragile soils (Katsvairo et al., 2006). Historical data suggest that the decline in cropping system diversity, notably the shift from perennial to annual crops, has led to increased environmental challenges related to water, such as erosion and water quality degradation (Aguilar et al., 2015). Growers in the North Florida region frequently adopt a traditional crop rotation practice involving maize and peanuts (Wright et al., 2022). Traditional crop rotation, such as maize-peanut or peanut-cotton, often face challenges like reduced yields, soil structure degradation, and increased susceptibility to pests and diseases (Crookston, 1995; Tanaka et al., 2002). Among many management practices, the adoption of perennial grasses into rotations contributes to larger and deeper root systems, which increase soil organic matter content, improve soil structure, enhance water retention, nutrient storage, in /uniFB01 ltration, and aeration, and increase water use ef /uniFB01 ciency. This also leads to increased soil organic carbon and sequestering of carbon from the atmosphere (Santos and Whitford, 1981; Gupta and Yeates, 1997; Wright et al., 2004; Katsvairo et al., 2006; Franzluebbers and Triplet, 2006; Wright et al., 2010; Gamble et al., 2014; Dourte et al., 2015; Zhang et al., 2022b). These grasses also serve as non-hosts for common crop pathogens and nematodes, supporting the integrated pest and weed management (Dickson and Hewlett, 1989; Brenneman et al., 1995; Johnson et al., 1999; Katsvairo et al., 2007b; Sudini et al., 2011). For instance, drought-resistant bahiagrass is adaptable to various soil types, including sandy ones (Field and Taylor, 2002). Furthermore, incorporating livestock into crop rotation can mitigate /uniFB01 nancial risks for farmers, especially under variable weather conditions, while grazing animals can enhance soil fertility through effective nutrient recycling, thus bene /uniFB01 ting future crops. Grazing can affect soil compaction, which subsequently affects water in /uniFB01 ltration rates and the overall soil moisture dynamics. Moreover, the nutrient cycling facilitated by grazing animals can impact soil fertility and water quality, further illustrating the complex interplay between sod-based rotation, water dynamics, and agricultural sustainability (Katsvairo et al., 2006; George et al., 2013). In addition to agronomic bene /uniFB01 ts, implementing diverse systems strengthens both resistances, enabling crops to endure environmental stresses, and resilience, allowing them to recover from such stresses (Nicholls and Altieri, 2004).
+
+Estimating soil water balance components, including crop evapotranspiration, is crucial for comparing water use in sodbased versus conventional crop systems. While some research has focused on how sod-based rotations impact soil aggregate stability, structure, and in /uniFB01 ltration rates, there remains limited data on the dynamics of water balance components and water-use ef /uniFB01 ciency within sod-based systems. Most studies emphasize crop yield and soil fertility rather than these water-related metrics. For instance, Long and Elkins (1983) compared cotton grown after three years of continuous bahiagrass with continuous cotton. They observed a sevenfold increase in pore volume (>1.0 mm) in the soil layer beneath the plow depth in the bahiagrass system. This increase was attributed to the deep penetration of bahiagrass roots, which, after decomposing, left channels spacious enough to support the growth of cotton roots. Elkins et al. (1977) further found that perennial grasses like bahiagrass could reduce irrigation needs in subsequent crops. They reported that, on coarse-textured sandy soil with limited water-holding capacity, crops with 30 cm rooting depths in conventional systems would experience around 60 drought days from May through August. However, under sod-based rotations with deeper root networks, drought days were reduced to just eleven. Katsvairo et al. (2007a) found that peanut and cotton
+
+systems following bahiagrass demonstrated higher in /uniFB01 ltration rates than conventional peanut-cotton rotations in Florida, which they attributed to root channels and improved soil structure from the perennial grass. Additionally, cotton grown after bahiagrass developed more root biomass than cotton in traditional systems. A study conducted in Quincy, FL, from 2002 to 2007 revealed that, in sod-based rotations, water-use ef /uniFB01 ciency for peanut crops improved by 15% in irrigated /uniFB01 elds and by 19% in non-irrigated /uniFB01 elds, relative to conventional rotations (Zhao et al., 2008). In particularly dry years, like 2006 and 2007, peanut yields in sodbased rotations outperformed those in conventional rotations by 13%.
+
+In humid areas, ef /uniFB01 cient management of fertilizer and irrigation plays a crucial role in crop water productivity because of the increased risk of leaching, which can lower yields and, in turn, reduce crop water productivity (Sharma and Bhambota, 2022). While existing studies provide critical insights into crop and irrigation management impacts on crop water productivity (Howell et al., 1995; Evans and Sadler, 2008), few long-term studies have examined interannual variation within maize-peanut rotations in both continuous and sod-based systems. Before widespread adoption of sod-based rotation practices in crop production systems, their suitability and effectiveness should be thoroughly researched and evaluated at local scales. Thus, this study evaluates soil water retention, crop water productivity, and soil moisture levels, alongside assessing the balance of water inputs and outputs in both conventional and sod-based crop rotation. The goal of this research is to put forward agricultural practices that adhere to water stewardship principles and to inform the development of BMPs focused on enhancing crop yields while protecting essential water resources. The /uniFB01 ndings could signi /uniFB01 cantly inform sustainable water management strategies in agriculture, particularly in areas sharing the environmental and climatic traits of the SRB. By examining soil water dynamics across varied crop rotation, this research aims to offer concrete evidence and practical recommendations to advance water-ef /uniFB01 cient and ecologically sustainable farming methods. The speci /uniFB01 c objectives of this research are to assess the effectiveness of a rotational production system involving maize, peanut, carrot, and bahiagrass with integrated cattle grazing in improving soil physical properties, and to compare water balances and crop water production functions within conventional and sod-based rotational production systems.
+
+
+# 2 Materials and methods
+
+
+# 2.1 Field site
+
+The /uniFB01 eld study was conducted from 2019 to 2022 on a 16 ha center pivot irrigated /uniFB01 eld at North Florida Research and Education Center-Suwannee Valley (NFREC-SV) in Live Oak, Florida (82° 54 ' 20.956 ' W and 30°18 ' 16.697 ' N) within the Suwannee River basin (Figure 1). The Suwannee River basin covers an area of 28,500 km 2 and is characterized by its karstic wetland and lowland terrain. The predominant land uses within the basin include forestry, agriculture, and wetlands (Ham and Hatzell, 1996). The study area ' s climate is subtropical, featuring long, warm summers and mild winters, with 20 year average annual rainfall of about 1243 mm (FAWN, 2022). Rainfall distribution is highly variable by location and year, with roughly 50% occurring between June and September.
+
+
+# 2.2 Experimental design
+
+The /uniFB01 eld was divided into four 4 ha sections for distinct crop rotation strategies (Figure 1). Of the four sections, two were allocated for sod-based rotation treatments involving bahiagrass.
+
+
+### Figure 1 (page 3)
+![Figure 1](figures/figure_001_p3.png)
+<!-- name: figure_001_p3 -->
+
+Analysis of: figure_001_p3.png
+================================================================================
+
+## Content Type: Figure
+
+## Short Description:
+The image presents an aerial photograph of a study area located at NFREC, Live Oak, FL, alongside a map of Florida illustrating the spatial variation of long-term annual precipitation. The study area appears to involve different plots with various labels (BBCAP, BBCP, PC, CP, CAP) and markers.
+
+## Detailed Analysis:
+
+### Figure Type:
+- The image contains a map of Florida showing annual precipitation variations and an aerial photograph of a study area.
+
+### Components:
+- **Map of Florida:**
+  - Represents the spatial variation of long-term annual precipitation (mm) in Florida.
+  - Color gradient: Blue (low, 1000 mm) to red (high, 1700 mm).
+  - WMD and County boundaries are marked.
+
+- **Aerial Photograph:**
+  - Shows a study area with several plots labeled:
+    - **BBCAP** (purple)
+    - **BBCP** (yellow)
+    - **PC** (orange)
+    - **CP** (blue)
+    - **CAP** (green)
+  - Each plot contains multiple markers (location pins) in corresponding colors.
+
+### Data Points & Trends:
+- The map indicates that the study area in Live Oak, FL, is located in a region with an annual precipitation of approximately 1300 mm.
+- The aerial photograph shows a systematic distribution of markers within each plot, suggesting a structured experimental setup.
+
+### Main Message:
+The figure demonstrates the location and setup of a study area within a specific precipitation zone in Florida. It highlights the experimental plots with different treatments or conditions, likely related to soil health research.
+
+### Scientific Context:
+This relates to soil health research by potentially examining how different conditions (as indicated by plot labels) affect soil parameters such as pH, nutrient levels, microbial activity, and soil structure under a specific annual precipitation level of around 1300 mm.
+
+These include two years of bahiagrass followed by maize and peanuts (BBPC), and two years of bahiagrass followed by maize, carrots, and peanuts (BBCAP). The remaining two sections served as a control and followed the conventional farming rotation: one with a continuous cycle of maize and peanuts (CP), and another with maize, carrots, and peanuts (CAP). The CP section was further split into two 2 ha plots of maize-peanut (CP) and peanut-maize (PC) to facilitate two full rotations within four years (Figure 1). Over the four-year period, each subsection completed two full rotational cycles. In the CAP rotation, carrots were planted before peanuts within the same year, allowing the BBAPC and BBPC rotations to complete one cycle, while the CAP rotation achieved two cycles within this timeframe. A one-year pre-treatment phase was implemented, during which maize was cultivated uniformly across all subsections. During the initial four years of the 16-year study, the primary focus was on assessing BMPs, integrating fertilization and irrigation practices guided by local growers ' knowledge in Northern Florida. These practices involved using both inorganic fertilizers and broiler litter as manure, with irrigation decisions based on /uniFB01 eld observations.
+
+The study site ' s soil composition predominantly includes the Hurricane, Albany, and Chipley mix in CAP, BBCP, and BBCAP rotation, characterized by a 0-3% slope, high sand content of 95.4%, and somewhat poor drainage. The Blanton, Foxworth-Alpin complex in PC and CP rotation, features a 0-5% slope, 94.8% sand content, and a moderate drainage (NRCS, 2024). The hurricane series is comprised of very deep sandy, siliceous, thermic oxyaquic Alorthod, which are somewhat poorly drained, and have rapid permeability, while the Blanton series comprises of loamy, silicous, semiactive thermic Grossarenic Paleudults, deep and moderately well drained soils. Table 1 lists the soil physical properties measured on 23 April 2018, for the two major soil types found at the study site.
+
+
+# 2.3 Crop management
+
+The study employed a /uniFB01 ve span GPS guided center pivot irrigation system with Variable rate Irrigation (VRI) zone control capabilities (Valmont Industries, Valley, Nebraska), adhering to standard irrigation scheduling practices common in Northern Florida. This study spans 16 years, with the /uniFB01 rst four years speci /uniFB01 cally designed to mimic farmers ' irrigation practices for different crops to better understand real-world challenges faced in agricultural production. These practices rely on farmers ' experience, where irrigation decisions are informed by their understanding of crop water requirements, local weather conditions, and soil characteristics. This approach ensures the study captures the conditions and challenges typically encountered by farmers in the region. Fertilization was applied in two forms: inorganic fertilization utilized a mix of granular and liquid fertilizers, while broiler litter, commonly used as organic fertilizer in the North Florida region, was speci /uniFB01 cally applied to maize. The study also incorporated an animal grazing component, with cows rotated on sections BBCP and BBCAP. This grazing protocol involved rotating 65 to 75 cows off the land when the grass reached approximately 5 cm in height. For corn and peanut, /uniFB01 eld preparation included strip-tilling, with residue from the previous crops (peanut and corn) managed by disking. Plowing was avoided in both crops to prevent damage to lysimeters installed in the /uniFB01 eld. For carrot, the /uniFB01 eld was prepared by discing and using a rototiller to create a /uniFB01 ne seedbed conducive to optimal germination and growth. The peanut variety Georgia 06 G was planted with rows spaced 76.2 cm apart and plants set 6 cm apart within each row, reaching a seeding rate of 289,113 seeds ha -1 . Meanwhile, maize variety Dekalb 62 08RIB was established with the same row spacing of 76.2 cm but with plants spaced 16.5 cm within rows, yielding a seeding rate of 79,074 seeds ha -1 . Carrot cultivar Maverick was planted in 1-meter wide beds constructed in an East-West direction with a bed spacing of 1.3 m, at a seeding rate of 1,235,526 seeds ha -1 . Pensacola, Argentine, Tift 9, and Riata Bahiagrass were seeded at 56 kg seeds ha -1 . A summary of crop management practices, including planting and harvest dates, irrigation amounts, and nitrogen fertilizer applications throughout the growing season, is provided in Table 2. Supplementary Table S1 provides a detailed overview of the types, compositions, application rates, and dosages (kg ha -1 ) of nitrogen fertilizers used throughout the crop rotation from the 2019 to 2022 growing seasons.
+
+
+# 2.4 Soil properties
+
+Soil samples were taken from four different locations within each quarter of a pivot section, covering six depth intervals from 0 to 90 cm: 0-15, 16-30, 31-45, 46-60, 61-75, and 76-90 cm. These samples were shipped fresh and received by the lab within two days at Waters Agricultural Lab in Camilla, GA. Soil organic matter content was determined using the loss on ignition method (Latimer, 2023), while soil texture was analyzed using the Bouyoucos hydrometer method (Bouyoucos, 1936; Day, 1965). Soil sampling
+
+
+### Table 1 (page 4)
+**Caption:** TABLE 1 Measured soil properties of the predominant soil types in each section at the research site.
+![Table 1](tables/table_001_p4.png)
+<!-- name: table_001_p4 -->
+
+Analysis of: table_001_p4.png
+================================================================================
+
+## Content Type: Table
+
+## Short Description:
+The table presents measured soil properties of predominant soil types across different sections at a research site. It includes various physical and chemical properties of soils under different rotation practices.
+
+## Detailed Analysis:
+
+### Table Purpose:
+The table measures and compares the soil properties of different soil types under various rotation practices.
+
+### Structure:
+- **Column Headers:**
+  - Soil type
+  - Rotation involved
+  - Sand (%)
+  - Silt (%)
+  - Clay (%)
+  - Bulk density (g cm⁻³)
+  - Porosity (%)
+  - SOC (%)
+  - pH
+  - CEC (meq/100g)
+
+- **Row Labels:**
+  - Each row represents a specific soil type under a particular rotation practice.
+
+- **Units of Measurement:**
+  - Sand, Silt, Clay, SOC, Porosity: percentage (%)
+  - Bulk density: grams per cubic centimeter (g cm⁻³)
+  - CEC: milliequivalents per 100 grams (meq/100g)
+  - pH: dimensionless (but indicative of acidity/basicity)
+
+### Numerical Data & Relationships:
+- **Key Numerical Values:**
+  • Soil type: Blanton, Foxworth-Alpin; Rotation: PC/CP; Sand: 94.8%, Silt: 2.7%, Clay: 2.5%, Bulk density: 1.4 g cm⁻³, Porosity: 47.9%, SOC: 0.5%, pH: 5.5, CEC: 3.9 meq/100g
+  • Soil type: Hurricane, Albany and Chipley; Rotation: CAP; Sand: 95.7%, Silt: 2.4%, Clay: 1.9%, Bulk density: 1.4 g cm⁻³, Porosity: 48.7%, SOC: 0.55%, pH: 5.9, CEC: 3.7 meq/100g
+  • Soil type: Hurricane, Albany and Chipley; Rotation: BBCP; Sand: 94.6%, Silt: 3%, Clay: 2.4%, Bulk density: 1.4 g cm⁻³, Porosity: 49.8%, SOC: 0.56%, pH: 6, CEC: 3.6 meq/100g
+  • Soil type: Hurricane, Albany and Chipley; Rotation: BBCAP; Sand: 95.9%, Silt: 1.5%, Clay: 2.6%, Bulk density: 1.4 g cm⁻³, Porosity: 47.1%, SOC: 0.83%, pH: 5.5, CEC: 3.7 meq/100g
+
+- **Relationships & Correlations:**
+  - No strong correlations are directly evident without further statistical analysis, but some trends can be noted:
+    - The soil types have similar bulk densities (all at 1.4 g cm⁻³).
+    - Porosity is relatively consistent across all samples, ranging from 47.1% to 49.8%.
+    - SOC content varies, with the highest in the BBCAP rotation (0.83%) and the lowest in the PC/CP rotation (0.5%).
+    - pH levels are slightly acidic to neutral, ranging from 5.5 to 6.
+
+- **Statistical Significance:**
+  - No specific statistical measures (like mean, SD, p-values, R²) are provided in the table.
+
+### Comparisons:
+- **Soil Type Comparisons:**
+  - The Hurricane, Albany and Chipley soil type shows variations across different rotations (CAP, BBCP, BBCAP) in terms of SOC, Silt, and Clay content.
+  - The Blanton, Foxworth-Alpin soil under PC/CP rotation has a slightly lower Sand content and higher Silt and Clay content compared to the others.
+
+- **Rotation Comparisons:**
+  - The BBCAP rotation has the highest SOC (0.83%) and Sand content (95.9%) among the Hurricane, Albany and Chipley soil type rotations.
+  - The BBCP rotation shows the highest porosity (49.8%).
+
+### Key Findings:
+- The table provides a comprehensive overview of soil properties across different soil types and rotation practices.
+- SOC content is notably higher in the BBCAP rotation of Hurricane, Albany and Chipley soil.
+
+## Scientific Context:
+This data relates to soil health research by providing insights into how different soil types and rotation practices affect various soil properties. Parameters like pH, SOC, CEC, and porosity are crucial for understanding soil fertility, structure, and overall health. The data can help in assessing the impact of agricultural practices on soil quality and in making informed decisions for sustainable soil management.
+
+| Soil type                     | Rotation involved   |   Sand (%) |   Silt (%) |   Clay (%) |   Bulk density (g cm -3 ) |   Porosity (%) |   SOC (%) |   pH |   CEC (meq/100g) |
+|:------------------------------|:--------------------|-----------:|-----------:|-----------:|--------------------------:|---------------:|----------:|-----:|-----------------:|
+| Blanton, Foxworth-Alpin       | PC/CP               |       94.8 |        2.7 |        2.5 |                       1.4 |           47.9 |      0.5  |  5.5 |              3.9 |
+| Hurricane, Albany and Chipley | CAP                 |       95.7 |        2.4 |        1.9 |                       1.4 |           48.7 |      0.55 |  5.9 |              3.7 |
+| Hurricane, Albany and Chipley | BBCP                |       94.6 |        3   |        2.4 |                       1.4 |           49.8 |      0.56 |  6   |              3.6 |
+| Hurricane, Albany and Chipley | BBCAP               |       95.9 |        1.5 |        2.6 |                       1.4 |           47.1 |      0.83 |  5.5 |              3.7 |
+
+TABLE 1 Measured soil properties of the predominant soil types in each section at the research site.
+
+Soil particle size, pH, cation exchange capacity (CEC), and soil organic carbon (SSOC) were measured on 23 April 2018, while bulk density and porosity were measured on 23 August 2022.
+
+
+### Table 2 (page 5)
+**Caption:** TABLE 2 Crop management practices across rotation.
+![Table 2](tables/table_002_p5.png)
+<!-- name: table_002_p5 -->
+
+Analysis of: table_002_p5.png
+================================================================================
+
+## Content Type: Table
+
+## Short Description:
+The table presents crop management practices across different rotations, including planting and harvest dates, irrigation, fertilization, and organic nitrogen fertilization for various crops.
+
+## Detailed Analysis:
+
+### Table Purpose:
+The table appears to be measuring or comparing crop management practices across different rotations, including PC, CP, CAP, BBCP, and BBCAP.
+
+### Structure:
+- **Column Headers:**
+  - Rotation
+  - Crop
+  - Planting date (d/m/y)
+  - Harvest date (d/m/y)
+  - I (mm)
+  - N fertilization (kg ha⁻¹)
+  - Organic N (broiler litter) fertilization (kg ha⁻¹)
+- **Row Labels:** Each row represents a specific crop within a rotation.
+- **Units of Measurement:**
+  - Planting and harvest dates: day/month/year (d/m/y)
+  - I (mm): presumably irrigation in millimeters
+  - N fertilization and Organic N fertilization: kilograms per hectare (kg ha⁻¹)
+
+### Numerical Data & Relationships:
+- **Key Numerical Values:**
+  • Rotation PC, Crop Peanut: Planting date 16/05/19, Harvest date 30/09/19, I 197 mm, N fertilization 0 kg ha⁻¹, Organic N fertilization 0 kg ha⁻¹
+  • Rotation PC, Crop Maize: Planting date 12/03/20, Harvest date 10/08/20, I 226 mm, N fertilization 298 kg ha⁻¹, Organic N fertilization 81 kg ha⁻¹
+  • Rotation CP, Crop Maize: Planting date 19/03/19, Harvest date 12/08/19, I 222 mm, N fertilization 300 kg ha⁻¹, Organic N fertilization 81 kg ha⁻¹
+  • Rotation CAP, Crop Maize: Planting date 18/03/19, Harvest date 12/08/19, I 222 mm, N fertilization 300 kg ha⁻¹, Organic N fertilization 81 kg ha⁻¹
+  • Rotation BBCP, Crop Maize: Planting date 17/03/21, Harvest date 10/08/21, I 251 mm, N fertilization 222 kg ha⁻¹, Organic N fertilization 81 kg ha⁻¹
+  • Rotation BBCAP, Crop Maize: Planting date 17/03/21, Harvest date 10/08/21, I 251 mm, N fertilization 222 kg ha⁻¹, Organic N fertilization 81 kg ha⁻¹
+
+- **Relationships & Correlations:**
+  - Maize crops tend to have higher N fertilization and organic N fertilization compared to peanut and other crops.
+  - The irrigation values (I) vary significantly across different crops and rotations, with some crops like peanut having lower irrigation needs.
+  - There seems to be a pattern in fertilization practices based on crop type and rotation.
+
+- **Statistical Significance:** No explicit statistical measures (mean, SD, p-values, R², etc.) are provided in the table.
+
+### Comparisons:
+- **Different Treatments/Conditions:** 
+  - The table compares different crop rotations (PC, CP, CAP, BBCP, BBCAP) and their management practices.
+  - It highlights variations in planting and harvest dates, irrigation, and fertilization practices across these rotations.
+
+### Key Findings:
+- The table provides a comprehensive overview of crop management practices across different rotations.
+- It shows that maize crops generally receive higher levels of N fertilization and organic N fertilization compared to other crops like peanut.
+
+## Main Takeaway:
+The table details crop management practices across various rotations, highlighting differences in planting and harvest dates, irrigation, and fertilization practices for crops like peanut, maize, carrot, and bahiagrass.
+
+## Scientific Context:
+This data relates to soil health research by providing insights into how different crop rotations and management practices (such as irrigation and fertilization) can impact soil health parameters like nutrient cycling, soil structure, and microbial activity. Understanding these practices can help in developing sustainable agricultural systems that improve soil health over time.
+
+| Rotation   | Crop       | Planting date (d/m/y)   | Harvest date (d/m/y)   |   I (mm) |   N fertilization (kg ha -1 ) |   Organic N (broiler litter) fertilization (kg ha -1 ) |
+|:-----------|:-----------|:------------------------|:-----------------------|---------:|------------------------------:|-------------------------------------------------------:|
+| PC         | Peanut     | 16/05/19                | 30/09/19               |      197 |                             0 |                                                      0 |
+| PC         | Maize      | 12/03/20                | 10/08/20               |      226 |                           298 |                                                     81 |
+| PC         | Peanut     | 04/05/21                | 27/09/21               |      142 |                            17 |                                                      0 |
+| PC         | Maize      | 18/03/22                | 17/08/22               |      236 |                           252 |                                                      0 |
+| CP         | Maize      | 19/03/19                | 12/08/19               |      222 |                           300 |                                                     81 |
+| CP         | Peanut     | 13/05/20                | 25/09/20               |       13 |                            14 |                                                      0 |
+| CP         | Maize      | 17/03/21                | 10/08/21               |      251 |                           222 |                                                     81 |
+| CP         | Peanut     | 11/05/22                | 15/09/22               |       98 |                            17 |                                                      0 |
+| CAP        | Maize      | 18/03/19                | 12/08/19               |      222 |                           300 |                                                     81 |
+| CAP        | Carrot     | 24/10/19                | 09/04/20               |      213 |                           288 |                                                      0 |
+| CAP        | Peanut     | 14/05/20                | 06/10/20               |       13 |                            14 |                                                      0 |
+| CAP        | Maize      | 17/03/21                | 10/08/21               |      251 |                           222 |                                                     81 |
+| CAP        | Carrot     | 01/11/21                | 26/04/22               |      106 |                           297 |                                                      0 |
+| CAP        | Peanut     | 11/05/22                | 25/09/22               |       84 |                            17 |                                                      0 |
+| BBCP       | Bahiagrass | 18/04/19                | 06/01/20               |       42 |                           113 |                                                      0 |
+| BBCP       | Maize      | 17/03/21                | 10/08/21               |      251 |                           222 |                                                     81 |
+| BBCP       | Peanut     | 12/05/22                | 21/09/22               |       76 |                            17 |                                                      0 |
+| BBCAP      | Bahiagrass | 18/04/19                | 06/01/20               |       42 |                           113 |                                                      0 |
+| BBCAP      | Maize      | 17/03/21                | 10/08/21               |      251 |                           222 |                                                     81 |
+| BBCAP      | Carrot     | 01/11/21                | 26/04/22               |      106 |                           297 |                                                      0 |
+| BBCAP      | Peanut     | 13/05/22                | 26/09/22               |       76 |                            17 |                                                      0 |
+
+TABLE 2 Crop management practices across rotation.
+
+Rotation include: PC, peanut-maize; CP, maize-peanut; CAP, maize-carrot-peanut; BBCP, bahiagrass-bahiagrass-maize-peanut; BBCAP, bahiagrass-bahiagrass-maize-carrot-peanut.
+
+for soil texture and initial organic matter content was performed on 23 April 2018, while /uniFB01 nal organic matter content test was performed on 17 May 2022. Although soil organic matter content was measured, the results are reported as SOC values (Minasny and McBratney, 2018; Thompson, 2023).
+
+The soil aggregate stability test used a volumetric wet sieving method to measure the volume change before and after aggregate breakdown. A set volume of air-dried soil was placed in a 30-mesh concave sieve and immersed by hand in deionized water 20 times over 15 seconds to disintegrate water-sensitive particles. Remaining stable aggregates were then measured on a scanning grid, with accuracy to the nearest 0.25 cm in diameter. The soil was then dipped once more, and the aggregates were manually broken down with a small rubber spatula. Non-aggregate sand particles were subsequently measured on the surface-area grid. Water-stable aggregate calculation involved the difference between the initial surface area before dipping and the /uniFB01 nal area after the second dip, divided by the initial fresh surface area before dipping (Jemison et al., 2019). Soil samples for this test were collected on 17 May 2022.
+
+Bulk density and total porosity samples were gathered from six different depths at 15 cm intervals up to 90 cm, totaling 30 samples, with six from each rotation. Bulk density and total porosity were calculated using Equations 1 and 2, respectively.
+
+
+# 2.5 Soil moisture characteristics curve
+
+Soil core samples were collected at the end of a 4-year crop rotation cycle on 23 August 2022, using a cylindrical ring with a volume of 153.9 cm³. A total of 15 soil cores, three from each rotation, were taken from the top 15 cm depth to develop the soil moisture characteristics curve for coarse sandy soil in both conventional and sod-based rotation. The soil cores were subjected to varying air pressures (0 to ~-914 cm [H20]) in tempe cells, and the soil moisture at different pressures was recorded. The soil moisture characteristics curve was then /uniFB01 tted using the Van Genuchten model as outlined in Equation 3 where,
+
+q is soil water content (cm 3 cm -3 ), q s is saturated water content (cm 3 cm -3 ), q r is soil residual water content (cm 3 cm -3 ), n is a dimensionless pore size distribution measure, and m is a shape parameters, a is inverse of air entry suction (cm -1 ) ( a > 0), and h is the soil suction (cm of H20) (Van Genuchten, 1980). The initial estimates for these retention parameters were derived using the Rosetta Lite v 1.1 software (Schaap et al., 2001). It employs a neural network-based prediction method that utilizes the soil texture percentages (sand, silt, clay) and bulk density values to estimate the water retention characteristics of soils. In addition, Brooks and Corey model was also used to /uniFB01 t the soil water retention curve as shown in Equation 4 (Brooks and Corey, 1964) where, hd is air entry pressure (cm) and l is a dimensionless shape parameter. Moreover, left part of Equations 3 and 4 denote effective water saturation. Curve /uniFB01 tting was done using RETC, Version 6.02 (Van Genuchten et al., 1991). Oven dry weight was calculated by placing the soil in oven at 105°C for 24 hrs. Particle density was assumed to be 2.65 g cm -3 .
+
+
+# 2.6 Soil water balance
+
+Soil water balance accounts for the water entering, stored ( D S = q i -q i -1 ), and leaving the soil system. Inputs included precipitation (P) and irrigation (I), while outputs encompassed crop evapotranspiration (ETc, combined water loss through soil evaporation and plant transpiration), runoff (RO), and deep percolation (DP) beyond the root zone. In the context of /uniFB01 ne sandy soil, the upward movement of water through capillary action from the water table was considered to be minimal. Weather variables, including maximum and minimum temperature, maximum and minimum relative humidity, solar radiation, wind speed, and precipitation, were retrieved from the Florida Automated Weather Network (FAWN, 2022) station located at Live Oak, FL (30.305 N, -82.89876 W, elevation: 50 m) for the study years 2018-2022. Wind speed measured at 10-meter height by FAWN station were adjusted to 2-meter height. Precipitation was measured using the tipping bucket rain gauges with sampling frequency of 0.0254 cm and reporting frequency of 15 minutes. Irrigation (I) volumes were farm measured. Air temperature data was obtained from high-resolution measurements recorded by FAWN ' s Bandgap sensor. Growing Degree Days (GDD) were calculated by taking the difference between the daily average temperature and the speci /uniFB01 ed base temperature. The base temperatures applied were 10°C for maize, 13.3°C for peanuts, and 3.33°C for carrots (Fraisse and Paula-
+
+Moraes, 2018; Hochmuth et al., 2021). The soil moisture was monitored via time-series capacitance soil moisture probes (Teros 11, Meter group, Pullman WA). Sensors were installed at 15 different locations (3 per rotation) at 15 cm, 30 cm and 45 cm depths. The soil moisture content measurements were multiplied by corresponding soil depth intervals to calculate the soil moisture storage at each level. The change in soil moisture storage ( D S) was then computed by subtracting the initial soil water storage from the soil water storage measured after a 7 -10 day period. The growing season SWS was determined by taking the means of all SWS measurements throughout the growing season. Runoff was estimated using the NRCS Curve Number (CN) method, which accounts for land use, soil type, and antecedent moisture conditions (AMC) categorized as I, II, or III (NRCS, 1985).
+
+DPis the movement of water from the crop root zone into lower soil layers. This process occurs when the water applied surpasses the soil ' s holding, known as /uniFB01 eld capacity. DP was indirectly computed through soil water balance model, accounting for soil characteristics and moisture levels (Equation 5) where DPi represents the depth of deep percolation (mm) on day I, Ii indicates the depth of irrigation (mm) on day I, Pi is precipitation (mm) on day i, ROi denotes the depth of runoff (mm) from the soil surface on day i, fw is the fraction of soil that is moistened due to irrigation, ET c, i refers to the crop evapotranspiration (mm) on day I, and Dr,i -1 signi /uniFB01 es the total reduction in the crop root zone moisture (mm) by the end of day i-1 (Bryant et al., 1992).
+
+
+The model ' s inputs consisted of daily weather data (including air temperature, incoming shortwave radiation, relative humidity, wind speed, and precipitation), along with irrigation schedules, soil moisture levels, and cropand sitespeci /uniFB01 c information such as planting and maturity dates, soil characteristics, and maximum rooting depth. Using these inputs, the model calculates daily ETc and water balance within the crop root zone. This involves computing ETc by multiplying grassreference evapotranspiration (ETo) with the crop coef /uniFB01 cient (Kc) (Allen et al., 1998; Equation 6). The Kc values used in this study were also sourced from Allen et al. (1998).
+
+
+The (ETo) was determined using the FAO-56 Penman-Monteith equation as described by Allen et al. (1998) (Equation 7) as:
+
+
+where ( 0 : 408 /C2 D (Rn -G) D + g (1 + 0 : 34 u2 ) ) is radiation component and ( 900 g D + g (1+0 : 34 u2 )
+
+/C2 u2  (e s -e a ) T+273 ) is aerodynamic component, D is the slope of the saturation vapor pressure versus air temperature curve (kPa °C -1 ), Rn is the net radiation at the surface (MJ m -2 day -1 ); g is psychrometric coef /uniFB01 cient (kPa°C -1 ); G is soil heat /uniFB02 ux density (Wm -2 ) summed to be zero at daily time step, u 2 is wind speed at 2 m height (ms -1 ), e a is actual
+
+vapor pressure (kPa), and es saturation vapor pressure (kPa) and T is average daily air temperature (°C).
+
+
+# 2.7 Soil water balance interpretation
+
+This paper represents crop water productivity through two approaches: (i) WPC-ETc, calculated as the grain yield per square meter divided by ETc (Equation 8), and (ii) WP C-TWU, determined as the grain yield per square meter divided by the total water involved in crop production (TWU) (Equation 9; Viets, 1962; Ferna ́ ndez et al., 2020). At complete maturity, yield (Y) samples were hand-harvested from plots using speci /uniFB01 c standard dimensions: 6 m by 1.3 m for carrots, 2 rows each 6 m long and 1.5 m wide for peanuts, and 2 rows each 5.3 m long for maize. Carrots were harvested based on a target date recommended by local growers to achieve the optimal size range speci /uniFB01 c to the ' Maverick ' variety. As the anticipated harvest date neared, a small sample of carrots was taken to check the percentage meeting the marketable length and width standards, con /uniFB01 rming the harvest timing. The remaining crop areas were then harvested with appropriate machinery: combine harvesters for maize, root crop harvesters for carrots, and peanut diggers for peanuts. The yield samples were adjusted at 15.5% and 10.5% standard moisture content for maize and peanuts, respectively.
+
+
+# 2.8 Statistical analysis
+
+Statistical analysis was conducted using one-way Analysis of Variance (ANOVA) via the ' aov ' function in Rstudio Version 2023.12.1 to identify signi /uniFB01 cant differences among rotational productions at a 0.05 signi /uniFB01 cance level. Signi /uniFB01 cant /uniFB01 ndings from ANOVA were further explored using Tukey ' s Honest Signi /uniFB01 cant Difference (Tukey HSD) test, implemented through the ' agricolae ' package in R. The /uniFB01 tness of soil water retention models was evaluated root mean square error (RMSE, Equation 10) normalized root means square error (nRMSE, Equation 11) and Nash Sutcliffe model ef /uniFB01 ciency coef /uniFB01 cient (NSE, Equation 12) where, n is number of observations, x is the observed values, /C22 x is the average of observed values, and x ′ is the /uniFB01 tted values.
+
+
+# 3 Results and discussion
+
+
+# 3.1 Weather
+
+Table 3 provides climatic data across various crop rotation from 2019-2022 providing insights into environmental in /uniFB02 uences on crop growth and management. Four growing seasons had contrasting climatic conditions. Throughout the crop growing seasons (March to September) during the study, minimum air temperatures ranged from a slight sub-freezing -0.4°C to 2.6°C, while maximum temperatures varied between a warm 35.2°C and an occasional high of 38.3°C. Mean air temperatures remained stable, ranging from 23.6°C to 24.3°C. Growing degree days (GDD) also displayed notable variability. Over the four years, maize accumulated GDD values from 1986°C in the 2021 growing season to 2172°C in 2022, with an average of 2084°C and a standard deviation of 89°C. The highest recorded temperature of 38.3°C in 2022 coincided with maize ' s peak GDD. For peanuts, GDD ranged from 1720°C in the 2020 season to 1789°C in 2021, averaging 1754°C with a standard deviation of 29°C. For carrots, GDD values ranged from 2281°C in the 2019/20 season to 2350°C in 2021/22.
+
+Additionally, over the study years wind speed (U2) varied from 1.4 to 1.9ms -1 , solar radiation (Rs) spanned from 6 to 13 MJ m -2 d -1 , and relative humidity /uniFB02 uctuated with minimums from 50% to 62% and maximums from 93% to 97%. The year 2021 experienced the most rainfall, with a total of 1417 mm, while 2020 followed with 1365 mm -both years surpassing the historical annual average of 1243 mm, calculated from 2003 to 2022 (Figure 2A). The years 2019 and 2022 received less, with totals of 1091 mm and 1130 mm, respectively. Notably, the peak daily rainfall occurred on 7 June 2020, with a record 205.2 mm.
+
+The grass-based reference evapotranspiration (ET0) graph (Figure 2B) for the years 2019 to 2022, calculated using the FAO56 Penman-Monteith equation, illustrates the daily /uniFB02 uctuations and cumulative trends of ET0. ET0 values were typically lower in the early and late parts of the season (i.e., winter) and higher in midseason. While the maximum and minimum ETo values varied across the three growing seasons, the seasonal average values remained consistent. In 2019, the total ET0 reached 1303 mm, which was the highest among the four years, suggesting a greater demand for water due to atmospheric conditions conducive to evapotranspiration. The year 2021 had the lowest ET0, totaling 1160 mm, indicating lower evaporative demand. The years 2020 and 2022 had total ET0 values of 1262 mm and 1269 mm, respectively, re /uniFB02 ecting moderate evaporative demands. The average ETo (across four years) of 641 mm (SD = 50 mm), 596 mm (SD = 22 mm) and 436 m (SD = 23 mm) was observed in maize, peanut, and carrot growing season.
+
+
+# 3.2 Soil properties
+
+
+# 3.2.1 Volumetric soil aggregate stability
+
+Volumetric soil aggregate stability measurements taken on 17 May 2022 at 0-90 cm soil depths is presented in Figure 3A. In this
+
+
+### Table 3 (page 8)
+**Caption:** TABLE 3 Average weather conditions and crop management practices across rotation.
+![Table 3](tables/table_003_p8.png)
+<!-- name: table_003_p8 -->
+
+Analysis of: table_003_p8.png
+================================================================================
+
+## Content Type: Table
+
+## Short Description:
+The table presents average weather conditions and crop management practices across different crop rotations. It includes various parameters such as temperature, humidity, solar radiation, wind speed, precipitation, evapotranspiration, and growing degree days for different crops and rotation systems.
+
+## Detailed Analysis:
+
+### Table Purpose:
+The table aims to compare and provide detailed information on weather conditions and crop management practices across different crop rotations, including PC, CP, CAP, BBCP, and BBCAP.
+
+### Structure:
+- **Column Headers:**
+  - Rotation: Type of crop rotation
+  - Crop: Type of crop
+  - $T_{min}$ (°C): Minimum temperature
+  - $T_{max}$ (°C): Maximum temperature
+  - $RH_{min}$ (%): Minimum relative humidity
+  - $RH_{max}$ (%): Maximum relative humidity
+  - $R_n$ (MJ $m^{-2}d^{-1}$): Net solar radiation
+  - $U_2$ (m $s^{-1}$): Wind speed at 2 meters
+  - $P$ (mm): Precipitation
+  - $ET_o$ (mm): Reference evapotranspiration
+  - GDD (°C): Growing degree days
+
+- **Row Labels:** Each row represents a specific crop within a particular rotation system.
+
+### Numerical Data & Relationships:
+- **Key Numerical Values:**
+  • $T_{min}$: 2°C (Peanut in BBCAP), 22°C (Peanut in PC, CP, CAP, BBCP, BBCAP)
+  • $T_{max}$: 33°C (Peanut in PC, BBCP, BBCAP), 32°C (Peanut in CP, CAP)
+  • $RH_{min}$: 50% (Maize in PC, CAP), 53% (Maize in PC)
+  • $RH_{max}$: 97% (Peanut in PC, CP, BBCP, BBCAP), 96% (Multiple entries)
+  • $R_n$: 6 (Carrot in CAP), 13 (Multiple entries)
+  • $U_2$: 1.4 (Peanut in CP, BBCP, BBCAP), 1.9 (Carrot in CAP)
+  • $P$: 382 (Carrot in CAP), 2234 (Bahiagrass in BBCP, BBCAP)
+  • $ET_o$: 410 (Carrot in CAP), 2212 (Bahiagrass in BBCP, BBCAP)
+  • GDD: 1632 (Peanut in CP), 7689 (Bahiagrass in BBCP, BBCAP)
+
+- **Relationships & Correlations:**
+  - Peanut and Maize have relatively consistent temperature and humidity requirements across different rotations.
+  - Carrot has the lowest $T_{min}$ and $T_{max}$ among all crops.
+  - Bahiagrass in BBCP and BBCAP has the highest precipitation and $ET_o$.
+
+- **Statistical Significance:** Not explicitly provided.
+
+## Comparisons:
+- **Crop Comparison:** Peanut generally has higher $T_{min}$ and $T_{max}$ compared to Maize and Carrot.
+- **Rotation Comparison:** PC and CP rotations have similar weather conditions for the same crops, while CAP, BBCP, and BBCAP show variations, especially with the inclusion of Carrot and Bahiagrass.
+
+## Key Findings:
+- The table provides comprehensive data on weather conditions and crop management practices across different rotations.
+- Bahiagrass in BBCP and BBCAP stands out with the highest GDD and significant precipitation and $ET_o$.
+
+## Scientific Context:
+This data is crucial for soil health research as it provides insights into how different crop rotations and weather conditions affect soil parameters such as temperature, moisture levels, and nutrient cycling. Understanding these relationships can help in optimizing crop management practices for better soil health and productivity. Parameters like $T_{min}$, $T_{max}$, $RH_{min}$, $RH_{max}$, $R_n$, $U_2$, $P$, $ET_o$, and GDD are essential in assessing soil microclimate conditions and their impact on soil biota and fertility.
+
+| Rotation   | Crop       |   T min (°C) |   T max (°C) |   RH min (%) |   RH max (%) |   R n (MJ m - 2 d -1 ) |   U 2 (m s - 1 ) |   P (mm) |   ET o (mm) |   GDD (°C) |
+|:-----------|:-----------|-------------:|-------------:|-------------:|-------------:|-----------------------:|-----------------:|---------:|------------:|-----------:|
+| PC         | Peanut     |           22 |           33 |           55 |           97 |                     13 |              1.5 |      518 |         642 |       1745 |
+| PC         | Maize      |           19 |           31 |           53 |           94 |                     12 |              1.8 |      762 |         694 |       2147 |
+| PC         | Peanut     |           21 |           31 |           62 |           97 |                     11 |              1.6 |      813 |         594 |       1789 |
+| PC         | Maize      |           19 |           31 |           54 |           96 |                     13 |              1.6 |      511 |         699 |       2172 |
+| CP         | Maize      |           19 |           31 |           50 |           95 |                     13 |              1.7 |      572 |         677 |       2032 |
+| CP         | Peanut     |           22 |           32 |           62 |           96 |                     12 |              1.6 |      801 |         588 |       1720 |
+| CP         | Maize      |           19 |           30 |           58 |           96 |                     11 |              1.8 |      716 |         595 |       1986 |
+| CP         | Peanut     |           22 |           33 |           59 |           97 |                     12 |              1.4 |      594 |         567 |       1632 |
+| CAP        | Maize      |           19 |           31 |           50 |           95 |                     12 |              1.7 |      573 |         680 |       2037 |
+| CAP        | Carrot     |           11 |           23 |           55 |           93 |                      6 |              1.9 |      382 |         410 |       2281 |
+| CAP        | Peanut     |           22 |           32 |           62 |           96 |                     12 |              1.6 |      801 |         582 |       1712 |
+| CAP        | Maize      |           19 |           30 |           58 |           96 |                     11 |              1.8 |      716 |         595 |       1986 |
+| CAP        | Carrot     |           10 |           23 |           54 |           95 |                      7 |              1.8 |      510 |         449 |       2350 |
+| CAP        | Peanut     |           22 |           33 |           59 |           97 |                     12 |              1.4 |      597 |         607 |       1751 |
+| BBCP       | Bahiagrass |           17 |           28 |           57 |           95 |                      9 |              1.7 |     2234 |        2212 |       7689 |
+| BBCP       | Maize      |           19 |           30 |           58 |           96 |                     11 |              1.8 |      716 |         595 |       1986 |
+| BBCP       | Peanut     |           22 |           33 |           60 |           97 |                     12 |              1.4 |      597 |         585 |       1699 |
+| BBCAP      | Bahiagrass |           17 |           28 |           57 |           95 |                      9 |              1.7 |     2234 |        2212 |       7689 |
+| BBCAP      | Maize      |           19 |           30 |           58 |           96 |                     11 |              1.8 |      716 |         595 |       1986 |
+| BBCAP      | Carrot     |           10 |           23 |           54 |           95 |                      7 |              1.8 |      510 |         449 |       2350 |
+| BBCAP      | Peanut     |            2 |           33 |           59 |           97 |                     12 |              1.4 |      597 |         601 |       1746 |
+
+TABLE 3 Average weather conditions and crop management practices across rotation.
+
+Rotation include PC, peanut-maize; CP, maize-peanut; CAP, maize-carrot-peanut; BBCP, bahiagrass-bahiagrass-maize-peanut; BBCAP, bahiagrass-bahiagrass-maize-carrot-peanut.
+
+study, the average soil aggregate stability was 4% (SD = 2%) for the PC rotation, 4% (SD = 2%) for the CP rotation, 5% (SD = 3%) for the CAP rotation, 9% (SD = 3%) for the BBCP rotation, and 8% (SD = 4%) for the BBCAP rotation. On average, the BBCP rotation had 125% higher soil aggregate stability compared to the maize-peanut (CP) rotation, and the BBCAP rotation had 60% higher soil aggregate stability compared to the maize-carrot-peanut (CAP) rotation. However, it is important to note that adding two years of bahiagrass to the conventional rotation did not change the soil aggregate stability category from the very low category (<15%) (Jemison et al., 2019). The aggregate stability generally increased at greater depths, particularly in the BBCP and BBCAP rotation. For instance, at 15 cm, the measurements are relatively low and consistent, but by 90 cm, the BBCP frequently shows higher values, indicating stable soil aggregates. The BBCP rotation consistently shows high stability, peaking in the 60 cm depth range with a value of 12.25%, while the BBCAP rotation also indicates high stability, particularly at the 45 cm range with a value of 10%. The one-way anova and subsequent post hoc test results for the aggregate stability are represented in alphabetical letters in Figure 3A. The p-value (ranging from 0.0027 to 0.0411)
+
+was signi /uniFB01 cant in all but the 75-90 cm depth range, suggesting that at the end of 4-year cycle of conventional vs sod-based rotation a statistical distinction was noticed in aggregate stability. This distinction might be due to the fact that perennial grasses such as bahiagrass can develop a deep rooting system. As roots decompose, they create channels in the soil, which contribute bene /uniFB01 cially to soil structure and overall health (Elkins et al., 1977; Wright et al., 2004). Degens et al. (1996) reported an increase in water stable aggregates in sandy soil with increasing length of saprophytic and mycorrhizal hyphae in a glasshouse experiment. Iheshiulo et al. (2024a) evaluated six crop rotation and their impact on aggregate stability across three sites in the Canadian prairies over four years. Signi /uniFB01 cant improvements in aggregate stability were observed at Lethbridge and Swift Current. At Lethbridge, the soil healthenhanced rotation achieved an aggregate stability of 78%, notably higher than other rotation. In contrast, at Swift Current, the highrisk and high-reward rotation led with an aggregate stability of 39%, surpassing the pulse/oilseed intensi /uniFB01 ed and market-driven rotation. No signi /uniFB01 cant differences in aggregate stability were noted at Scott, indicating that soil texture and climate heavily in /uniFB02 uence aggregate stability responses. These results emphasize the bene /uniFB01 cial effects of
+
+FIGURE 2
+
+Daily and seasonal variation of (A) precipitation and (B) reference evapotranspiration (ETo) during 2019, 2020, 2021 and 2022 at NFREC, Live Oak, FL.
+
+including diverse pulse crops (legumes) in rotation to enhance soil stability.
+
+
+# 3.2.2 Soil texture, bulk density and total porosity
+
+Soil bulk density varied from 1.29 g cm -3 (at 75 -90 cm depth interval) to 1.47 g cm -3 (at 45 -60 cm depth interval). Likewise, porosity varied from 44.4% (at 45 -60 cm depth interval) to 51% (at 75 -90 cm depth interval). Average soil bulk density and average total porosity from 0 to 90 cm depth across rotational production varied from 1.35 to 1.41 g cm -3 and 46.6 to 48.9%, respectively (Figure 3B) with no signi /uniFB01 cant differences (F-value = 1.65; and pvalue = 0.185). Likewise, no signi /uniFB01 cant differences were detected in bulk density (1.4 g cm -3 ) and total porosity (48%) between conventional and sod-based rotation (all depths combined). NRCS (2024) reported bulk density values are 1.5 g cm -3 for Hurricane, Albany, and Chipley soils, primarily linked to the
+
+CAP, BBCP, and BBCAP rotation, and 1.45 g cm -3 for the Blanton-Foxworth-Alpin complex, associated with the PC and CP rotation. These values, which are same across all depths, on an average were 7.1% and 3.6% higher, respectively, than the /uniFB01 eldmeasured bulk density values for the corresponding soil types.
+
+Table 1 presents variation of soil texture, bulk density and SOC among various soil types involved in the study. The Blanton, Foxworth-Alpin soil under maize-peanut (CP) rotation is composed of 94.8% sand with a bulk density of 1.4 g cm ³, porosity of 47.9%, and SOC of 0.5%. Meanwhile, the Hurricane, Albany, and Chipley soils under maize-carrot-peanut (CAP) rotation maintain similar bulk density and slightly higher porosity of 48.7%, with SOC at 0.55%. The Hurricane, Albany, and Chipley soils in bahiagrass-bahiagrass-maize-peanut (BBCP) rotation had 94.6% sand, 3% silt and 2.4% clay leading to porosity of 49.8% and bulk density of 1.4 g cm -3 . The SOC slightly
+
+
+### Figure 2 (page 9)
+![Figure 2](figures/figure_002_p9.png)
+<!-- name: figure_002_p9 -->
+
+Analysis of: figure_002_p9.png
+================================================================================
+
+## Content Type: Figure
+
+## Short Description:
+The image presents two sub-figures, A and B, which display daily and cumulative rainfall and evapotranspiration (ET) data over four years (2019-2022). 
+
+## Detailed Analysis:
+
+### Figure A: Rainfall Data
+- **Figure Type**: Line graph
+- **Components**:
+  - **X-axis**: Julian Date (1-365)
+  - **Y-axis (left)**: Rainfall (mm d⁻¹)
+  - **Y-axis (right)**: Cumulative Rainfall (mm)
+  - **Legend**: 
+    - Daily P 2019 (blue)
+    - Daily P 2020 (orange)
+    - Daily P 2021 (green)
+    - Daily P 2022 (black)
+    - Cumulative P 2019 (blue)
+    - Cumulative P 2020 (orange)
+    - Cumulative P 2021 (green)
+    - Cumulative P 2022 (black)
+
+- **Data Points & Trends**:
+  - Daily rainfall shows significant variability across years, with some days having high rainfall (>50 mm d⁻¹) and others having little to no rainfall.
+  - Cumulative rainfall increases steadily over time, with 2021 showing the highest cumulative rainfall (~2300 mm) and 2019 showing the lowest (~1600 mm).
+
+- **Main Message**: 
+  - This figure demonstrates the variability in daily and cumulative rainfall across four years, highlighting differences in precipitation patterns.
+
+### Figure B: Evapotranspiration (ET) Data
+- **Figure Type**: Scatter plot with line graph
+- **Components**:
+  - **X-axis**: Julian Date (1-365)
+  - **Y-axis (left)**: ET (mm d⁻¹)
+  - **Y-axis (right)**: Cumulative ET (mm)
+  - **Legend**: 
+    - Daily ET 2019 (blue dots)
+    - Daily ET 2020 (orange dots)
+    - Daily ET 2021 (green dots)
+    - Daily ET 2022 (black dots)
+    - Cumulative ET 2019 (blue line)
+    - Cumulative ET 2020 (orange line)
+    - Cumulative ET 2021 (green line)
+    - Cumulative ET 2022 (black line)
+
+- **Data Points & Trends**:
+  - Daily ET shows a bell-shaped curve, peaking around Julian Day 150-200 with values up to ~8 mm d⁻¹.
+  - Cumulative ET increases over time, with 2020 and 2022 showing similar trends and 2019 and 2021 slightly lower.
+
+- **Main Message**: 
+  - This figure illustrates the seasonal variability in daily ET and the cumulative ET over four years, highlighting patterns in water loss.
+
+## Main Takeaway:
+The figures demonstrate the interannual variability in rainfall and ET, which are crucial for understanding soil health, water balance, and agricultural management.
+
+## Scientific Context:
+This data is relevant to soil health research as it provides insights into water availability (rainfall) and water loss (ET), which are critical for assessing soil moisture, erosion risk, and crop water requirements. Parameters like these can influence soil pH, nutrient cycling, microbial activity, and soil structure.
+
+
+# FIGURE 3
+
+Soil properties variation with depths from 0 to 90 cm across rotational production. (A) Volumetric soil aggregate stability (%) [soil was sampled on 17/05/2022] and (B) average soil bulk density (g cm -3 ), and average total porosity (%) [soil was sampled on 23/08/2022]. Rotation include: PC, peanut-maize; CP, maize-peanut; CAP, maize-carrot-peanut; BBCP, bahiagrass-bahiagrass-maize-peanut; BBCAP, bahiagrass-bahiagrass-maizecarrot-peanut.
+
+increased to 0.56%. For the bahiagrass-bahiagrass-maize-carrotpeanut (BBCAP) rotation under the Hurricane, Albany and Chipley soils, SOC was reported to be 0.83% while porosity was 47.1%. Iheshiulo et al. (2024b) reported non-signi /uniFB01 cant differences for bulk density and total porosity from 5 to 20 cm soil depths among seven different crop rotation across three sites. In contrast to this study, Long and Elkins (1983) observed a sevenfold increase in pore volume for pores larger than 1.0 mm in the dense soil layers below the plow depth when comparing cotton grown after three years of continuous bahiagrass sod to continuous cotton. They attributed the increase in pore volume to the ability of bahiagrass roots to penetrate the dense soil layer; as these roots decayed, they left behind pores large enough to facilitate cotton root growth.
+
+
+# 3.2.3 Soil organic carbon (SOC)
+
+In southeast US, soil is generally low in the SOC. Continuous row cropping for many years has further degraded these soils. SOC in /uniFB02 uences various aspects of soil quality, including enhancing soil aggregation, increasing water in /uniFB01 ltration, serving as a reservoir for slow nutrient release, and supplying substrates for soil organisms such as microbes and earthworms. The /uniFB01 ndings indicate that concentrations of SOC are typically greater in the upper soil layers and tend to decrease with increasing soil depth (Figure 4). During the course of this study, no signi /uniFB01 cant differences in the percentage of SOC was observed between conventional and sod-based crop rotation, with one exception. In the /uniFB01 nal sampling (17 May 2022), at the topmost 15 cm of the soil layer, the BBCAP rotation showed a notably higher percentage of SOC at 0.83%, which was statistically
+
+
+### Figure 3 (page 10)
+![Figure 3](figures/figure_003_p10.png)
+<!-- name: figure_003_p10 -->
+
+Analysis of: figure_003_p10.png
+================================================================================
+
+## Content Type: Figure
+
+## Short Description:
+The image presents two graphs related to soil health research. Graph A is a bar chart illustrating the aggregate stability at different soil depths and under various treatments. Graph B is a line graph showing the relationship between soil depth and bulk density/porosity.
+
+## Detailed Analysis:
+
+### Graph A: Aggregate Stability
+
+- **Figure Type**: Bar chart
+- **Components**:
+  - X-axis: Soil depth (cm), ranging from 15 cm to 90 cm
+  - Y-axis: Aggregate stability (%)
+  - Legend: PC (blue), CP (green), CAP (yellow), BBCP (red), BBCAP (purple)
+  - Annotations: Error bars, significance markers (letters indicating significant differences)
+
+#### Data Points & Trends:
+- **15 cm**:
+  • PC: ~4.5%
+  • CP: ~5%
+  • CAP: ~2.5%
+  • BBCP: ~6%
+  • BBCAP: ~7%
+- **30 cm**:
+  • PC: ~5%
+  • CP: ~4%
+  • CAP: ~4%
+  • BBCP: ~10%
+  • BBCAP: ~8%
+- **45 cm**:
+  • PC: ~4%
+  • CP: ~4%
+  • CAP: ~4%
+  • BBCP: ~14%
+  • BBCAP: ~12%
+- **60 cm**:
+  • PC: ~6%
+  • CP: ~4%
+  • CAP: ~5%
+  • BBCP: ~16%
+  • BBCAP: ~9%
+- **75 cm**:
+  • PC: ~7%
+  • CP: ~5%
+  • CAP: ~7%
+  • BBCP: ~12%
+  • BBCAP: ~12%
+- **90 cm**:
+  • PC: ~7%
+  • CP: ~6%
+  • CAP: ~10%
+  • BBCP: ~14%
+  • BBCAP: ~13%
+
+- **Trends**: Aggregate stability generally increases with soil depth for most treatments, with BBCP and BBCAP showing the highest stability across depths.
+- **Statistical Info**: Error bars indicate variability, and letters (a, b, c) denote significant differences between treatments at each depth.
+
+### Graph B: Bulk Density & Porosity
+
+- **Figure Type**: Line graph
+- **Components**:
+  - X-axis: Soil depth (cm), ranging from 15 cm to 90 cm
+  - Y-axis (left): Bulk density (g cm³)
+  - Y-axis (right): Porosity (%)
+  - Legend: Bulk density (red), Porosity (blue)
+
+#### Data Points & Trends:
+- **Bulk Density**:
+  • 15 cm: ~1.38 g cm³
+  • 30 cm: ~1.39 g cm³
+  • 45 cm: ~1.41 g cm³
+  • 60 cm: ~1.40 g cm³
+  • 75 cm: ~1.37 g cm³
+  • 90 cm: ~1.35 g cm³
+- **Porosity**:
+  • 15 cm: ~47.5%
+  • 30 cm: ~47%
+  • 45 cm: ~46%
+  • 60 cm: ~47%
+  • 75 cm: ~48.5%
+  • 90 cm: ~49%
+
+- **Trends**: Bulk density peaks at 45 cm depth and decreases thereafter, while porosity decreases initially and then increases with soil depth.
+- **Relationships**: Inverse relationship between bulk density and porosity.
+
+## Main Takeaway:
+The graphs illustrate how different treatments affect soil aggregate stability at various depths and how bulk density and porosity change with soil depth. BBCP and BBCAP treatments show higher aggregate stability, and there is a clear inverse relationship between bulk density and porosity.
+
+## Scientific Context:
+This data is crucial for soil health research, as aggregate stability, bulk density, and porosity are key indicators of soil structure and health. Changes in these parameters can affect water infiltration, root growth, and overall soil fertility.
+
+FIGURE 4
+
+Soil organic carbon (SOC) variation with depths from 0 to 90 cm across rotational production [Soil was sampled on 23/04/2018 initially and /uniFB01 nal sampling was done on 17/05/2022]. (A) Initial and (B) /uniFB01 nal SOC (%). Rotation include: PC, peanut-maize; CP, maize-peanut; CAP, maize-carrotpeanut; BBCP, bahiagrass-bahiagrass-maize-peanut; BBCAP, bahiagrass-bahiagrass-maize-carrot-peanut.
+
+signi /uniFB01 cant (p = 0.0476) compared to the other rotation systems (Figure 4B). Furthermore, by the end of the study, the percentage of SOC in the soil pro /uniFB01 le had increased by 42% (signi /uniFB01 cantly higher) in BBCAP, 22% in BBCP, 16% in CAP, while it had decreased by 27% in the PC/CP rotation (Figures 4A, B). Wick et al. (2017) mentioned increase in aggregate stability and SOC when perennial grass is used as cover crops. It is important to note that building up the SOC content is a long-term process. Even with the adoption of the best conservative practices, SOC content increases at a slow rate of 0.1-
+
+0.2% only per year (Martin, 2003). Iheshiulo et al. (2024a) examined the impact of alternative versus conventional cereal-fallow or cerealdominated rotation and reported no signi /uniFB01 cant changes in soil organic carbon concentrations despite integrating pulses into rotation with reduced N fertilizer application. West and Post (2002) observed that signi /uniFB01 cant shifts in soil organic carbon and N typically appear within 5 to 10 years and stabilize into a new equilibrium over 15 to 20 years. Conversely, 20 years no till study by Lemke et al. (2012) reported no signi /uniFB01 cant increases.
+
+
+### Figure 4 (page 11)
+![Figure 4](figures/figure_004_p11.png)
+<!-- name: figure_004_p11 -->
+
+Analysis of: figure_004_p11.png
+================================================================================
+
+## Content Type: Figure
+
+## Short Description:
+The image presents two line graphs, labeled A and B, illustrating the soil organic carbon percentage at different depths and treatments. Graph A shows the initial soil organic carbon levels on 04/23/2018, while Graph B displays the final soil organic carbon levels on 05/17/2022.
+
+## Detailed Analysis:
+
+### Figure A: Initial Soil Organic Carbon (%) - Sampling date: 04/23/2018
+- **Axes**: 
+  - X-axis: Soil depth (cm), range: 15 to 90 cm
+  - Y-axis: Soil organic carbon (%), range: 0.05 to 1.05%
+- **Data Series**: 
+  - PC (blue, x-markers)
+  - CP (orange, circle-markers)
+  - CAP (green, triangle-markers)
+  - BBCP (green, square-markers)
+  - BBCAP (blue, diamond-markers)
+- **Notable Values**:
+  - At 15 cm depth:
+    • PC: ~1.05%
+    • CP: ~0.65%
+    • CAP: ~0.45%
+    • BBCP: ~0.65%
+    • BBCAP: ~0.85%
+  - At 90 cm depth:
+    • PC: ~0.15%
+    • CP: ~0.10%
+    • CAP: ~0.20%
+    • BBCP: ~0.10%
+    • BBCAP: ~0.15%
+- **Trends**: 
+  - All treatments show a decreasing trend in soil organic carbon with increasing soil depth.
+- **Statistical Info**: No explicit statistical information (e.g., error bars, p-values) is provided.
+
+### Figure B: Final Soil Organic Carbon (%) - Sampling date: 05/17/2022
+- **Axes**: 
+  - X-axis: Soil depth (cm), range: 15 to 90 cm
+  - Y-axis: Soil organic carbon (%), range: 0.05 to 1.05%
+- **Data Series**: 
+  - PC (blue, x-markers)
+  - CP (orange, circle-markers)
+  - CAP (green, triangle-markers)
+  - BBCP (green, square-markers)
+  - BBCAP (blue, diamond-markers)
+- **Notable Values**:
+  - At 15 cm depth:
+    • PC: ~0.85%
+    • CP: ~0.50%
+    • CAP: ~0.55%
+    • BBCP: ~0.50%
+    • BBCAP: ~0.85%
+  - At 90 cm depth:
+    • PC: ~0.15%
+    • CP: ~0.15%
+    • CAP: ~0.15%
+    • BBCP: ~0.15%
+    • BBCAP: ~0.20%
+- **Trends**: 
+  - All treatments show a decreasing trend in soil organic carbon with increasing soil depth.
+- **Statistical Info**: No explicit statistical information (e.g., error bars, p-values) is provided.
+
+## Main Takeaway:
+The graphs illustrate the changes in soil organic carbon levels over time (from 2018 to 2022) at various soil depths and under different treatments. Generally, soil organic carbon decreases with increasing soil depth, with some treatments showing higher carbon levels than others.
+
+## Scientific Context:
+This data is relevant to soil health research as it tracks changes in soil organic carbon, a critical indicator of soil fertility and carbon sequestration potential. The different treatments (PC, CP, CAP, BBCP, BBCAP) likely represent various agricultural practices or amendments, and their impacts on soil organic carbon levels are compared. Understanding these changes can inform sustainable agricultural practices and soil management strategies.
+
+
+# 3.2.4 Soil moisture characteristics curve
+
+An overview of soil water retention parameters for various soil types measured on 23 August 2022, from top 15 cm of soil surface across four different rotational production is presented in Figure 5, Tables 4, 5. Field capacity (FC) values (Figure 5) varied across different crop rotation and soil types, re /uniFB02 ecting how agricultural practices in /uniFB02 uence soil water retention. For the maize-peanut rotation in the Blanton, Foxworth-Alpin soil, the Van Genuchten model estimated FC at 7.9%, while the Brooks and Corey model estimated at 7.6%. The maize-carrot-peanut rotation in the Hurricane, Albany and Chipley FC values estimated at 10.7% and 10.1% for the Van Genuchten and Brooks and Corey models, respectively. The precision of these models is evidenced by the /uniFB01 t metrics provided in Tables 4, 5, including RMSE, NRMSE, and NSE, all of which con /uniFB01 rm the robustness of the models with NSE values very close to 1. When compared with the Natural Resources Conservation Service (NRCS) web soil survey values, the FC values for Blanton, Foxworth-Alpin soil and Hurricane, Albany and Chipley FC values were approximately 34% and 41% higher. An increase in FC was observed in the bahiagrass-bahiagrass-maize-peanut rotation with 13.4% for Van Genuchten and 13.3% for Brooks and Corey, which can be attributed to changes in soil structure and organic matter content. Lastly, the bahiagrass-bahiagrass-maize-carrot-peanut rotation ' s FC was measured at 11.1% and 11.2% for Van Genuchten and Brooks and Corey, respectively, indicating a moderately high water retention capability.
+
+Onaverage, including two years of bahiagrass in a maize-peanut rotation led to a 72% increase in /uniFB01 eld capacity (FC) compared to the conventional rotation. However, when carrots are added to the standard maize-peanut system, the in /uniFB02 uence of bahiagrass on FC diminishes, showing only a 7% increase. Carrot planting typically involves chisel plowing, keyline plowing, or broad forking to a depth of 12 -20 inches, which helps create deep channels for root development. Establishing a /uniFB01 ne seedbed is essential, as the small
+
+
+### Figure 5 (page 12)
+![Figure 5](figures/figure_005_p12.png)
+<!-- name: figure_005_p12 -->
+
+Analysis of: figure_005_p12.png
+================================================================================
+
+## Content Type: Figure
+
+## Short Description:
+The image presents a series of four graphs illustrating the relationship between soil suction and volumetric water content for two soil samples (CAP and BBCAP) using two different models: Van Genuchten and Brooks and Corey. Each graph compares observed data with fitted curves for both samples.
+
+## Detailed Analysis:
+
+### Figure Type:
+- The image contains four line graphs.
+
+### Components:
+- **X-axis**: Soil Suction (cm[H2O]), ranging from 0 to 900.
+- **Y-axis**: Volumetric Water content (cm³ cm⁻³), ranging from 0.00 to 0.50.
+- **Legend**: 
+  - Observed-CAP (blue diamonds)
+  - Fitted-CAP (green dashed line)
+  - Observed-BBCAP (orange circles)
+  - Fitted-BBCAP (black dashed line)
+
+### Data Points & Trends:
+- **Van Genuchten Model (Top Left)**:
+  - FCₚₚ = 7.9% for BBCAP
+  - FCₚₚ = 13.4% for CAP
+  - Trend: Volumetric water content decreases as soil suction increases, with a sharp decline at lower suctions and a plateau at higher suctions.
+
+- **Brooks and Corey Model (Top Right)**:
+  - FCₚₚ = 7.6% for BBCAP
+  - FCₚₚ = 13.3% for CAP
+  - Trend: Similar to Van Genuchten, with a rapid decrease in volumetric water content at low suctions and a gradual approach to a plateau.
+
+- **Van Genuchten Model (Bottom Left)**:
+  - FCₚₚ = 10.7% for CAP
+  - FCₚₚ = 11.1% for BBCAP
+  - Trend: Volumetric water content decreases with increasing suction, with a more gradual decline compared to the top graphs.
+
+- **Brooks and Corey Model (Bottom Right)**:
+  - FCₚₚ = 10.1% for CAP
+  - FCₚₚ = 11.2% for BBCAP
+  - Trend: A sharp decrease in volumetric water content at low suctions, followed by a more gradual decline.
+
+### Statistical Information:
+- No explicit statistical measures (e.g., R², p-values) are provided in the graphs.
+
+### Main Message:
+The graphs demonstrate the relationship between soil suction and volumetric water content for two soil samples using two different models. The Van Genuchten and Brooks and Corey models both fit the observed data well, but with slight variations in the fitted curves and field capacity (FC) values for each soil sample.
+
+### Scientific Context:
+This analysis relates to soil health research by characterizing soil water retention curves, which are essential for understanding soil hydraulic properties. These properties influence water availability to plants, soil aeration, and susceptibility to erosion. The field capacity (FC) values provided indicate the volumetric water content at specific soil suction values, which are critical for irrigation management and soil moisture monitoring. 
+
+## Main Takeaway:
+The image illustrates the application of the Van Genuchten and Brooks and Corey models to predict soil water retention characteristics for two soil samples, highlighting the differences in model fits and soil properties. 
+
+## Key Findings:
+- The Van Genuchten and Brooks and Corey models both describe the soil water retention curves well.
+- The CAP soil sample generally has a higher volumetric water content at the same suction values compared to the BBCAP sample.
+- Field capacity values (FC) vary slightly between the two models for each soil sample.
+
+FIGURE 5
+
+Soil moisture characteristic curve measured on 23/08/2022 for top 15 cm of soil surface on various rotational production using Van Genuchten and Brooks and Corey /uniFB01 tting. Rotation include: CP, maize-peanut; CAP, maize-carrot-peanut; BBCP, bahiagrass-bahiagrass-maize-peanut; BBCAP, bahiagrass-bahiagrass-maize-carrot-peanut; FC, denotes the /uniFB01 eld capacity.
+
+
+### Table 4 (page 12)
+**Caption:** TABLE 4 Water retention parameters for Van Genuchten of various soil types across rotational production for top 15 cm of soil surface measured on 23 August 2022.
+![Table 4](tables/table_004_p12.png)
+<!-- name: table_004_p12 -->
+
+Analysis of: table_004_p12.png
+================================================================================
+
+## Content Type: Table
+
+## Short Description:
+The table presents water retention parameters for the Van Genuchten model across various soil types, specifically for the top 15 cm of soil surface measured on 23 August 2022.
+
+## Detailed Analysis:
+
+### Table Purpose:
+The table provides water retention parameters for different soil types using the Van Genuchten model, which is used to describe the water retention curve of soils.
+
+### Structure:
+- **Column Headers:**
+  - Soil type
+  - Θs (cm³ cm⁻³) - Saturated water content
+  - Θr (cm³ cm⁻³) - Residual water content
+  - α (cm⁻¹) - Inverse of the air-entry suction
+  - n (unitless) - Pore-size distribution index
+  - RMSE (Root Mean Square Error)
+  - NRMSE (Normalized Root Mean Square Error)
+  - NSE (Nash-Sutcliffe Efficiency)
+
+- **Row Labels:**
+  - Different soil types and their specific conditions:
+    - Blanton, Foxworth-Alpin
+    - Hurricane, Albany and Chipley (three different conditions)
+
+- **Units of Measurement:**
+  - Θs, Θr: cm³ cm⁻³ (volumetric water content)
+  - α: cm⁻¹
+  - n: unitless
+  - RMSE, NRMSE: unitless or percentage
+  - NSE: unitless
+
+### Numerical Data & Relationships:
+- **Key Numerical Values:**
+  • For Blanton, Foxworth-Alpin: Θs = 0.408 cm³ cm⁻³, Θr = 0.001 cm³ cm⁻³, α = 0.0766 cm⁻¹, n = 1.7891, RMSE = 0.02, NRMSE = 0.15, NSE = 0.98
+  • For Hurricane, Albany and Chipley (first condition): Θs = 0.389 cm³ cm⁻³, Θr = 0.001 cm³ cm⁻³, α = 0.0256 cm⁻¹, n = 2.2753, RMSE = 0.01, NRMSE = 0.1, NSE = 0.99
+  • For Hurricane, Albany and Chipley (second condition): Θs = 0.333 cm³ cm⁻³, Θr = 0.073 cm³ cm⁻³, α = 0.0297 cm⁻¹, n = 2.2769, RMSE = 0.01, NRMSE = 0.08, NSE = 0.99
+  • For Hurricane, Albany and Chipley (third condition): Θs = 0.367 cm³ cm⁻³, Θr = 0.029 cm³ cm⁻³, α = 0.0278 cm⁻¹, n = 2.2979, RMSE = 0.01, NRMSE = 0.06, NSE = 1
+
+- **Relationships & Correlations:**
+  - As Θs increases, NSE tends to increase (e.g., 0.333 to 0.408 for Θs and 0.99 to 0.98 for NSE, but note the NSE of 1 for the third Hurricane condition).
+  - The NRMSE decreases as NSE increases, indicating better model performance.
+  - The α values are inversely related to the suction required for water retention.
+
+- **Statistical Significance:**
+  - Low RMSE and NRMSE values indicate good model performance.
+  - High NSE values (close to 1) indicate that the model accurately predicts water retention.
+
+### Comparisons:
+- **Soil Type Comparisons:**
+  - Blanton, Foxworth-Alpin has a higher Θs and lower n compared to all Hurricane, Albany and Chipley conditions.
+  - Among Hurricane, Albany and Chipley conditions, the second condition has the lowest Θs and highest Θr.
+
+### Key Findings:
+- The Van Genuchten model parameters vary significantly across different soil types.
+- The model performance (NSE) is high for all conditions, indicating good predictive capability.
+
+## Main Takeaway:
+The table provides detailed water retention parameters for different soil types, which can be used to understand and predict water movement and retention in these soils.
+
+## Scientific Context:
+This data is crucial in soil health research as it helps in understanding the water holding capacity and movement in different soils, which is essential for irrigation management, drainage design, and predicting soil moisture dynamics. Parameters like Θs, Θr, α, and n are vital for modeling soil-water interactions and have implications for soil fertility, root water uptake, and overall ecosystem health.
+
+| Soil type                     |   Q s (cm 3 cm -3 ) |   Q r (cm 3 cm -3 ) |      a |      n |   RMSE |   NRMSE |   NSE |
+|:------------------------------|--------------------:|--------------------:|-------:|-------:|-------:|--------:|------:|
+| Blanton, Foxworth-Alpin       |               0.408 |               0.001 | 0.0766 | 1.7891 |   0.02 |    0.15 |  0.98 |
+| Hurricane, Albany and Chipley |               0.389 |               0.001 | 0.0256 | 2.2753 |   0.01 |    0.1  |  0.99 |
+| Hurricane, Albany and Chipley |               0.333 |               0.073 | 0.0297 | 2.2769 |   0.01 |    0.08 |  0.99 |
+| Hurricane, Albany and Chipley |               0.367 |               0.029 | 0.0278 | 2.2979 |   0.01 |    0.06 |  1    |
+
+TABLE 4 Water retention parameters for Van Genuchten of various soil types across rotational production for top 15 cm of soil surface measured on 23 August 2022.
+
+Q s is saturated water content (cm 3 cm -3 ), Q r is residual water content (cm 3 cm -3 ), a is inverse of air entry suction (cm -1 ), n is soil pore size distribution measure.
+
+carrot seeds require good soil contact and moisture absorption for optimal germination. Many growers use a rototiller to prepare the seedbed, while others opt for a /uniFB01 eld cultivator equipped with a crumbling roller to achieve the necessary /uniFB01 ne soil texture for seeding. In addition, when harvesting, carrots were loosened from the soil by undercutting the beds with a metal undercutter, which further disturbs the soil. Some variability in FC and PWP within the same production system may stem from differences in soil properties and/or experimental and measurement errors. However, this study provides a short-term perspective on the potential effects of sod-based rotation on soil physical properties. A longer timeframe (e.g., six to seven years) may be required for suf /uniFB01 cient incorporation of dry matter into the soil pro /uniFB01 le, which could enhance organic matter content and subsequently increase FC and PWP. These FC and PWP values are crucial for understanding soil-water relations and for effective irrigation management. The study by Iheshiulo et al. (2024b) on the Canadian prairies assessed the effects of six different crop rotation on soil hydraulic properties over four years under no-till management. The results for /uniFB01 eld capacity (FC) varied by location and crop rotation. At Lethbridge, conventional and highrisk, high-reward rotations increased FC by 12 -14% in the 5 -10 cm soil depth compared to soil health-enhanced rotations. At Scott, the pulse/oilseed intensi /uniFB01 ed rotation showed a signi /uniFB01 cant increase in FC by 22% in the 15-20 cm depth compared to the market-driven rotation. However, no signi /uniFB01 cant changes in FC were observed at Swift Current. These /uniFB01 ndings highlight the in /uniFB02 uence of crop rotation on soil water retention, suggesting that certain rotation can enhance FC, though the effects are site-speci /uniFB01 c.
+
+
+# 3.3 Soil moisture
+
+
+# 3.3.1 Gravimetric vs capacitance probe measurement
+
+This study evaluated the performance of a capacitance soil moisture sensor, demonstrating its capability to estimate soil moisture levels across a range of conditions (Figure 6). Before the start of the experiment, the soil moisture sensors were calibrated against gravimetric soil moisture samples taken at the research site. The measured gravimetric soil moisture data were divided into training (67% of the total data: for developing the calibration curve) and testing (33% of the total data: for model validation) dataset. Calibration curve was developed using the training dataset, which was then applied to the testing dataset to predict soil moisture. The coef /uniFB01 cient of determination (R 2 ), Root Mean Square Difference (RMSD), and Nash-Sutcliffe (NSE) values between predicted and measured gravimetric soil moisture data were evaluated. The calibration analysis revealed a linear relationship between uncalibrated sensor readings (m³ m -3 ) and gravimetric soil moisture (m³ m -3 ), encompassing both dry and wet soil states. The gravimetric method measures volumetric soil water content by extracting a known volume of soil, drying it at 105°C until reaching a constant weight, and then calculating the water volume lost. This method serves as the standard for comparison with other methods; however, due to its destructive, time-intensive, and non-continuous nature, alternative technologies have been developed for soil water measurement (Rudnick et al., 2015). Although the soil moisture sensor captured the trend of dynamic changes in soil moisture levels at different depths, the calibration results showed that the sensor overestimated soil moisture compared to gravimetric readings. The linear calibration showed an R² of 0.94, and RMSE of 0.08 m³ m -3 . These /uniFB01 ndings align with Hrisko (2020), who reported an RMSE of 0.044 m³ m -3 between inverse voltage readings from a capacitance probe and gravimetric measurements. Furthermore, this study results resonate with Ventura et al. (2010), who demonstrated that capacitive sensors can be used across various soil types and depths using the same calibration equation, with an RMSE range between 2.5% and 3.6%. In this study, testing analysis revealed a strong correlation between measured and calibrated values with R 2 of 0.97, RMSD of 0.002, and NSE of 0.96 indicate that the calibration equation satisfactorily estimates soil moisture within the observed spectrum.
+
+
+# 3.3.2 Soil water variation
+
+Soil water refers to the total amount of water temporarily held within the soil pro /uniFB01 le at a speci /uniFB01 c depth and time. The seasonal distribution of measured soil water present at 15 cm, 30 cm and 45 cm depth for each production system is presented in Figure 7. The dataset is available for each growing season, but for comparison purposes, the soil water data for 2021 maize growing season, 2022 peanut growing season and 2021/22 carrot growing season is presented in Figure 7. For these years, maize, peanut, and carrot crops were grown in both conventional and sod-based rotation at same time. As expected, the availability of soil moisture in the soil pro /uniFB01 le at different depths and cropping systems was affected by the magnitude amount of irrigation applied, precipitation, and management practices during different growing seasons. For example, the sudden increase in soil water levels in both conventional and sod-based rotation maize growing season in
+
+
+### Table 5 (page 13)
+**Caption:** TABLE 5 Water retention parameters for Brooks and Corey of various soil types across rotational production for top 15 cm of soil surface measured on 23 August 2022.
+![Table 5](tables/table_005_p13.png)
+<!-- name: table_005_p13 -->
+
+Analysis of: table_005_p13.png
+================================================================================
+
+## Content Type: Table
+
+## Short Description:
+The table presents water retention parameters for the Brooks and Corey model across various soil types, specifically for the top 15 cm of soil surface measured on 23 August 2022.
+
+## Detailed Analysis:
+
+### Table Purpose:
+The table provides water retention parameters for the Brooks and Corey model for different soil types.
+
+### Structure:
+- **Column Headers:**
+  - Soil type
+  - Θs (cm³ cm⁻³)
+  - Θr (cm³ cm⁻³)
+  - α
+  - n
+  - RMSE
+  - NRMSE
+  - NSE
+- **Row Labels:** Different soil types and their properties.
+- **Units of Measurement:**
+  - Θs, Θr: cm³ cm⁻³ (volumetric water content)
+  - α: no units (inverse of length)
+  - n: no units (dimensionless)
+  - RMSE: no units (root mean square error)
+  - NRMSE: no units (normalized root mean square error)
+  - NSE: no units (Nash-Sutcliffe efficiency)
+
+### Numerical Data & Relationships:
+- **Soil type:** Blanton, Foxworth-Alpin
+  - Θs: 0.3713 cm³ cm⁻³
+  - Θr: 0.001 cm³ cm⁻³
+  - α: 0.8852
+  - n: 0.7073
+  - RMSE: 0.02
+  - NRMSE: 0.2
+  - NSE: 0.97
+
+- **Soil type:** Hurricane, Albany and Chipley
+  - Θs: 0.366 cm³ cm⁻³
+  - Θr: 0.001 cm³ cm⁻³
+  - α: 0.0325
+  - n: 1.0766
+  - RMSE: 0.02
+  - NRMSE: 0.16
+  - NSE: 0.98
+
+- **Soil type:** Hurricane, Albany and Chipley
+  - Θs: 0.325 cm³ cm⁻³
+  - Θr: 0.06 cm³ cm⁻³
+  - α: 0.0462
+  - n: 0.8197
+  - RMSE: 0.01
+  - NRMSE: 0.05
+  - NSE: 0.99
+
+- **Soil type:** Hurricane, Albany and Chipley
+  - Θs: 0.344 cm³ cm⁻³
+  - Θr: 0.019 cm³ cm⁻³
+  - α: 0.0378
+  - n: 0.9377
+  - RMSE: 0.02
+  - NRMSE: 0.1
+  - NSE: 0.99
+
+### Relationships & Correlations:
+- **Saturated Volumetric Water Content (Θs):** Ranges from 0.325 to 0.3713 cm³ cm⁻³. The Blanton, Foxworth-Alpin soil type has the highest Θs.
+- **Residual Volumetric Water Content (Θr):** Ranges from 0.001 to 0.06 cm³ cm⁻³. The Hurricane, Albany and Chipley soil type with Θs = 0.325 cm³ cm⁻³ has the highest Θr.
+- **RMSE:** Ranges from 0.01 to 0.02. The lowest RMSE is 0.01 for the Hurricane, Albany and Chipley soil type with Θs = 0.325 cm³ cm⁻³.
+- **NRMSE:** Ranges from 0.05 to 0.2. The lowest NRMSE is 0.05 for the Hurricane, Albany and Chipley soil type with Θs = 0.325 cm³ cm⁻³.
+- **NSE:** Ranges from 0.97 to 0.99. The highest NSE values (0.99) are for the two Hurricane, Albany and Chipley soil types.
+
+### Comparisons:
+- **Soil Type Comparison:** 
+  - Blanton, Foxworth-Alpin has a higher Θs and lower NSE compared to the Hurricane, Albany and Chipley soils.
+  - Among Hurricane, Albany and Chipley soils, variations in Θs, Θr, α, and n affect RMSE, NRMSE, and NSE.
+
+### Key Findings:
+- The Brooks and Corey model parameters vary across different soil types, indicating soil-specific water retention characteristics.
+- The highest NSE values (0.99) are observed for two instances of Hurricane, Albany and Chipley soil type, suggesting a good fit of the model for these soils.
+
+### Scientific Context:
+This data is crucial in soil health research as it provides parameters for understanding water retention and movement in different soil types. These parameters are essential for hydrological modeling, irrigation management, and predicting soil water dynamics, which are critical for sustainable agricultural practices and environmental conservation.
+
+| Soil type                     |   Q s (cm 3 cm -3 ) |   Q r (cm 3 cm -3 ) |      a |      n |   RMSE |   NRMSE |   NSE |
+|:------------------------------|--------------------:|--------------------:|-------:|-------:|-------:|--------:|------:|
+| Blanton, Foxworth-Alpin       |              0.3713 |               0.001 | 0.8852 | 0.7073 |   0.02 |    0.2  |  0.97 |
+| Hurricane, Albany and Chipley |              0.366  |               0.001 | 0.0325 | 1.0766 |   0.02 |    0.16 |  0.98 |
+| Hurricane, Albany and Chipley |              0.325  |               0.06  | 0.0462 | 0.8197 |   0.01 |    0.05 |  0.99 |
+| Hurricane, Albany and Chipley |              0.344  |               0.019 | 0.0378 | 0.9377 |   0.02 |    0.1  |  0.99 |
+
+TABLE 5 Water retention parameters for Brooks and Corey of various soil types across rotational production for top 15 cm of soil surface measured on 23 August 2022.
+
+Q s is saturated water content (cm 3 cm -3 ), Q r is residual water content (cm 3 cm -3 ), a is inverse of air entry suction (cm -1 ), n is soil pore size distribution measure.
+
+
+### Figure 6 (page 14)
+![Figure 6](figures/figure_006_p14.png)
+<!-- name: figure_006_p14 -->
+
+Analysis of: figure_006_p14.png
+================================================================================
+
+## Content Type: Figure
+
+## Short Description:
+The image presents two scatter plots comparing soil moisture measurements obtained through different methods. Plot A compares uncalibrated soil moisture sensor readings with gravimetric soil moisture content, while Plot B compares predicted soil moisture readings (after calibration) with gravimetric soil moisture content.
+
+## Detailed Analysis:
+
+### Plot A: Uncalibrated Soil Moisture Sensor Readings vs. Gravimetric Soil Moisture
+
+- **Axes:**
+  - X-axis: Uncalibrated soil moisture (m³ m⁻³), range = 0.14 to 0.24
+  - Y-axis: Gravimetric soil moisture (m³ m⁻³), range = 0.07 to 0.12
+
+- **Data Series:**
+  - Green diamonds represent individual data points
+
+- **Notable Values:**
+  - The regression line equation is y = 0.3627x + 0.0175
+  - R² = 0.938
+  - RMSE (Root Mean Square Error) = 0.08 m³ m⁻³
+
+- **Trends:**
+  - The data points show a positive linear trend, indicating that as uncalibrated soil moisture sensor readings increase, gravimetric soil moisture content also increases.
+  - However, the slope of the regression line (0.3627) is less than 1, suggesting that the uncalibrated sensor readings overestimate soil moisture at lower values and underestimate at higher values.
+
+- **Statistical Info:**
+  - The high R² value (0.938) indicates a strong correlation between the uncalibrated sensor readings and gravimetric measurements, but the RMSE of 0.08 m³ m⁻³ suggests a notable error.
+
+### Plot B: Predicted Soil Moisture Readings vs. Gravimetric Soil Moisture
+
+- **Axes:**
+  - X-axis: Predicted sensor readings (m³ m⁻³), range = 0.05 to 0.12
+  - Y-axis: Gravimetric soil moisture (m³ m⁻³), range = 0.05 to 0.12
+
+- **Data Series:**
+  - Purple dots represent individual data points
+
+- **Notable Values:**
+  - The regression line equation is y = 1.0663x - 0.0064
+  - R² = 0.97
+  - RMSE = 0.002 m³ m⁻³
+  - NSE (Nash-Sutcliffe Efficiency) = 0.96
+
+- **Trends:**
+  - The data points closely align with the 1:1 line (dashed line), indicating a very strong positive linear relationship between predicted soil moisture readings and gravimetric soil moisture content.
+  - The slope of the regression line (1.0663) is close to 1, and the intercept (-0.0064) is close to 0, suggesting that the predicted readings are highly accurate.
+
+- **Statistical Info:**
+  - The very high R² (0.97) and NSE (0.96) values indicate an excellent fit between predicted and measured values. The very low RMSE (0.002 m³ m⁻³) suggests high precision in the predictions.
+
+## Main Takeaway:
+The image demonstrates that while uncalibrated soil moisture sensor readings show a strong correlation with gravimetric soil moisture content but with some error, calibrated (predicted) sensor readings have a very high accuracy and strong agreement with gravimetric measurements.
+
+## Scientific Context:
+This analysis is crucial in soil health research as accurate soil moisture measurements are essential for understanding soil conditions, managing water resources, and predicting plant growth and soil erosion. The comparison highlights the importance of calibrating soil moisture sensors to improve the accuracy of soil moisture measurements.
+
+2021 and carrot growing season in 2022 is attributed to the precipitation events occurring on 18 April 2021 (59 mm), 8 July 2021 (126 mm) and 9 March 2022 (175 mm). Sod-based rotation, particularly the BBCP, reports the highest average soil moisture content for maize (2021 growing season) at 18 mm and for peanuts (2022 growing season) at 14 mm, implying higher moisture retention capabilities when compared to conventional practices. Likewise, for BBCAP, there ' s a notable average moisture content of 15 mm for maize (2021 growing season) and 14 mm for peanuts (2022 growing season). In contrast, conventional rotation (CP and CAP) showed lower moisture levels for both crops, with CP
+
+recording average of 14 mm for 2021 maize growing season and 13 mm for 2022 peanuts, and CAP showing a slight increase to an average 16 mm for 2021 maize growing season and 13 mm for 2022 peanuts. Wright et al. (2020) conducted a study on a four-year crop rotation cycle that included bahiagrass, peanuts, and cotton. The study reported moisture percentages from the bahiagrass rotation as 9.3%, 11.2%, and 20%, which corresponded to organic matter contents of 0.46, 0.75, and 1.68, respectively. Over the study period, the conservation of soil moisture remains notably consistent throughout the soil pro /uniFB01 le in sod-based rotation, attributed to the substantial bene /uniFB01 ts of perennial grass cover. The
+
+
+### Figure 7 (page 15)
+![Figure 7](figures/figure_007_p15.png)
+<!-- name: figure_007_p15 -->
+
+Analysis of: figure_007_p15.png
+================================================================================
+
+## Content Type: Figure
+
+## Short Description:
+The image presents a collection of line graphs illustrating the total soil water content over time for various crops during their respective growing seasons. The graphs are organized into three sections (A, B, C), each representing a different crop: maize (A), peanut (B), and carrot (C). Each section contains three graphs corresponding to soil depths of 15 cm, 30 cm, and 45 cm.
+
+## Detailed Analysis:
+
+### Section A: 2021 Maize Growing Season
+- **Figure Type**: Line graphs
+- **Components**:
+  - **X-axis**: Time (dates ranging from 4/15 to 7/24)
+  - **Y-axis**: Total soil water (mm)
+  - **Legend**: Not explicitly provided, but each graph shows data for different soil depths (15 cm, 30 cm, 45 cm)
+  - **Annotations**: Soil depths labeled on each graph
+- **Data Points & Trends**:
+  - **15 cm Depth**: Starts at approximately 23 mm on 4/15, peaks at around 24 mm, and ends at about 17 mm on 7/24.
+  - **30 cm Depth**: Begins at around 20 mm on 4/15, peaks at approximately 22 mm, and ends at about 16 mm on 7/24.
+  - **45 cm Depth**: Starts at approximately 19 mm on 4/15, peaks at around 20 mm, and ends at about 15 mm on 7/24.
+- **Trends**: All graphs show an initial peak followed by a gradual decline in soil water content over the growing season.
+
+### Section B: 2022 Peanut Growing Season
+- **Figure Type**: Line graphs
+- **Components**:
+  - **X-axis**: Time (dates ranging from 5/25 to 9/22)
+  - **Y-axis**: Total soil water (mm)
+  - **Legend**: Not explicitly provided, but each graph shows data for different soil depths (15 cm, 30 cm, 45 cm)
+  - **Annotations**: Soil depths labeled on each graph
+- **Data Points & Trends**:
+  - **15 cm Depth**: Fluctuates between approximately 11 mm and 16 mm throughout the season.
+  - **30 cm Depth**: Ranges from about 12 mm to 16 mm.
+  - **45 cm Depth**: Varies between approximately 13 mm and 16 mm.
+- **Trends**: More fluctuation compared to maize, with less clear peak/trough patterns.
+
+### Section C: 2021/22 Carrot Growing Season
+- **Figure Type**: Line graphs
+- **Components**:
+  - **X-axis**: Time (dates ranging from 12/8 to 3/18)
+  - **Y-axis**: Total soil water (mm)
+  - **Legend**: Not explicitly provided, but each graph shows data for different soil depths (15 cm, 30 cm, 45 cm)
+  - **Annotations**: Soil depths labeled on each graph
+- **Data Points & Trends**:
+  - **15 cm Depth**: Shows a significant spike around late February, peaking at approximately 24 mm.
+  - **30 cm Depth**: Similar spike, peaking at around 23 mm.
+  - **45 cm Depth**: Less dramatic change, ranging from about 15 mm to 18 mm.
+- **Trends**: Carrot season shows a notable increase in soil water content in late February across all depths.
+
+## Main Takeaway:
+The graphs illustrate how soil water content varies over time for different crops (maize, peanut, carrot) and soil depths (15 cm, 30 cm, 45 cm). Each crop exhibits unique patterns in soil water content during its growing season, influenced by factors like rainfall, irrigation, and plant water uptake.
+
+## Scientific Context:
+This data is crucial for understanding soil health and water management practices in agricultural settings. It helps in optimizing irrigation schedules, predicting drought stress, and improving crop yields. Parameters like soil water content are vital for assessing soil structure, aeration, and nutrient availability, all of which are critical for soil health research.
+
+FIGURE 7
+
+Total soil water (mm) across three different depths (15 cm, 30 cm and 45 cm). (A) maize in 2021 growing season, (B) peanut in 2022 growing season, (C) carrot in 2022 season.
+
+grass ' s root system contributes to a uniform distribution and retention of moisture, curbing the swift downward movement seen in conventional tilling practices. Conversely, conventional rotation exhibited higher /uniFB02 uctuations in soil moisture. The inclusion of perennial grass fosters a stable supply of moisture, which is especially advantageous during sparse rainfall or in the intervals between irrigation. Such stability bolsters the crop ' s resilience to drought conditions and helps to secure uniform crop yields (Wright et al., 2005; Bergtold and Sailus, 2020).
+
+
+# 3.4 Soil water balance components
+
+The effect of rotational production on soil water balance components, i.e., ETc, D S, runoff, and DP along with WPC-ETc and WPC-TWU, is presented in Table 6. The distribution of cumulative ETc for maize, peanut and carrot, estimated using soil water balance approach is also illustrated in Figures 8A -C. Temporal trend of maize, peanut, and carrot ETc managed under conventional and sod-based rotation was similar. For maize, peanut, and carrot crops, ETc values were lower in the early season -March, May, and October, respectively -and at the end of the season -August, October, and March, respectively. This aligns with the peak growth period for maize, peanut and carrot in the research area, when water demand typically increases (Data not shown). ETc values were higher across all treatments in 2020
+
+and 2021, driven by increased seasonal rainfall, particularly in the early season, which led to greater evaporative losses. For maize, the average ETc was 583 mm with a standard deviation (SD) of 57 mm for conventional rotation and 539 mm for sod-based rotation, a moderate decline of 8%. For peanuts, the average ETc was 482 mm (SD = 77 mm) for conventional rotation and 569 mm (SD = 16 mm) for sod-based rotation. For carrots, the ETc was nearly identical in both conventional and sod-based rotation. Carrot cumulative ETc ranged from 310 and 301 mm for 2021/22 CAP and BBCAP rotation, respectively. Across all rotation and years, the average deep percolation accounted for 31% (SD = 13%) of the total water input (rainfall + irrigation) and the average runoff was 5% (SD = 4%) of the total water applied. Hussain et al. (2019) reported drainage rates of 31 to 37% of mean annual rainfall during seven cropping years in southwestern Michigan. Rath et al. (2021) reported 0.77% runoff, 54% evapotranspiration (ET) and 46% deep percolation of the total water applied (rainfall and irrigation) using the calibrated Soil Conservation Service Curve Number (SCS-CN) model in Live Oak FL. These /uniFB01 ndings underscore the substantial amount of water that moves beyond the root zone (deep percolation) and the minor portion that results in surface runoff, particularly due to the sandy soil ' s high in /uniFB01 ltration rates, which stress the necessity for adopting ef /uniFB01 cient water management practices in agriculture to enhance sustainability (Linderman et al., 1976; Dourte et al., 2015).
+
+
+### Table 6 (page 16)
+**Caption:** TABLE 6 Soil water balance in conventional vs. sod based rotational productions during 2019-2022 growing season.
+![Table 6](tables/table_006_p16.png)
+<!-- name: table_006_p16 -->
+
+Analysis of: table_006_p16.png
+================================================================================
+
+## Content Type: Table
+
+## Short Description:
+The table presents a comprehensive soil water balance analysis for various crop rotations and conditions during the 2019-2022 growing seasons. It compares different rotational productions, including conventional versus sod-based systems, across multiple parameters such as rainfall, irrigation, evapotranspiration (ET), runoff, deep percolation, soil water storage, crop yield, and water productivity.
+
+## Detailed Analysis:
+
+### Table Purpose:
+The table measures and compares the soil water balance in conventional versus sod-based rotational productions during the 2019-2022 growing seasons.
+
+### Structure:
+- **Column Headers:**
+  - Rotation
+  - Crop
+  - Rainfall (mm)
+  - Irrigation (mm)
+  - ET (mm)
+  - Runoff (mm)
+  - Deep percolation (mm)
+  - Soil water storage (∆S) (mm)
+  - Yield (Kg ha⁻¹)
+  - Crop water productivity (WPₑ-ETc) (kg m⁻³)
+  - Water productivity (WPₑ-TWU) (kg m⁻³)
+
+- **Row Labels:** 
+  - Different crop rotations and conditions: PC, CP, CAP, BBCP, BBCAP, each with various crops like Peanut, Maize, Carrot, and Bahiagrass.
+
+- **Units of Measurement:**
+  - Rainfall, Irrigation, ET, Runoff, Deep percolation, Soil water storage: mm
+  - Yield: Kg ha⁻¹
+  - Crop water productivity, Water productivity: kg m⁻³
+
+### Numerical Data & Relationships:
+- **Key Numerical Values:**
+  • **Maximum Yield:** 86119 Kg ha⁻¹ for Carrot under BBCAP
+  • **Minimum Yield:** 5628 Kg ha⁻¹ for Peanut under CP
+  • **Maximum Crop Water Productivity:** 28.61 kg m⁻³ for Carrot under BBCAP
+  • **Minimum Crop Water Productivity:** 1.02 kg m⁻³ for Peanut under BBCP
+  • **Maximum Water Productivity (WPₑ-TWU):** 13.98 kg m⁻³ for Carrot under BBCAP
+  • **Minimum Water Productivity (WPₑ-TWU):** 0.69 kg m⁻³ for Peanut under CP
+
+- **Relationships & Correlations:**
+  - Generally, as rainfall increases, irrigation decreases, and vice versa, to meet the crop water requirements.
+  - High ET values correspond with high crop yields, indicating that crops with higher water consumption tend to have better growth.
+  - Soil water storage (∆S) varies significantly across different rotations and crops, influencing water productivity.
+
+### Comparisons:
+- **Crop Comparison:**
+  - Maize and Peanut have multiple entries across different rotations, showing varied responses in yield and water productivity.
+  - Carrot shows exceptionally high yield and water productivity under BBCAP.
+
+- **Rotation Comparison:**
+  - PC and CP rotations show different impacts on soil water balance components.
+  - Sod-based systems (BBCP, BBCAP) exhibit higher water retention and productivity compared to conventional systems.
+
+### Key Findings:
+- The table highlights the importance of crop rotation and type on soil water balance and productivity.
+- Sod-based rotational systems (BBCP, BBCAP) tend to have higher water retention and productivity.
+
+### Scientific Context:
+This data relates to soil health research by providing insights into how different crop rotations and management practices affect soil water balance, crop yield, and water productivity. Parameters like soil water storage, runoff, and deep percolation are crucial for understanding soil health and sustainability.
+
+| Rotation   | Crop       |   Rainfall (mm) |   Irrigation (mm) |   ET (mm) |   Runoff (mm) |   Deep percolation (mm) |   Soil water storage ( D S) (mm) | Yield (Kg ha -1 )   | Crop water productivity (WP C-ETc ) (kg m -3 )   | Water productivity (WP C-TWU ) (kg m -3 )   |
+|:-----------|:-----------|----------------:|------------------:|----------:|--------------:|------------------------:|---------------------------------:|:--------------------|:-------------------------------------------------|:--------------------------------------------|
+| PC         | Peanut     |             518 |               197 |       498 |            17 |                     199 |                             -2.3 | 7318                | 1.47                                             | 1.02                                        |
+| PC         | Maize      |             761 |               226 |       514 |            80 |                     362 |                            -11.8 | 15398               | 3.00                                             | 1.56                                        |
+| PC         | Peanut     |             813 |               142 |       437 |            79 |                     387 |                            -57.4 | 6782                | 1.55                                             | 0.71                                        |
+| PC         | Maize      |             506 |               236 |       655 |             0 |                      68 |                            -21.6 | 14736               | 2.25                                             | 1.99                                        |
+| CP         | Maize      |             572 |               222 |       626 |            10 |                     127 |                             -1   | 14300               | 2.28                                             | 1.80                                        |
+| CP         | Peanut     |             801 |                13 |       412 |            76 |                     342 |                             11.9 | 5628                | 1.37                                             | 0.69                                        |
+| CP         | Maize      |             716 |               251 |       567 |            78 |                     291 |                              3.7 | 14134               | 2.49                                             | 1.46                                        |
+| CP         | Peanut     |             594 |                98 |       562 |             2 |                     111 |                              0.5 | 6769                | 1.20                                             | 0.98                                        |
+| CAP        | Maize      |             572 |               222 |       611 |            10 |                     148 |                             -2.3 | 14300               | 2.34                                             | 1.80                                        |
+| CAP        | Carrot     |             382 |               213 |       288 |             8 |                     335 |                             36.9 | -                   | -                                                | -                                           |
+| CAP        | Peanut     |             801 |                13 |       403 |            76 |                     363 |                             24.5 | 6390                | 1.59                                             | 0.79                                        |
+| CAP        | Maize      |             716 |               251 |       523 |            78 |                     339 |                             -8.1 | 15536               | 2.97                                             | 1.61                                        |
+| CAP        | Carrot     |             510 |               106 |       310 |            50 |                     238 |                             -4   | 77864               | 25.12                                            | 12.64                                       |
+| CAP        | Peanut     |             597 |                84 |       580 |             2 |                     111 |                              0.1 | 7320                | 1.26                                             | 1.07                                        |
+| BBCP       | Bahiagrass |            1496 |                42 |       927 |            86 |                     613 |                             88.6 | -                   | -                                                | -                                           |
+| BBCP       | Maize      |             716 |               251 |       539 |            78 |                     353 |                              8.6 | 13571               | 2.52                                             | 1.40                                        |
+| BBCP       | Peanut     |             597 |                76 |       558 |             2 |                     122 |                             -6.7 | 5671                | 1.02                                             | 0.84                                        |
+| BBCAP      | Bahiagrass |            1496 |                42 |       927 |            86 |                     613 |                             88.6 | -                   | -                                                | -                                           |
+| BBCAP      | Maize      |             716 |               251 |       539 |            78 |                     335 |                             -6.5 | 13940               | 2.59                                             | 1.44                                        |
+| BBCAP      | Carrot     |             510 |               106 |       301 |            50 |                     240 |                            -10.6 | 86119               | 28.61                                            | 13.98                                       |
+| BBCAP      | Peanut     |             565 |                76 |       580 |             2 |                      77 |                              6.3 | 6476                | 1.12                                             | 1.01                                        |
+
+TABLE 6 Soil water balance in conventional vs. sod based rotational productions during 2019-2022 growing season.
+
+Rotation include: PC, peanut-maize; CP, maize-peanut; CAP, maize-carrot-peanut; BBCP, bahiagrass-bahiagrass-maize-peanut; BBCAP, bahiagrass-bahiagrass-maize-carrot-peanut.
+
+
+# 3.5 Yield variability
+
+The impact of crop rotation systems on maize, peanuts, and carrots yields in 2021 and 2022 crop growing season is presented in Figure 9. In 2021, maize yields varied signi /uniFB01 cantly between the conventional and sod-based rotations, with a p-value of 0.048 and a least signi /uniFB01 cant difference of 1408 kg ha -1 , indicating that conventional rotation may offer short-term bene /uniFB01 ts within a fouryear cycle (Bullock, 1992; Porter et al., 2003). In contrast, yields from the 2022 peanut and carrot growing seasons showed no signi /uniFB01 cant differences between rotations, with p-values of 0.057 and 0.08, respectively, suggesting that rotational effects could be crop-speci /uniFB01 c (Smith et al., 2008). Throughout the 2021 maize and 2022 peanut and carrot growing periods, irrigation and fertilizer inputs remained consistent across all rotations, emphasizing that yield differences were likely due to rotational practices rather than external inputs (Doucet et al., 1999).
+
+Throughout the study, average yields were documented for each crop type under both conventional and sod-based rotations. For maize, the average yield in conventional rotations (PC, CP, and CAP) was 14,879 kg ha -1 with a standard deviation (SD) of 809 kg ha -1 , while yields in sod-based rotations (BBCP and BBCAP) averaged 13,755 kg ha -1 (SD: 1,010 kg ha -1 ). Peanut yields were 6,651 kg ha -1 (SD: 985 kg ha -1 ) under conventional rotation and 6,073 kg ha -1 (SD: 951 kg ha -1 ) in sod-based rotation. For carrots, the average yield was 77.9 Mg ha -1 (SD: 4.6 Mg ha -1 ) in conventional rotation (CAP) and 86.1 Mg ha -1 (SD: 6.5 Mg ha -1 ) in sod-based rotation (BBCAP). Findings indicate that adding a two-year bahiagrass phase to conventional rotations did not increase maize and peanut yields, suggesting a nuanced relationship between sod-based rotations and crop productivity. These results highlight the need for further research extending beyond the four-year study to better understand the long-term effects on sustainable farming (Porter et al., 2003).
+
+
+# 3.6 Crop water production functions
+
+This study also investigated the maize and peanut yield responses to water balance estimated ETc, total water application (irrigation + rainfall), WPC-ETc, and WPC-TWU (Table 6; Figure 10). To minimize yield variations due to soil physical and chemical
+
+
+### Figure 8 (page 17)
+![Figure 8](figures/figure_008_p17.png)
+<!-- name: figure_008_p17 -->
+
+Analysis of: figure_008_p17.png
+================================================================================
+
+## Content Type: Figure
+
+## Short Description:
+The image presents a series of line graphs illustrating the cumulative crop evapotranspiration (ETc) for maize, peanut, and carrot crops over multiple growing seasons. The graphs compare ETc values under different conditions, including various irrigation treatments and years.
+
+## Detailed Analysis:
+
+### Figure 8: Cumulative crop ET (mm) estimated using soil water balance approach during 2019 to 2022 growing season. (A) maize cumulative ETc, (B) peanut cumulative ETc and (C) carrot cumulative ETc.
+
+#### Graph A: Maize Cumulative ETc
+- **X-axis**: Days after planting, range 0 to 140
+- **Y-axis**: Cumulative ETc (mm), range 0 to 700
+- **Data Series**:
+  - 2019 (CP)
+  - 2019 (CAP)
+  - 2020 (PC)
+  - 2021 (CP)
+  - 2021 (CAP)
+  - 2021 (BBCP)
+  - 2021 (BBCAP)
+  - 2022 (PC)
+
+- **Notable Values**:
+  - At around 100 days after planting, the cumulative ETc for most treatments is approximately 400-500 mm.
+  - By 140 days, the values range from about 500 to 600 mm.
+
+- **Trends**:
+  - All lines show an increasing trend with some fluctuations.
+  - The lines for 2021 (CP), 2021 (CAP), and 2021 (BBCP) are closely grouped and show a steep increase.
+
+#### Graph B: Peanut Cumulative ETc
+- **X-axis**: Days after planting, range 0 to 150
+- **Y-axis**: Cumulative ETc (mm), range 0 to 600
+- **Data Series**:
+  - 2019 (PC)
+  - 2020 (CP)
+  - 2020 (CAP)
+  - 2021 (PC)
+  - 2022 (CP)
+  - 2022 (CAP)
+  - 2022 (BBCP)
+  - 2022 (BBCAP)
+
+- **Notable Values**:
+  - At around 100 days after planting, the cumulative ETc values are approximately 400-500 mm.
+  - By 150 days, the values range from about 500 to 600 mm.
+
+- **Trends**:
+  - All lines show an increasing trend with some variability.
+  - The lines for 2022 (CP), 2022 (CAP), 2022 (BBCP), and 2022 (BBCAP) are closely grouped and show a consistent increase.
+
+#### Graph C: Carrot Cumulative ETc
+- **X-axis**: Days after planting, range 0 to 175
+- **Y-axis**: Cumulative ETc (mm), range 0 to 350
+- **Data Series**:
+  - 2020/21 (CAP)
+  - 2020/21 (BBCAP)
+
+- **Notable Values**:
+  - At around 100 days after planting, the cumulative ETc is approximately 250 mm for both treatments.
+  - By 175 days, the values reach about 300 mm.
+
+- **Trends**:
+  - Both lines show a steady, nearly linear increase.
+
+## Main Takeaway:
+The figures illustrate the cumulative evapotranspiration (ETc) of maize, peanut, and carrot crops under various conditions and irrigation treatments over several growing seasons. The data shows that ETc increases over time for all crops, with different treatments and years resulting in varying ETc values.
+
+## Scientific Context:
+This information is relevant to soil health research as it pertains to water use efficiency and irrigation management in agricultural systems. Understanding ETc helps in optimizing irrigation strategies, which is crucial for maintaining soil moisture, promoting healthy crop growth, and conserving water resources. Parameters like ETc are essential for assessing soil water balance and overall soil health.
+
+property differences across the research area, average values for grain yield and ETc were calculated from various crop production systems. Numerous studies have demonstrated the linear relationship of crop water production functions, highlighting how crop water productivity varies under different environmental conditions. These studies suggest that the slopes of these functions offer a precise assessment of a plant ' s water use ef /uniFB01 ciency compared to traditional irrigation-based WUE metrics (Stewart et al., 1975; Djaman and Irmak, 2012; Djaman et al., 2013). However, in this study a weak correlation between yields and ETc was observed, with R² values of 0.28 for maize and 0.09 for peanuts. This may be attributed to the irrigation scheduling for both crops in the study, which followed typical growers ' practices in the North Florida region, leading to the application of more water than necessary. The crop yield response to ETc de /uniFB01 nes the boundaries of crop yield under water constraints where the ef /uniFB01 ciency of seasonal transpiration is represented by the slope and the baseline ETc level (ETc losses before any seed yield is produced) is denoted by the x-intercept (Sinclair et al., 1984). A baseline ETc of approximately 300 mm for maize and approximately 100 mm for peanuts was observed. Likewise, the ef /uniFB01 ciency of seasonal transpiration was found to be 8.4 kg ha -1 mm -1 of ETc for maize and 6.3 kg ha -1 mm -1 of ETc for peanuts. Irmak and Sharma (2015) reported the use of genetically improved crop variety for poor correlation between yield and ETc. They reported a weak correlation between irrigated maize yield and ETc [pooled data R 2 of 0.004 (range between 0.002 to 0.54)] and soybean yield and ETc [pooled data R 2 of 0.0005 (range between 0.001 to 0.12)] in semi-arid to subhumid climate. In this research, for maize, irrigation ranged from 222 to 251 mm with total water application between 747 to 988 mm, showing negligible correlations with total water applied (R² = 0.004) and water productivity (R² = 0.12), but a slightly stronger, yet still weak, relationship with WPC-ETc (R² = 0.42). Peanuts, receiving 13 to 197 mm of irrigation and total water application between 673 to 955 mm, exhibited a negative correlation with total water applied (R² = 0.015), a weak positive correlation with WPC-ETc (R² = 0.15), and a moderate positive correlation with water productivity (R² = 0.33), indicating a pronounced response to water ef /uniFB01 ciency improvements compared to maize. Excessive irrigation has been shown to reduce yields in other studies like Sharma and Rai (2022) for dry beans. Igbadun et al. (2007) conducted a study on irrigated maize and developed relationships between grain yield and seasonal evapotranspiration, as well as between grain yield and seasonal water applied. They combined data from two growing seasons to establish these relationships. Both were best modeled using a linear function. The relationship between grain yield and seasonal evapotranspiration was characterized by an R 2 value of 0.72 and a slope of 15.4. Meanwhile, the relationship between grain yield and seasonal water applied demonstrated an R 2 value of 0.86 and a slope of 7.4. These /uniFB01 ndings underline the nuanced impacts of water use
+
+
+### Figure 9 (page 18)
+![Figure 9](figures/figure_009_p18.png)
+<!-- name: figure_009_p18 -->
+
+Analysis of: figure_009_p18.png
+================================================================================
+
+## Content Type: Figure
+
+## Short Description:
+The image presents a series of violin plots illustrating the harvest yield from conventional and sod-based rotation at NFREC, Live Oak, FL, for various crops in 2021 and 2022. The plots compare yields across different rotation treatments for maize, peanut, and carrot.
+
+## Detailed Analysis:
+
+### Figure 9: Harvest Yield Comparison
+
+The figure consists of three violin plots, each displaying the distribution of harvest yields for different crops under various rotation treatments.
+
+#### Plot A: Maize Yield in 2021
+- **X-axis**: Treatment (CP, CAP, BBCP, BBCAP)
+- **Y-axis**: Yield (Kg/ha)
+- **Data Series**:
+  - CP (purple)
+  - CAP (teal)
+  - BBCP (green)
+  - BBCAP (red)
+
+#### Plot B: Peanut Yield in 2022
+- **X-axis**: Treatment (CP, CAP, BBCP, BBCAP)
+- **Y-axis**: Yield (Kg/ha)
+- **Data Series**:
+  - CP (purple)
+  - CAP (teal)
+  - BBCP (green)
+  - BBCAP (red)
+
+#### Plot C: Carrot Yield in 2022
+- **X-axis**: Treatment (CAP, BBCAP)
+- **Y-axis**: Yield (Mg/ha)
+- **Data Series**:
+  - CAP (teal)
+  - BBCAP (red)
+
+### Data Points & Trends:
+- **Maize Yield (2021)**:
+  - CAP and BBCAP show higher yields compared to CP and BBCP.
+  - BBCP has a slightly lower yield compared to CP.
+- **Peanut Yield (2022)**:
+  - All treatments show similar yields, with no significant differences.
+- **Carrot Yield (2022)**:
+  - Both CAP and BBCAP show similar yields with a slight variation.
+
+### Statistical Information:
+- **Significance Markers**:
+  - Treatments with the same letter (a, b, ab) are not significantly different.
+  - Box plots within the violins indicate the interquartile range (IQR) and median.
+
+### Main Message:
+The figure demonstrates the impact of different rotation treatments on crop yields for maize, peanut, and carrot. It highlights that certain rotations (e.g., CAP and BBCAP) may result in higher yields for specific crops.
+
+### Scientific Context:
+This figure relates to soil health research by illustrating how different crop rotation practices affect yield. Parameters like crop type, rotation treatment, and yield are crucial in understanding soil health and agricultural productivity. The study suggests that sod-based rotations (CAP and BBCAP) may enhance yields for certain crops, potentially due to improved soil structure, nutrient cycling, and microbial activity.
+
+and ef /uniFB01 ciency on crop yields, emphasizing the importance of tailored irrigation practices for different crops.
+
+The average WPC-ETc for maize was 2.6 kg m -3 in both rotation types, while water productivity (WPC-TWU) was 1.7 kg m -3 for conventional rotation and 1.4 kg m -3 for sod-based rotation (Table 6). Zamora Re et al. (2020) reported a WPC-ETc range of 2.96 to 3.33 kg m -3 and WPC-TWU between 1.19 to 1.67 kg m -3 across various irrigation and N fertility treatments on their study conducted from 2015-2017 in Live Oak, FL. Global WPC-ETc values for maize stands at 1.8 kg m -3 while Zwart and Bastiaanssen (2004) reported a WPC-ETc range of 1.1 -2.7 kg m -3 for maize. Djaman et al. (2018) reported WPC-TWU for maize to be in the range of 1.3 to 1.9 kg m -3 and WPC-ETc between 2.0 and 2.3 kg m -3 under semiarid climate. Irmak and Sharma (2015) reported average irrigated maize WPC-ETc of 1.74 kg m -3 (SD = 0.37 kg m -3 ) (range of 1.33 kg m-3 to 2.07 kg m -3 ) and average irrigated soybean WPC-ETc of 0.64 kg m -3 (SD = 0.14 kg m -3 ) (range of 0.54 kg m -3 to 0.81 kg m -3 ) in semi-arid to sub humid climate. In this study, the WPC-ETc for peanuts was 1.4 kg m -3 for conventional rotation and 1.1 kg m -3 for sod-based, while WPCTWU was 0.9 kg m -3 for both types of rotation. Notably, carrot WP CETc was 25.1 kg m -3 for conventional and 28.6 kg m -3 for sod-based rotation, and WPC-TWU was 12.6 kg m -3 for conventional and 14.0 kg m -3 for sod-based rotation (Table 6). Quezada et al. (2011) reported WPC-ETc for carrot in the range between 19.4 to 28.3 kg m -3 across different water treatments under drip irrigation.
+
+Thus, sod-based rotations enhance soil physical properties, water-holding capacity, and bene /uniFB01 cial root microbiomes, which collectively boost crop resilience to environmental /uniFB02 uctuations. Integrating sod crops like bahiagrass within crop rotations increases root biomass, promoting soil aggregation, reducing compaction, and fostering a diverse, stable microbial and root fungal community that strengthens soil structure and resists erosion (Zhang et al., 2022a). Additionally, the buildup of organic matter improves soil porosity and water retention, providing better moisture availability during dry spells and reducing irrigation needs. Enhanced in /uniFB01 ltration also minimizes surface runoff and nutrient leaching, bene /uniFB01 ting long-term soil productivity (Franzluebbers, 2002; Wright et al., 2012). To further understand these cumulative bene /uniFB01 ts, future studies should examine sod-based systems over extended periods, focusing on crop-speci /uniFB01 c rotation schedules, soil and water dynamics, nitrogen dynamics, cost-bene /uniFB01 t evaluations of different BMPs and predictive modeling for diverse climate regions.
+
+
+# 4 Conclusion
+
+This study offers valuable insights into the comparative effects of conventional and sod-based crop rotation on soil properties, moisture dynamics, soil water balance components, and water use
+
+
+### Figure 10 (page 19)
+![Figure 10](figures/figure_010_p19.png)
+<!-- name: figure_010_p19 -->
+
+Analysis of: figure_010_p19.png
+================================================================================
+
+## Content Type: Figure
+
+## Short Description:
+The image presents a collection of scatter plots illustrating the relationship between maize and peanut yields in response to various factors such as crop evapotranspiration (ETc), total water used (TWU), and water productivity (WP). The plots provide insights into how different water-related parameters influence crop yields.
+
+## Detailed Analysis:
+
+### Figure 10: Maize and peanut yield response to crop ETc, total water applied (rainfall + irrigation), crop water productivity (WPc-ETc), and water productivity (WPc-TWU).
+
+The figure consists of eight scatter plots, labeled A to H, arranged in a 2x4 grid. Each plot examines the relationship between yield (maize or peanut) and a specific water-related parameter.
+
+### Plots A and B: Yield vs. ETc
+- **Plot A (Maize Yield vs. Maize ETc):**
+  - **Axes:** X-axis (Maize ETc, 0-600 mm), Y-axis (Maize yield, 13,000-16,000 kg ha⁻¹)
+  - **Equation:** Yieldₘₐᵢₖₑ = 8.4 × ETc + 10,474; R² = 0.28
+- **Plot B (Peanut Yield vs. Peanut ETc):**
+  - **Axes:** X-axis (Peanut ETc, 0-400 mm), Y-axis (Peanut yield, 5,000-9,000 kg ha⁻¹)
+  - **Equation:** Yieldₚₑₐₙᵢₜ = 6.3 × ETc + 4,419; R² = 0.09
+
+### Plots C and D: Yield vs. TWU
+- **Plot C (Maize Yield vs. TWU):**
+  - **Axes:** X-axis (TWU, 0-900 mm), Y-axis (Maize yield, 13,000-16,000 kg ha⁻¹)
+  - **Equation:** Yieldₘₐᵢₖₑ = 0.42x + 14,112; R² = 0.004
+- **Plot D (Peanut Yield vs. TWU):**
+  - **Axes:** X-axis (TWU, 0-900 mm), Y-axis (Peanut yield, 5,000-9,000 kg ha⁻¹)
+  - **Equation:** Yieldₚₑₐₙᵢₜ = -0.99x + 7,385; R² = 0.015
+
+### Plots E and F: Yield vs. WPc-ETc
+- **Plot E (Maize Yield vs. WPc-ETc):**
+  - **Axes:** X-axis (WPc-ETc, 0-3 kg m⁻³), Y-axis (Maize yield, 13,000-16,000 kg ha⁻¹)
+  - **Equation:** Yieldₘₐᵢₖₑ = 1,523x + 10,586; R² = 0.42
+- **Plot F (Peanut Yield vs. WPc-ETc):**
+  - **Axes:** X-axis (WPc-ETc, 0-2 kg m⁻³), Y-axis (Peanut yield, 5,000-9,000 kg ha⁻¹)
+  - **Equation:** Yieldₚₑₐₙᵢₜ = 1,341x + 4,833; R² = 0.15
+
+### Plots G and H: Yield vs. WPc-TWU
+- **Plot G (Maize Yield vs. WPc-TWU):**
+  - **Axes:** X-axis (WPc-TWU, 0-3 kg m⁻³), Y-axis (Maize yield, 13,000-16,000 kg ha⁻¹)
+  - **Equation:** Yieldₘₐᵢₖₑ = 1,106x + 12,679; R² = 0.12
+- **Plot H (Peanut Yield vs. WPc-TWU):**
+  - **Axes:** X-axis (WPc-TWU, 0-1.5 kg m⁻³), Y-axis (Peanut yield, 5,000-9,000 kg ha⁻¹)
+  - **Equation:** Yieldₚₑₐₙᵢₜ = 2,808x + 4,116; R² = 0.33
+
+## Main Takeaway:
+The plots demonstrate varying degrees of correlation between crop yields (maize and peanut) and different water-related parameters (ETc, TWU, WPc-ETc, WPc-TWU). The R² values indicate the strength of these relationships, with higher R² values suggesting stronger correlations.
+
+## Scientific Context:
+This analysis relates to soil health research by highlighting the importance of water management in crop production. Understanding the relationships between evapotranspiration, water productivity, and crop yields can inform strategies for optimizing irrigation and improving water use efficiency, which are critical for maintaining soil health and ensuring sustainable agricultural practices. Parameters such as ETc, TWU, and water productivity (WP) are essential in assessing how crops respond to different water conditions, ultimately impacting soil moisture levels, nutrient cycling, and overall soil quality.
+
+ef /uniFB01 ciency within the unique environmental context of the Suwannee River Basin in Northern Florida. Spanning from 2019 to 2022, the study accounted for one cycle of sod-based crop rotation and two cycles of conventional rotation, offering a comprehensive comparison of their impacts on soil and water dynamics. Four research years differed substantially in terms of precipitation amount and distribution as well as other climatic variables. In 2021, the study area experienced the highest rainfall out of the study period, totaling 1417 mm, followed by 1365 mm in 2020 -both exceeding the historical annual average of 1243 mm.
+
+Conversely, 2019 and 2022 received the lowest totals of 1091 mm and 1130 mm, respectively. The results demonstrate that although both conventional and sod-based rotation share comparable bulk densities (1.4 g cm -3 ) and total porosities (48%), sod-based rotation are characterized by on an average, a 72% average increase in /uniFB01 eld capacity in top 15 cm of soil pro /uniFB01 le, a 31% enhancement in SOC in top 15 cm of soil pro /uniFB01 le, and 101% higher soil aggregate stability across soil pro /uniFB01 le (0 to 90 cm). These positive changes suggest improved soil structure and functionality, leading to better moisture retention. For example, sod-based rotation, particularly the BBCP,
+
+reports the highest average soil moisture content for maize (2021 growing season) at 18 mm and for peanuts (2022 growing season) at 14 mm, implying higher moisture retention capabilities when compared to conventional practices. The research emphasizes the importance of effective water management, particularly due to the signi /uniFB01 cant volume of water subject to deep percolation. Given the basin ' s sandy soils, which are prone to rapid water in /uniFB01 ltration, this /uniFB01 nding highlights the need for precise irrigation strategies to conserve water and prevent loss. The sod-based rotation showed potential for improved water retention and use ef /uniFB01 ciency without signi /uniFB01 cantly compromising crop yield, suggesting it as a promising approach for enhancing agricultural sustainability in waterlimited environments.
+
+
+# Con /uniFB02 ict of interest
+
+The authors declare that the research was conducted in the absence of any commercial or /uniFB01 nancial relationships that could be construed as a potential con /uniFB02 ict of interest.
+
+
+# Generative AI statement
+
+The author(s) declare that no Generative AI was used in the creation of this manuscript.
+
+
+# Publisher ' s note
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their af /uniFB01 liated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.

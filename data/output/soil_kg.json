@@ -1,0 +1,3366 @@
+{
+  "entities": {
+    "ent_fbd0e51d": {
+      "name": "PC rotation",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "evidence_quote": "- PC and CP rotations show different impacts on soil water balance components.",
+      "paper_source": "soil1.txt",
+      "description": "A conventional crop rotation involving peanut and maize.",
+      "id": "ent_fbd0e51d",
+      "aliases": [
+        "PC",
+        "PC Rotation",
+        "PC rotation",
+        "Rotation PC",
+        "peanut-maize rotation"
+      ]
+    },
+    "ent_800c9af4": {
+      "name": "CP rotation",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "evidence_quote": "- PC and CP rotations show different impacts on soil water balance components.",
+      "paper_source": "soil1.txt",
+      "description": "A conventional crop rotation involving maize and peanut.",
+      "id": "ent_800c9af4",
+      "aliases": [
+        "CP",
+        "CP Rotation",
+        "CP rotation",
+        "Conventional Rotation (CP)",
+        "Maize-Peanut rotation",
+        "Rotation CP",
+        "maize-peanut rotation"
+      ]
+    },
+    "ent_d9661c9d": {
+      "name": "CAP rotation",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "evidence_quote": "- Sod-based systems (BBCP, BBCAP) exhibit higher water retention and productivity compared to conventional systems.",
+      "paper_source": "soil1.txt",
+      "description": "A conventional crop rotation involving maize, carrot, and peanut.",
+      "id": "ent_d9661c9d",
+      "aliases": [
+        "CAP",
+        "CAP Rotation",
+        "CAP rotation",
+        "Conventional Rotation (CAP)",
+        "Maize-Carrot-Peanut rotation",
+        "Rotation CAP",
+        "maize-carrot-peanut rotation"
+      ]
+    },
+    "ent_6c5fe531": {
+      "name": "BBCP rotation",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "evidence_quote": "- Sod-based systems (BBCP, BBCAP) exhibit higher water retention and productivity compared to conventional systems.",
+      "paper_source": "soil1.txt",
+      "description": "A sod-based crop rotation involving bahiagrass followed by maize and peanut.",
+      "id": "ent_6c5fe531",
+      "aliases": [
+        "BBCAP",
+        "BBCAP Rotation",
+        "BBCAP rotation",
+        "BBCP",
+        "BBCP Rotation",
+        "BBCP rotation",
+        "Bahiagrass-Maize-Carrot-Peanut rotation",
+        "Rotation BBCP",
+        "bahiagrass-bahiagrass-maize-peanut rotation"
+      ]
+    },
+    "ent_040d4971": {
+      "name": "Peanut",
+      "entity_type": "CROP_SPECIES",
+      "evidence_quote": "| PC         | Peanut     |             518 |               197 |       498 |            17 |                     199 |                             -2.3 | 7318                | 1.47                                             | 1.02                                        |",
+      "paper_source": "soil1.txt",
+      "description": "A crop species commonly rotated in the study.",
+      "id": "ent_040d4971",
+      "aliases": [
+        "Arachis hypogaea",
+        "Peanut",
+        "peanut"
+      ]
+    },
+    "ent_adebcae3": {
+      "name": "Maize",
+      "entity_type": "CROP_SPECIES",
+      "evidence_quote": "| PC         | Maize      |           19 |           31 |           53 |           94 |                     12 |              1.8 |      762 |         694 |       2147 |",
+      "paper_source": "soil1.txt",
+      "description": "A crop species commonly rotated in the study.",
+      "id": "ent_adebcae3",
+      "aliases": [
+        "Maize",
+        "Zea mays",
+        "corn",
+        "maize"
+      ]
+    },
+    "ent_c04e01db": {
+      "name": "Carrot",
+      "entity_type": "CROP_SPECIES",
+      "evidence_quote": "| CAP        | Carrot     |           11 |           23 |           55 |           93 |                      6 |              1.9 |      382 |         410 |       2281 |",
+      "paper_source": "soil1.txt",
+      "description": "A crop species included in some rotations in the study.",
+      "id": "ent_c04e01db",
+      "aliases": [
+        "Carrot",
+        "Daucus carota",
+        "carrot"
+      ]
+    },
+    "ent_173e8bff": {
+      "name": "Bahiagrass",
+      "entity_type": "CROP_SPECIES",
+      "evidence_quote": "| BBCP       | Bahiagrass |           17 |           28 |           57 |           95 |                      9 |              1.7 |     2234 |        2212 |       7689 |",
+      "paper_source": "soil1.txt",
+      "description": "A sod-based crop species included in some rotations in the study.",
+      "id": "ent_173e8bff",
+      "aliases": [
+        "Bahiagrass",
+        "Bahiagrass species",
+        "Paspalum notatum",
+        "bahiagrass"
+      ]
+    },
+    "ent_4b7c4584": {
+      "name": "PC",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "evidence_quote": "| PC         | Peanut     |           22 |           33 |           55 |           97 |                     13 |              1.5 |      518 |         642 |       1745 |",
+      "paper_source": "soil1.txt",
+      "description": "A conventional crop rotation system involving Peanut and Maize.",
+      "id": "ent_4b7c4584"
+    },
+    "ent_8e1a965c": {
+      "name": "CP",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "evidence_quote": "| CP         | Maize      |           19 |           31 |           50 |           95 |                     13 |              1.7 |      572 |         677 |       2032 |",
+      "paper_source": "soil1.txt",
+      "description": "A conventional crop rotation system involving Maize and Peanut.",
+      "id": "ent_8e1a965c"
+    },
+    "ent_f99d60c0": {
+      "name": "CAP",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "evidence_quote": "| CAP        | Maize      |           19 |           31 |           50 |           95 |                     12 |              1.7 |      573 |         680 |       2037 |",
+      "paper_source": "soil1.txt",
+      "description": "A conventional crop rotation system involving Maize, Carrot, and Peanut.",
+      "id": "ent_f99d60c0"
+    },
+    "ent_7b9a8582": {
+      "name": "BBCP",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "evidence_quote": "| BBCP       | Bahiagrass |           17 |           28 |           57 |           95 |                      9 |              1.7 |     2234 |        2212 |       7689 |",
+      "paper_source": "soil1.txt",
+      "description": "A sod-based crop rotation system involving Bahiagrass followed by Maize and Peanut.",
+      "id": "ent_7b9a8582"
+    },
+    "ent_b7863d64": {
+      "name": "BBCAP",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "evidence_quote": "| BBCAP      | Bahiagrass |           17 |           28 |           57 |           95 |                      9 |              1.7 |     2234 |        2212 |       7689 |",
+      "paper_source": "soil1.txt",
+      "description": "A sod-based crop rotation system involving Bahiagrass followed by Maize, Carrot, and Peanut.",
+      "id": "ent_b7863d64",
+      "aliases": [
+        "BBCAP",
+        "BBCAP Rotation"
+      ]
+    },
+    "ent_71f92a3d": {
+      "name": "T_min",
+      "entity_type": "ENVIRONMENTAL_FACTOR",
+      "evidence_quote": "• $T_{min}$: 2°C (Peanut in BBCAP), 22°C (Peanut in PC, CP, CAP, BBCP, BBCAP)",
+      "paper_source": "soil1.txt",
+      "description": "Minimum temperature required for crop growth.",
+      "id": "ent_71f92a3d"
+    },
+    "ent_72252d41": {
+      "name": "T_max",
+      "entity_type": "ENVIRONMENTAL_FACTOR",
+      "evidence_quote": "• $T_{max}$: 33°C (Peanut in PC, BBCP, BBCAP), 32°C (Peanut in CP, CAP)",
+      "paper_source": "soil1.txt",
+      "description": "Maximum temperature required for crop growth.",
+      "id": "ent_72252d41"
+    },
+    "ent_872a14f6": {
+      "name": "RH_min",
+      "entity_type": "ENVIRONMENTAL_FACTOR",
+      "evidence_quote": "• $RH_{min}$: 50% (Maize in PC, CAP), 53% (Maize in PC)",
+      "paper_source": "soil1.txt",
+      "description": "Minimum relative humidity required for crop growth.",
+      "id": "ent_872a14f6"
+    },
+    "ent_ab246a29": {
+      "name": "RH_max",
+      "entity_type": "ENVIRONMENTAL_FACTOR",
+      "evidence_quote": "• $RH_{max}$: 97% (Peanut in PC, CP, BBCP, BBCAP), 96% (Multiple entries)",
+      "paper_source": "soil1.txt",
+      "description": "Maximum relative humidity required for crop growth.",
+      "id": "ent_ab246a29"
+    },
+    "ent_7cda8c0a": {
+      "name": "Soil Water Content",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "evidence_quote": "The graphs illustrate how soil water content varies over time for different crops (maize, peanut, carrot) and soil depths (15 cm, 30 cm, 45 cm).",
+      "paper_source": "soil1.txt",
+      "description": "A measure of the amount of water present in the soil at a given time.",
+      "id": "ent_7cda8c0a",
+      "aliases": [
+        "Total soil water content"
+      ]
+    },
+    "ent_18dc8464": {
+      "name": "Soil Depth",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "evidence_quote": "The graphs illustrate how soil water content varies over time for different crops (maize, peanut, carrot) and soil depths (15 cm, 30 cm, 45 cm).",
+      "paper_source": "soil1.txt",
+      "description": "The vertical depth at which soil properties are measured.",
+      "id": "ent_18dc8464"
+    },
+    "ent_4dee8231": {
+      "name": "Conventional Rotation",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "evidence_quote": "Conversely, conventional rotation exhibited higher /uniFB02 uctuations in soil moisture.",
+      "paper_source": "soil1.txt",
+      "description": "A traditional crop rotation system without the inclusion of perennial grasses.",
+      "id": "ent_4dee8231",
+      "aliases": [
+        "Conventional Rotation",
+        "Conventional Rotations"
+      ]
+    },
+    "ent_91e29b8d": {
+      "name": "Sod-Based Rotation",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "evidence_quote": "The inclusion of perennial grass fosters a stable supply of moisture, which is especially advantageous during sparse rainfall or in the intervals between irrigation.",
+      "paper_source": "soil1.txt",
+      "description": "A crop rotation system that includes perennial grasses to improve soil moisture stability.",
+      "id": "ent_91e29b8d",
+      "aliases": [
+        "Sod-Based Rotation",
+        "Sod-Based Rotations",
+        "Sod-based rotation treatments",
+        "Sod-based rotations",
+        "sod-based crop rotations",
+        "sod-based rotations",
+        "sod-based systems"
+      ]
+    },
+    "ent_321907a4": {
+      "name": "Perennial Grass",
+      "entity_type": "CROP_SPECIES",
+      "evidence_quote": "The inclusion of perennial grass fosters a stable supply of moisture, which is especially advantageous during sparse rainfall or in the intervals between irrigation.",
+      "paper_source": "soil1.txt",
+      "description": "A type of grass that is perennial and used in sod-based rotations to improve soil moisture retention.",
+      "id": "ent_321907a4"
+    },
+    "ent_f7fc16b0": {
+      "name": "ETc",
+      "entity_type": "QUANTITATIVE_OUTCOME",
+      "description": "Evapotranspiration, a key parameter for assessing crop water use and productivity.",
+      "evidence_quote": "Parameters like ETc are essential for assessing soil water balance and overall soil health.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "evapotranspiration"
+      ],
+      "id": "ent_f7fc16b0"
+    },
+    "ent_4a18a440": {
+      "name": "Grain Yield",
+      "entity_type": "PLANT_RESPONSE",
+      "description": "A measured plant outcome representing the yield of crops like maize and peanuts.",
+      "evidence_quote": "average values for grain yield and ETc were calculated from various crop production systems",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "crop yield"
+      ],
+      "id": "ent_4a18a440"
+    },
+    "ent_05a51f3a": {
+      "name": "Water Use Efficiency (WUE)",
+      "entity_type": "PLANT_RESPONSE",
+      "description": "A measure of how efficiently a plant uses water to produce biomass or yield.",
+      "evidence_quote": "highlighting how crop water productivity varies under different environmental conditions",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "water productivity"
+      ],
+      "id": "ent_05a51f3a"
+    },
+    "ent_a0476d6f": {
+      "name": "Irrigation Scheduling",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "The practice of determining when and how much water to apply to crops, based on grower practices in the North Florida region.",
+      "evidence_quote": "the irrigation scheduling for both crops in the study, which followed typical growers ' practices in the North Florida region",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_a0476d6f"
+    },
+    "ent_47cb3e72": {
+      "name": "Baseline ETc",
+      "entity_type": "QUANTITATIVE_OUTCOME",
+      "description": "The minimum level of evapotranspiration required before any seed yield is produced, observed as approximately 300 mm for maize and 100 mm for peanuts.",
+      "evidence_quote": "A baseline ETc of approximately 300 mm for maize and approximately 100 mm for peanuts was observed.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_47cb3e72"
+    },
+    "ent_b2a4fa63": {
+      "name": "Seasonal Transpiration Efficiency",
+      "entity_type": "QUANTITATIVE_OUTCOME",
+      "description": "The efficiency of seasonal transpiration in producing crop yield, measured as 8.4 kg ha⁻¹ mm⁻¹ for maize and 6.3 kg ha⁻¹ mm⁻¹ for peanuts.",
+      "evidence_quote": "the ef /uniFB01 ciency of seasonal transpiration was found to be 8.4 kg ha -1 mm -1 of ETc for maize and 6.3 kg ha -1 mm -1 of ETc for peanuts.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_b2a4fa63"
+    },
+    "ent_189c7582": {
+      "name": "Saturated Water Content (Qs)",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "The maximum water content a soil can hold when fully saturated.",
+      "evidence_quote": "Q s is saturated water content (cm 3 cm -3 ), Q r is residual water content (cm 3 cm -3 ), a is inverse of air entry suction (cm -1 ), n is soil pore size distribution measure.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Qs"
+      ],
+      "id": "ent_189c7582"
+    },
+    "ent_aeed2bc5": {
+      "name": "Residual Water Content (Qr)",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "The minimum water content remaining in soil after drainage.",
+      "evidence_quote": "Q s is saturated water content (cm 3 cm -3 ), Q r is residual water content (cm 3 cm -3 ), a is inverse of air entry suction (cm -1 ), n is soil pore size distribution measure.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Qr"
+      ],
+      "id": "ent_aeed2bc5"
+    },
+    "ent_20d3fb40": {
+      "name": "Air Entry Suction (a)",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "The inverse of air entry suction, representing the soil's resistance to air entry during drainage.",
+      "evidence_quote": "Q s is saturated water content (cm 3 cm -3 ), Q r is residual water content (cm 3 cm -3 ), a is inverse of air entry suction (cm -1 ), n is soil pore size distribution measure.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "a"
+      ],
+      "id": "ent_20d3fb40"
+    },
+    "ent_b6e1f1fe": {
+      "name": "Soil Pore Size Distribution (n)",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "A measure of the distribution of pore sizes in the soil, affecting water retention and drainage.",
+      "evidence_quote": "Q s is saturated water content (cm 3 cm -3 ), Q r is residual water content (cm 3 cm -3 ), a is inverse of air entry suction (cm -1 ), n is soil pore size distribution measure.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "n"
+      ],
+      "id": "ent_b6e1f1fe"
+    },
+    "ent_88eec94a": {
+      "name": "Rototiller",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "A mechanical tool used to prepare the seedbed by breaking up and turning over the soil.",
+      "evidence_quote": "Many growers use a rototiller to prepare the seedbed, while others opt for a /uniFB01 eld cultivator equipped with a crumbling roller to achieve the necessary /uniFB01 ne soil texture for seeding.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_88eec94a"
+    },
+    "ent_fc6f9a38": {
+      "name": "Field Cultivator with Crumbling Roller",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "A tool used to prepare the seedbed by breaking up and loosening the soil to achieve a fine texture for seeding.",
+      "evidence_quote": "Many growers use a rototiller to prepare the seedbed, while others opt for a /uniFB01 eld cultivator equipped with a crumbling roller to achieve the necessary /uniFB01 ne soil texture for seeding.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_fc6f9a38"
+    },
+    "ent_d76e9b6e": {
+      "name": "Undercutter",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "A tool used during harvesting to loosen carrots from the soil by undercutting the beds.",
+      "evidence_quote": "In addition, when harvesting, carrots were loosened from the soil by undercutting the beds with a metal undercutter, which further disturbs the soil.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_d76e9b6e"
+    },
+    "soil1.txt_ENTITY_000": {
+      "id": "soil1.txt_ENTITY_000",
+      "name": "Suwannee River Basin",
+      "entity_type": "GEOGRAPHIC_REGION",
+      "description": "Study region in Florida with karst and sandy soils.",
+      "evidence_quote": "This study assessed the impact of conventional and sod-based crop rotations on water dynamics within the Suwannee River Basin ' s unique karst and sandy soil environment from 20192022.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "SRB",
+        "Suwannee Basin",
+        "Suwannee River Basin",
+        "Suwannee River basin"
+      ]
+    },
+    "soil1.txt_ENTITY_001": {
+      "id": "soil1.txt_ENTITY_001",
+      "name": "Field Capacity (FC)",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "The maximum amount of water a soil can hold against gravity.",
+      "evidence_quote": "Field capacity (FC) values (Figure 5) varied across different crop rotation and soil types, re /uniFB02 ecting how agricultural practices in /uniFB02 uence soil water retention.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "FC"
+      ]
+    },
+    "soil1.txt_ENTITY_007": {
+      "id": "soil1.txt_ENTITY_007",
+      "name": "Soil water storage (∆S)",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "Soil water storage change measured in mm for different crop rotations and conditions during 2019-2022 growing seasons.",
+      "evidence_quote": "Soil water storage (∆S) (mm)",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95
+    },
+    "soil1.txt_ENTITY_008": {
+      "id": "soil1.txt_ENTITY_008",
+      "name": "Yield",
+      "entity_type": "PLANT_RESPONSE",
+      "description": "Crop yield measured in Kg ha⁻¹ for different crop rotations and conditions during 2019-2022 growing seasons.",
+      "evidence_quote": "Yield (Kg ha⁻¹)",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95
+    },
+    "soil1.txt_ENTITY_009": {
+      "id": "soil1.txt_ENTITY_009",
+      "name": "Crop water productivity (WPₑ-ETc)",
+      "entity_type": "QUANTITATIVE_OUTCOME",
+      "description": "Crop water productivity measured in kg m⁻³ for different crop rotations and conditions during 2019-2022 growing seasons.",
+      "evidence_quote": "Crop water productivity (WPₑ-ETc) (kg m⁻³)",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95
+    },
+    "soil1.txt_ENTITY_010": {
+      "id": "soil1.txt_ENTITY_010",
+      "name": "Water productivity (WPₑ-TWU)",
+      "entity_type": "QUANTITATIVE_OUTCOME",
+      "description": "Water productivity measured in kg m⁻³ for different crop rotations and conditions during 2019-2022 growing seasons.",
+      "evidence_quote": "Water productivity (WPₑ-TWU) (kg m⁻³)",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95
+    },
+    "soil1.txt_ENTITY_011": {
+      "id": "soil1.txt_ENTITY_011",
+      "name": "Shift from perennial to annual crops",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "The shift from perennial to annual crops has led to increased environmental challenges related to water, such as erosion and water quality degradation.",
+      "evidence_quote": "Historical data suggest that the decline in cropping system diversity, notably the shift from perennial to annual crops, has led to increased environmental challenges related to water, such as erosion and water quality degradation (Aguilar et al., 2015).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "aliases": []
+    },
+    "soil1.txt_ENTITY_012": {
+      "id": "soil1.txt_ENTITY_012",
+      "name": "Traditional crop rotation (maize-peanut)",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "Growers in the North Florida region frequently adopt a traditional crop rotation practice involving maize and peanuts.",
+      "evidence_quote": "Growers in the North Florida region frequently adopt a traditional crop rotation practice involving maize and peanuts (Wright et al., 2022).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "aliases": [
+        "Traditional crop rotation (maize-peanut or peanut-cotton)",
+        "maize-peanut",
+        "maize-peanut rotation"
+      ]
+    },
+    "soil1.txt_ENTITY_002": {
+      "id": "soil1.txt_ENTITY_002",
+      "name": "Suwannee County",
+      "entity_type": "EXPERIMENTAL_CONTEXT",
+      "description": "Suwannee County in the Suwannee River Basin reported freshwater withdrawals for agriculture use.",
+      "evidence_quote": "The Suwannee County in SRB reported freshwater withdrawals of 0.116 million m³ day -1 from surface (~0.5%) and groundwater (~99.5%) sources for agriculture use (Marella, 2020).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "aliases": []
+    },
+    "soil1.txt_ENTITY_003": {
+      "id": "soil1.txt_ENTITY_003",
+      "name": "Subtropical climate",
+      "entity_type": "ENVIRONMENTAL_FACTOR",
+      "description": "Climate with long, warm summers and mild winters, with 20-year average annual rainfall of about 1243 mm.",
+      "evidence_quote": "The study area ' s climate is subtropical, featuring long, warm summers and mild winters, with 20 year average annual rainfall of about 1243 mm (FAWN, 2022).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Subtropical"
+      ]
+    },
+    "soil1.txt_ENTITY_004": {
+      "id": "soil1.txt_ENTITY_004",
+      "name": "Blanton, Foxworth-Alpin soil",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "A specific soil type used in the study.",
+      "evidence_quote": "For the maize-peanut rotation in the Blanton, Foxworth-Alpin soil, the Van Genuchten model estimated FC at 7.9%, while the Brooks and Corey model estimated at 7.6%.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Blanton, Foxworth-Alpin",
+        "Blanton, Foxworth-Alpin Soil",
+        "Blanton-Foxworth-Alpin"
+      ]
+    },
+    "soil1.txt_ENTITY_005": {
+      "id": "soil1.txt_ENTITY_005",
+      "name": "Runoff",
+      "entity_type": "SOIL_PROCESS",
+      "description": "Runoff measured in mm for different crop rotations and conditions during 2019-2022 growing seasons.",
+      "evidence_quote": "Runoff (mm)",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95
+    },
+    "soil1.txt_ENTITY_006": {
+      "id": "soil1.txt_ENTITY_006",
+      "name": "RMSE",
+      "entity_type": "QUANTITATIVE_OUTCOME",
+      "description": "Root Mean Square Error, a metric used to assess model accuracy.",
+      "evidence_quote": "The precision of these models is evidenced by the /uniFB01 t metrics provided in Tables 4, 5, including RMSE, NRMSE, and NSE, all of which con /uniFB01 rm the robustness of the models with NSE values very close to 1.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "RMSE"
+      ]
+    },
+    "ent_1847b6fb": {
+      "name": "Soil Water Balance",
+      "entity_type": "SOIL_PROCESS",
+      "description": "The estimation of components of soil water balance, including crop evapotranspiration.",
+      "evidence_quote": "Estimating soil water balance components, including crop evapotranspiration, is crucial for comparing water use in sodbased versus conventional crop systems.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Soil Water Balance",
+        "Soil water balance",
+        "water balance"
+      ],
+      "id": "ent_1847b6fb"
+    },
+    "ent_d5811dd3": {
+      "name": "Crop Evapotranspiration",
+      "entity_type": "SOIL_PROCESS",
+      "description": "The process of water loss from crops through evaporation and transpiration.",
+      "evidence_quote": "Estimating soil water balance components, including crop evapotranspiration, is crucial for comparing water use in sodbased versus conventional crop systems.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Crop Evapotranspiration (ETc)",
+        "ETc"
+      ],
+      "id": "ent_d5811dd3"
+    },
+    "ent_2f549e04": {
+      "name": "Conventional Crop Systems",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "Traditional crop systems without the inclusion of sod-based crops.",
+      "evidence_quote": "Estimating soil water balance components, including crop evapotranspiration, is crucial for comparing water use in sodbased versus conventional crop systems.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "conventional systems"
+      ],
+      "id": "ent_2f549e04"
+    },
+    "ent_5265d700": {
+      "name": "Soil Aggregate Stability",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "The ability of soil aggregates to resist disintegration when exposed to external forces such as water or tillage.",
+      "evidence_quote": "While some research has focused on how sod-based rotations impact soil aggregate stability, structure, and in /uniFB01 ltration rates, there remains limited data on the dynamics of water balance components and water-use ef /uniFB01 ciency within sod-based systems.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "VSA",
+        "Volumetric Soil Aggregate Stability",
+        "aggregate stability",
+        "soil aggregate stability"
+      ],
+      "id": "ent_5265d700"
+    },
+    "ent_7cfe83f0": {
+      "name": "Soil Structure",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "The arrangement of soil particles into aggregates, which affects water infiltration and root growth.",
+      "evidence_quote": "While some research has focused on how sod-based rotations impact soil aggregate stability, structure, and in /uniFB01 ltration rates, there remains limited data on the dynamics of water balance components and water-use ef /uniFB01 ciency within sod-based systems.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "soil structure"
+      ],
+      "id": "ent_7cfe83f0"
+    },
+    "ent_d8969d74": {
+      "name": "Infiltration Rates",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "The rate at which water enters the soil, influenced by soil structure and aggregate stability.",
+      "evidence_quote": "While some research has focused on how sod-based rotations impact soil aggregate stability, structure, and in /uniFB01 ltration rates, there remains limited data on the dynamics of water balance components and water-use ef /uniFB01 ciency within sod-based systems.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "infiltration"
+      ],
+      "id": "ent_d8969d74"
+    },
+    "ent_e7597d8d": {
+      "name": "BBPC rotation",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "A two-year rotation involving bahiagrass followed by maize and peanuts.",
+      "evidence_quote": "These include two years of bahiagrass followed by maize and peanuts (BBPC), and two years of bahiagrass followed by maize, carrots, and peanuts (BBCAP).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "BBPC",
+        "Bahiagrass-Maize-Peanut rotation"
+      ],
+      "id": "ent_e7597d8d"
+    },
+    "ent_7a462756": {
+      "name": "Hurricane series soil",
+      "entity_type": "EXPERIMENTAL_CONTEXT",
+      "description": "A soil type found at the study site, characterized by being very deep, sandy, siliceous, thermic, and somewhat poorly drained with rapid permeability.",
+      "evidence_quote": "The hurricane series is comprised of very deep sandy, siliceous, thermic oxyaquic Alorthod, which are somewhat poorly drained, and have rapid permeability, while the Blanton series comprises of loamy, silicous, semiactive thermic Grossarenic Paleudults, deep and moderately well drained soils.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Hurricane series",
+        "Hurricane soil"
+      ],
+      "id": "ent_7a462756"
+    },
+    "ent_620832e1": {
+      "name": "Blanton series soil",
+      "entity_type": "EXPERIMENTAL_CONTEXT",
+      "description": "A soil type found at the study site, characterized by being loamy, siliceous, semiactive thermic, and moderately well drained.",
+      "evidence_quote": "The hurricane series is comprised of very deep sandy, siliceous, thermic oxyaquic Alorthod, which are somewhat poorly drained, and have rapid permeability, while the Blanton series comprises of loamy, siliceous, semiactive thermic Grossarenic Paleudults, deep and moderately well drained soils.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Blanton series",
+        "Blanton soil"
+      ],
+      "id": "ent_620832e1"
+    },
+    "management_practice_001": {
+      "id": "management_practice_001",
+      "name": "Variable Rate Irrigation (VRI) with GPS guided center pivot",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "Irrigation system with zone control capabilities used in the study.",
+      "evidence_quote": "The study employed a uniFB01 ve span GPS guided center pivot irrigation system with Variable rate Irrigation (VRI) zone control capabilities (Valmont Industries, Valley, Nebraska), adhering to standard irrigation scheduling practices common in Northern Florida.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "VRI system",
+        "GPS-guided irrigation"
+      ]
+    },
+    "management_practice_002": {
+      "id": "management_practice_002",
+      "name": "Inorganic fertilization (granular and liquid)",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "Application of inorganic fertilizers in granular and liquid forms.",
+      "evidence_quote": "Fertilization was applied in two forms: inorganic fertilization utilized a mix of granular and liquid fertilizers, while broiler litter, commonly used as organic fertilizer in the North Florida region, was speci /uniFB01 cally applied to maize.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Inorganic fertilizer application"
+      ]
+    },
+    "management_practice_003": {
+      "id": "management_practice_003",
+      "name": "Broiler litter application",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "Application of broiler litter as organic fertilizer, specifically to maize.",
+      "evidence_quote": "Fertilization was applied in two forms: inorganic fertilization utilized a mix of granular and liquid fertilizers, while broiler litter, commonly used as organic fertilizer in the North Florida region, was speci /uniFB01 cally applied to maize.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Organic fertilizer application",
+        "Broiler litter use"
+      ]
+    },
+    "management_practice_004": {
+      "id": "management_practice_004",
+      "name": "Animal grazing rotation",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "Rotation of cows on sections BBCP and BBCAP as part of the study.",
+      "evidence_quote": "The study also incorporated an animal grazing component, with cows rotated on sections BBCP and BBCAP. This grazing protocol involved rotating 65 to 75 cows off the land when the grass reached approximately 5 cm in height.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Grazing protocol",
+        "Cattle rotation"
+      ]
+    },
+    "management_practice_005": {
+      "id": "management_practice_005",
+      "name": "Strip-tilling for corn and peanut",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "Field preparation method for corn and peanut involving strip-tilling and residue management by disking.",
+      "evidence_quote": "For corn and peanut, /uniFB01 eld preparation included strip-tilling, with residue from the previous crops (peanut and corn) managed by disking. Plowing was avoided in both crops to prevent damage to lysimeters installed in the /uniFB01 eld.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Strip-till method",
+        "Residue management"
+      ]
+    },
+    "management_practice_006": {
+      "id": "management_practice_006",
+      "name": "Carrot field preparation (discing and rototilling)",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "Field preparation for carrot crops using discing and rototilling to create a fine seedbed.",
+      "evidence_quote": "For carrot, the /uniFB01 eld was prepared by discing and using a rototiller to create a /uniFB01 ne seedbed conducive to optimal germination and growth.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Carrot seedbed preparation",
+        "Fine seedbed method"
+      ]
+    },
+    "crop_species_001": {
+      "id": "crop_species_001",
+      "name": "Maize (Dekalb 62 08RIB)",
+      "entity_type": "CROP_SPECIES",
+      "description": "Maize variety used in the study with specific planting parameters.",
+      "evidence_quote": "Maize variety Dekalb 62 08RIB was established with the same row spacing of 76.2 cm but with plants spaced 16.5 cm within rows, yielding a seeding rate of 79,074 seeds ha -1 .",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Maize Dekalb 62 08RIB",
+        "Corn variety"
+      ]
+    },
+    "crop_species_002": {
+      "id": "crop_species_002",
+      "name": "Peanut (Georgia 06 G)",
+      "entity_type": "CROP_SPECIES",
+      "description": "Peanut variety used in the study with specific planting parameters.",
+      "evidence_quote": "The peanut variety Georgia 06 G was planted with rows spaced 76.2 cm apart and plants set 6 cm apart within each row, reaching a seeding rate of 289,113 seeds ha -1 .",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Peanut Georgia 06 G",
+        "Peanut variety"
+      ]
+    },
+    "crop_species_003": {
+      "id": "crop_species_003",
+      "name": "Carrot (Maverick)",
+      "entity_type": "CROP_SPECIES",
+      "description": "Carrot cultivar used in the study with specific planting parameters.",
+      "evidence_quote": "Carrot cultivar Maverick was planted in 1-meter wide beds constructed in an East-West direction with a bed spacing of 1.3 m, at a seeding rate of 1,235,526 seeds ha -1 .",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Carrot Maverick",
+        "Carrot cultivar"
+      ]
+    },
+    "crop_species_004": {
+      "id": "crop_species_004",
+      "name": "Bahiagrass (Pensacola, Argentine, Tift 9, Riata)",
+      "entity_type": "CROP_SPECIES",
+      "description": "Bahiagrass varieties used in the study with specific seeding rates.",
+      "evidence_quote": "Pensacola, Argentine, Tift 9, and Riata Bahiagrass were seeded at 56 kg seeds ha -1 .",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Bahiagrass varieties",
+        "Grass species"
+      ]
+    },
+    "ent_4ad8b43e": {
+      "name": "Soil Organic Matter",
+      "entity_type": "SOIL_CHEMICAL_PROPERTY",
+      "description": "The organic component of soil derived from decomposed plant and animal matter.",
+      "evidence_quote": "Soil organic matter content was determined using the loss on ignition method (Latimer, 2023), while soil texture was analyzed using the Bouyoucos hydrometer method (Bouyoucos, 1936; Day, 1965).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "SOM"
+      ],
+      "id": "ent_4ad8b43e"
+    },
+    "ent_a7d9b35c": {
+      "name": "Soil Texture",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "The relative proportions of sand, silt, and clay particles in the soil.",
+      "evidence_quote": "Soil organic matter content was determined using the loss on ignition method (Latimer, 2023), while soil texture was analyzed using the Bouyoucos hydrometer method (Bouyoucos, 1936; Day, 1965).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "texture"
+      ],
+      "id": "ent_a7d9b35c"
+    },
+    "ent_c109a308": {
+      "name": "Loss on Ignition Method",
+      "entity_type": "QUANTITATIVE_OUTCOME",
+      "description": "A method used to determine soil organic matter content by measuring the weight loss of a soil sample after being heated to a high temperature.",
+      "evidence_quote": "Soil organic matter content was determined using the loss on ignition method (Latimer, 2023), while soil texture was analyzed using the Bouyoucos hydrometer method (Bouyoucos, 1936; Day, 1965).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "LOI method"
+      ],
+      "id": "ent_c109a308"
+    },
+    "ent_5c7287af": {
+      "name": "Bouyoucos Hydrometer Method",
+      "entity_type": "QUANTITATIVE_OUTCOME",
+      "description": "A method used to determine soil texture by measuring the settling velocity of soil particles in water.",
+      "evidence_quote": "Soil organic matter content was determined using the loss on ignition method (Latimer, 2023), while soil texture was analyzed using the Bouyoucos hydrometer method (Bouyoucos, 1936; Day, 1965).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Bouyoucos method"
+      ],
+      "id": "ent_5c7287af"
+    },
+    "ent_c47574e3": {
+      "name": "Sand Content",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "The percentage of sand particles in the soil.",
+      "evidence_quote": "Sand: 94.8%, Silt: 2.7%, Clay: 2.5%, Bulk density: 1.4 g cm⁻³, Porosity: 47.9%, SOC: 0.5%, pH: 5.5, CEC: 3.9 meq/100g",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "sand"
+      ],
+      "id": "ent_c47574e3"
+    },
+    "ent_92338663": {
+      "name": "Silt Content",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "The percentage of silt particles in the soil.",
+      "evidence_quote": "Sand: 94.8%, Silt: 2.7%, Clay: 2.5%, Bulk density: 1.4 g cm⁻³, Porosity: 47.9%, SOC: 0.5%, pH: 5.5, CEC: 3.9 meq/100g",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "silt"
+      ],
+      "id": "ent_92338663"
+    },
+    "ent_84acec35": {
+      "name": "Clay Content",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "The percentage of clay particles in the soil.",
+      "evidence_quote": "Sand: 94.8%, Silt: 2.7%, Clay: 2.5%, Bulk density: 1.4 g cm⁻³, Porosity: 47.9%, SOC: 0.5%, pH: 5.5, CEC: 3.9 meq/100g",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "clay"
+      ],
+      "id": "ent_84acec35"
+    },
+    "ent_e240c6fa": {
+      "name": "Bulk Density",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "The mass of dry soil per unit volume, indicating soil compaction.",
+      "evidence_quote": "Sand: 94.8%, Silt: 2.7%, Clay: 2.5%, Bulk density: 1.4 g cm⁻³, Porosity: 47.9%, SOC: 0.5%, pH: 5.5, CEC: 3.9 meq/100g",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "BD",
+        "Bulk Density",
+        "bulk density"
+      ],
+      "id": "ent_e240c6fa"
+    },
+    "ent_cbf62066": {
+      "name": "Porosity",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "The volume of pores in the soil relative to the total volume, affecting water and air movement.",
+      "evidence_quote": "Sand: 94.8%, Silt: 2.7%, Clay: 2.5%, Bulk density: 1.4 g cm⁻³, Porosity: 47.9%, SOC: 0.5%, pH: 5.5, CEC: 3.9 meq/100g",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Porosity",
+        "Total Porosity",
+        "porosity",
+        "soil porosity"
+      ],
+      "id": "ent_cbf62066"
+    },
+    "ent_6e22993f": {
+      "name": "Soil Organic Carbon (SOC)",
+      "entity_type": "SOIL_CHEMICAL_PROPERTY",
+      "description": "The amount of organic carbon stored in the soil, indicating soil fertility and carbon sequestration potential.",
+      "evidence_quote": "Sand: 94.8%, Silt: 2.7%, Clay: 2.5%, Bulk density: 1.4 g cm⁻³, Porosity: 47.9%, SOC: 0.5%, pH: 5.5, CEC: 3.9 meq/100g",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "SOC",
+        "SOC Final 2022",
+        "SOC Initial 2018",
+        "Soil Organic Carbon (SOC)",
+        "Soil Organic Carbon (SOC) - Final (2022)",
+        "Soil Organic Carbon (SOC) - Initial (2018)"
+      ],
+      "id": "ent_6e22993f"
+    },
+    "ent_c726ef8e": {
+      "name": "Soil pH",
+      "entity_type": "SOIL_CHEMICAL_PROPERTY",
+      "description": "A measure of the acidity or alkalinity of the soil, affecting nutrient availability.",
+      "evidence_quote": "Sand: 94.8%, Silt: 2.7%, Clay: 2.5%, Bulk density: 1.4 g cm⁻³, Porosity: 47.9%, SOC: 0.5%, pH: 5.5, CEC: 3.9 meq/100g",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "pH"
+      ],
+      "id": "ent_c726ef8e"
+    },
+    "ent_65532c9e": {
+      "name": "Cation Exchange Capacity (CEC)",
+      "entity_type": "SOIL_CHEMICAL_PROPERTY",
+      "description": "The ability of the soil to hold and exchange cations, influencing nutrient retention and availability.",
+      "evidence_quote": "Sand: 94.8%, Silt: 2.7%, Clay: 2.5%, Bulk density: 1.4 g cm⁻³, Porosity: 47.9%, SOC: 0.5%, pH: 5.5, CEC: 3.9 meq/100g",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "CEC",
+        "Cation Exchange Capacity (CEC)"
+      ],
+      "id": "ent_65532c9e"
+    },
+    "ent_d47f0e16": {
+      "name": "SOC Content",
+      "entity_type": "SOIL_CHEMICAL_PROPERTY",
+      "description": "Soil Organic Carbon content, indicating the amount of organic matter in the soil.",
+      "evidence_quote": "SOC content varies, with the highest in the BBCAP rotation (0.83%) and the lowest in the PC/CP rotation (0.5%).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "SOC"
+      ],
+      "id": "ent_d47f0e16"
+    },
+    "ent_78cb907c": {
+      "name": "pH Level",
+      "entity_type": "SOIL_CHEMICAL_PROPERTY",
+      "description": "The acidity or alkalinity of the soil, measured on a logarithmic scale.",
+      "evidence_quote": "pH levels are slightly acidic to neutral, ranging from 5.5 to 6.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "pH"
+      ],
+      "id": "ent_78cb907c"
+    },
+    "ent_cfef977c": {
+      "name": "PC/CP Rotation",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "A conventional crop rotation involving peanut and carrot.",
+      "evidence_quote": "SOC content varies, with the highest in the BBCAP rotation (0.83%) and the lowest in the PC/CP rotation (0.5%).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "PC/CP"
+      ],
+      "id": "ent_cfef977c"
+    },
+    "ent_ede10d6d": {
+      "name": "Soil Particle Size",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "The distribution of particle sizes in the soil, including sand, silt, and clay fractions.",
+      "evidence_quote": "Soil particle size, pH, cation exchange capacity (CEC), and soil organic carbon (SSOC) were measured on 23 April 2018, while bulk density and porosity were measured on 23 August 2022.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "particle size"
+      ],
+      "id": "ent_ede10d6d"
+    },
+    "ent_d85d5377": {
+      "name": "pH",
+      "entity_type": "SOIL_CHEMICAL_PROPERTY",
+      "description": "A measure of the acidity or alkalinity of the soil solution.",
+      "evidence_quote": "Soil particle size, pH, cation exchange capacity (CEC), and soil organic carbon (SSOC) were measured on 23 April 2018, while bulk density and porosity were measured on 23 August 2022.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "soil pH"
+      ],
+      "id": "ent_d85d5377"
+    },
+    "ent_ae7b8e9f": {
+      "name": "Soil Organic Carbon (SSOC)",
+      "entity_type": "SOIL_CHEMICAL_PROPERTY",
+      "description": "The amount of organic carbon present in the soil, which is an indicator of soil organic matter content.",
+      "evidence_quote": "Soil particle size, pH, cation exchange capacity (CEC), and soil organic carbon (SSOC) were measured on 23 April 2018, while bulk density and porosity were measured on 23 August 2022.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "SSOC"
+      ],
+      "id": "ent_ae7b8e9f"
+    },
+    "ent_65293f59": {
+      "name": "Rotation BBCAP",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "A sod-based crop rotation system involving Bahiagrass followed by Maize, Carrot, and Peanut.",
+      "evidence_quote": "Rotation BBCAP, Crop Maize: Planting date 17/03/21, Harvest date 10/08/21, I 251 mm, N fertilization 222 kg ha⁻¹, Organic N fertilization 81 kg ha⁻¹",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "BBCAP",
+        "BBCAP rotation",
+        "bahiagrass-bahiagrass-maize-carrot-peanut rotation"
+      ],
+      "id": "ent_65293f59"
+    },
+    "ent_ceba0239": {
+      "name": "Volumetric Wet Sieving Method",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "A method to measure soil aggregate stability by immersing soil in water and measuring volume change before and after aggregate breakdown.",
+      "evidence_quote": "The soil aggregate stability test used a volumetric wet sieving method to measure the volume change before and after aggregate breakdown.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "wet sieving method"
+      ],
+      "id": "ent_ceba0239"
+    },
+    "ent_c353e999": {
+      "name": "30-mesh Concave Sieve",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "A sieve used in the volumetric wet sieving method to hold soil during immersion in water.",
+      "evidence_quote": "A set volume of air-dried soil was placed in a 30-mesh concave sieve and immersed by hand in deionized water 20 times over 15 seconds to disintegrate water-sensitive particles.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "30-mesh sieve"
+      ],
+      "id": "ent_c353e999"
+    },
+    "ent_ff1fa4cd": {
+      "name": "Deionized Water Immersion",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "A process in the volumetric wet sieving method where soil is immersed in deionized water to disintegrate water-sensitive particles.",
+      "evidence_quote": "A set volume of air-dried soil was placed in a 30-mesh concave sieve and immersed by hand in deionized water 20 times over 15 seconds to disintegrate water-sensitive particles.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "water immersion"
+      ],
+      "id": "ent_ff1fa4cd"
+    },
+    "ent_7a3b7384": {
+      "name": "Scanning Grid",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "A tool used to measure the surface area of stable soil aggregates after immersion in water.",
+      "evidence_quote": "Remaining stable aggregates were then measured on a scanning grid, with accuracy to the nearest 0.25 cm in diameter.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "grid measurement"
+      ],
+      "id": "ent_7a3b7384"
+    },
+    "ent_976e4c73": {
+      "name": "Rubber Spatula Aggregate Breakdown",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "A manual method to break down non-stable soil aggregates after immersion in water.",
+      "evidence_quote": "The soil was then dipped once more, and the aggregates were manually broken down with a small rubber spatula.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "manual breakdown"
+      ],
+      "id": "ent_976e4c73"
+    },
+    "ent_0d58086c": {
+      "name": "Surface-Area Grid",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "A tool used to measure the surface area of non-aggregate sand particles after manual breakdown of soil aggregates.",
+      "evidence_quote": "Non-aggregate sand particles were subsequently measured on the surface-area grid.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "sand particle grid"
+      ],
+      "id": "ent_0d58086c"
+    },
+    "ent_86e6f82e": {
+      "name": "Water-Stable Aggregate Calculation",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "A calculation method to determine the stability of soil aggregates by comparing surface areas before and after immersion in water.",
+      "evidence_quote": "Water-stable aggregate calculation involved the difference between the initial surface area before dipping and the /uniFB01 nal area after the second dip, divided by the initial fresh surface area before dipping.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "aggregate stability calculation"
+      ],
+      "id": "ent_86e6f82e"
+    },
+    "ent_86dcafbc": {
+      "name": "Soil Core Sampling",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "A method to collect undisturbed soil samples for analysis of moisture characteristics and other properties.",
+      "evidence_quote": "Soil core samples were collected at the end of a 4-year crop rotation cycle on 23 August 2022, using a cylindrical ring with a volume of 153.9 cm³.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "core sampling"
+      ],
+      "id": "ent_86dcafbc"
+    },
+    "ent_916ff266": {
+      "name": "Tempe Cells",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "Equipment used to apply varying air pressures to soil cores to measure soil moisture at different suction levels.",
+      "evidence_quote": "The soil cores were subjected to varying air pressures (0 to ~-914 cm [H20]) in tempe cells, and the soil moisture at different pressures was recorded.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "pressure cells"
+      ],
+      "id": "ent_916ff266"
+    },
+    "ent_ca24e44f": {
+      "name": "Van Genuchten Model",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "A mathematical model used to fit soil moisture characteristic curves by relating soil water content to soil suction.",
+      "evidence_quote": "The soil moisture characteristics curve was then /uniFB01 tted using the Van Genuchten model as outlined in Equation 3 where, q is soil water content (cm 3 cm -3 ), q s is saturated water content (cm 3 cm -3 ), q r is soil residual water content (cm 3 cm -3 ), n is a dimensionless pore size distribution measure, and m is a shape parameters, a is inverse of air entry suction (cm -1 ) ( a > 0), and h is the soil suction (cm of H20) (Van Genuchten, 1980).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "VG model",
+        "Van Genuchten",
+        "Van Genuchten model"
+      ],
+      "id": "ent_ca24e44f"
+    },
+    "ent_ab9ee7f3": {
+      "name": "Rosetta Lite v 1.1",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "A neural network-based software used to predict soil water retention characteristics using soil texture and bulk density data.",
+      "evidence_quote": "The initial estimates for these retention parameters were derived using the Rosetta Lite v 1.1 software (Schaap et al., 2001). It employs a neural network-based prediction method that utilizes the soil texture percentages (sand, silt, clay) and bulk density values to estimate the water retention characteristics of soils.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Rosetta Lite"
+      ],
+      "id": "ent_ab9ee7f3"
+    },
+    "ent_f094e7fc": {
+      "name": "Brooks and Corey Model",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "A mathematical model used to fit soil water retention curves by relating soil water content to air entry pressure and shape parameters.",
+      "evidence_quote": "Moreover, left part of Equations 3 and 4 denote effective water saturation. Curve /uniFB01 tting was done using RETC, Version 6.02 (Van Genuchten et al., 1991). Oven dry weight was calculated by placing the soil in oven at 105°C for 24 hrs. Particle density was assumed to be 2.65 g cm -3 .",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "BC model",
+        "Brooks and Corey",
+        "Brooks and Corey model"
+      ],
+      "id": "ent_f094e7fc"
+    },
+    "ent_2a1b3c4d": {
+      "name": "Precipitation (P)",
+      "entity_type": "ENVIRONMENTAL_FACTOR",
+      "description": "Water input to the soil system from rainfall.",
+      "evidence_quote": "Inputs included precipitation (P) and irrigation (I), while outputs encompassed crop evapotranspiration (ETc, combined water loss through soil evaporation and plant transpiration), runoff (RO), and deep percolation (DP) beyond the root zone.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_2a1b3c4d",
+      "aliases": [
+        "P"
+      ]
+    },
+    "ent_3b4c5d6e": {
+      "name": "Irrigation (I)",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "Application of water to the soil to support crop growth.",
+      "evidence_quote": "Inputs included precipitation (P) and irrigation (I), while outputs encompassed crop evapotranspiration (ETc, combined water loss through soil evaporation and plant transpiration), runoff (RO), and deep percolation (DP) beyond the root zone.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_3b4c5d6e",
+      "aliases": [
+        "I",
+        "Irrigation"
+      ]
+    },
+    "ent_5d6e7f8g": {
+      "name": "Runoff (RO)",
+      "entity_type": "SOIL_PROCESS",
+      "description": "Water that flows over the soil surface rather than infiltrating into the soil.",
+      "evidence_quote": "Inputs included precipitation (P) and irrigation (I), while outputs encompassed crop evapotranspiration (ETc, combined water loss through soil evaporation and plant transpiration), runoff (RO), and deep percolation (DP) beyond the root zone.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_5d6e7f8g",
+      "aliases": [
+        "RO"
+      ]
+    },
+    "ent_6e7f8g9h": {
+      "name": "Deep Percolation (DP)",
+      "entity_type": "SOIL_PROCESS",
+      "description": "Movement of water from the crop root zone into lower soil layers beyond the root zone.",
+      "evidence_quote": "Inputs included precipitation (P) and irrigation (I), while outputs encompassed crop evapotranspiration (ETc, combined water loss through soil evaporation and plant transpiration), runoff (RO), and deep percolation (DP) beyond the root zone.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_6e7f8g9h",
+      "aliases": [
+        "DP",
+        "Deep percolation"
+      ]
+    },
+    "ent_7f8g9h0i": {
+      "name": "Florida Automated Weather Network (FAWN)",
+      "entity_type": "ENVIRONMENTAL_FACTOR",
+      "description": "A network providing weather data including temperature, humidity, solar radiation, wind speed, and precipitation.",
+      "evidence_quote": "Weather variables, including maximum and minimum temperature, maximum and minimum relative humidity, solar radiation, wind speed, and precipitation, were retrieved from the Florida Automated Weather Network (FAWN, 2022) station located at Live Oak, FL (30.305 N, -82.89876 W, elevation: 50 m) for the study years 2018-2022.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_7f8g9h0i",
+      "aliases": [
+        "FAWN"
+      ]
+    },
+    "ent_8g9h0i1j": {
+      "name": "Growing Degree Days (GDD)",
+      "entity_type": "ENVIRONMENTAL_FACTOR",
+      "description": "A measure of heat accumulation used to predict plant development rates.",
+      "evidence_quote": "Growing Degree Days (GDD) were calculated by taking the difference between the daily average temperature and the speci /uniFB01 ed base temperature.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_8g9h0i1j",
+      "aliases": [
+        "GDD",
+        "Growing Degree Days (GDD)"
+      ]
+    },
+    "ent_9h0i1j2k": {
+      "name": "Soil Moisture Probes (Teros 11)",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "Devices used to measure soil moisture content at different depths.",
+      "evidence_quote": "The soil moisture was monitored via time-series capacitance soil moisture probes (Teros 11, Meter group, Pullman WA).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_9h0i1j2k",
+      "aliases": [
+        "Teros 11"
+      ]
+    },
+    "ent_ah0i1j2k": {
+      "name": "NRCS Curve Number (CN) Method",
+      "entity_type": "SOIL_PROCESS",
+      "description": "A method for estimating runoff based on land use, soil type, and antecedent moisture conditions.",
+      "evidence_quote": "Runoff was estimated using the NRCS Curve Number (CN) method, which accounts for land use, soil type, and antecedent moisture conditions (AMC) categorized as I, II, or III (NRCS, 1985).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_ah0i1j2k",
+      "aliases": [
+        "CN method"
+      ]
+    },
+    "ent_a489cd4c": {
+      "name": "FAO-56 Penman-Monteith equation",
+      "entity_type": "SOIL_PROCESS",
+      "description": "A method for calculating reference evapotranspiration (ETo) based on meteorological data.",
+      "evidence_quote": "The (ETo) was determined using the FAO-56 Penman-Monteith equation as described by Allen et al. (1998) (Equation 7) as:",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Penman-Monteith equation",
+        "FAO-56 equation"
+      ],
+      "id": "ent_a489cd4c"
+    },
+    "ent_629f62e8": {
+      "name": "Kc values",
+      "entity_type": "QUANTITATIVE_OUTCOME",
+      "description": "Crop coefficients used to calculate crop evapotranspiration (ETc) by multiplying with reference evapotranspiration (ETo).",
+      "evidence_quote": "The Kc values used in this study were also sourced from Allen et al. (1998).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "crop coefficients"
+      ],
+      "id": "ent_629f62e8"
+    },
+    "ent_01be7936": {
+      "name": "WPC-ETc",
+      "entity_type": "PLANT_RESPONSE",
+      "description": "Water productivity calculated as grain yield per square meter divided by evapotranspiration (ETc).",
+      "evidence_quote": "This paper represents crop water productivity through two approaches: (i) WPC-ETc, calculated as the grain yield per square meter divided by ETc (Equation 8),",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Water Productivity (WPC-ETc)"
+      ],
+      "id": "ent_01be7936"
+    },
+    "ent_a2ac228d": {
+      "name": "WP C-TWU",
+      "entity_type": "PLANT_RESPONSE",
+      "description": "Water productivity calculated as grain yield per square meter divided by total water used in crop production (TWU).",
+      "evidence_quote": "and (ii) WP C-TWU, determined as the grain yield per square meter divided by the total water involved in crop production (TWU) (Equation 9; Viets, 1962; Ferna ́ ndez et al., 2020).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Water Productivity (WP C-TWU)"
+      ],
+      "id": "ent_a2ac228d"
+    },
+    "env_factor_002": {
+      "id": "env_factor_002",
+      "name": "Rainfall",
+      "entity_type": "ENVIRONMENTAL_FACTOR",
+      "description": "Total annual precipitation measured in millimeters.",
+      "evidence_quote": "The year 2021 experienced the most rainfall, with a total of 1417 mm",
+      "paper_source": "soil1.txt_chunk_013",
+      "confidence": 0.95,
+      "aliases": [
+        "Precipitation",
+        "Rainfall",
+        "precipitation"
+      ]
+    },
+    "env_factor_003": {
+      "id": "env_factor_003",
+      "name": "Temperature",
+      "entity_type": "ENVIRONMENTAL_FACTOR",
+      "description": "Measured air temperature ranges during the growing seasons.",
+      "evidence_quote": "Minimum air temperatures ranged from a slight sub-freezing -0.4°C to 2.6°C, while maximum temperatures varied between a warm 35.2°C and an occasional high of 38.3°C.",
+      "paper_source": "soil1.txt_chunk_013",
+      "confidence": 0.95,
+      "aliases": [
+        "air temperature"
+      ]
+    },
+    "env_factor_004": {
+      "id": "env_factor_004",
+      "name": "Wind Speed",
+      "entity_type": "ENVIRONMENTAL_FACTOR",
+      "description": "Average wind speed during the growing seasons.",
+      "evidence_quote": "wind speed (U2) varied from 1.4 to 1.9ms -1",
+      "paper_source": "soil1.txt_chunk_013",
+      "confidence": 0.95,
+      "aliases": [
+        "U2"
+      ]
+    },
+    "env_factor_005": {
+      "id": "env_factor_005",
+      "name": "Solar Radiation",
+      "entity_type": "ENVIRONMENTAL_FACTOR",
+      "description": "Daily solar radiation measured in MJ m-2 d-1.",
+      "evidence_quote": "solar radiation (Rs) spanned from 6 to 13 MJ m -2 d -1",
+      "paper_source": "soil1.txt_chunk_013",
+      "confidence": 0.95,
+      "aliases": [
+        "Rs"
+      ]
+    },
+    "env_factor_006": {
+      "id": "env_factor_006",
+      "name": "Relative Humidity",
+      "entity_type": "ENVIRONMENTAL_FACTOR",
+      "description": "Measured relative humidity during the growing seasons.",
+      "evidence_quote": "relative humidity fluctuated with minimums from 50% to 62% and maximums from 93% to 97%",
+      "paper_source": "soil1.txt_chunk_013",
+      "confidence": 0.95,
+      "aliases": [
+        "RH"
+      ]
+    },
+    "ent_33e4f715": {
+      "name": "Reference Evapotranspiration (ET0)",
+      "entity_type": "ENVIRONMENTAL_FACTOR",
+      "description": "The rate of evapotranspiration from a reference surface, typically grass, used to estimate crop water requirements.",
+      "evidence_quote": "The grass-based reference evapotranspiration (ET0) graph (Figure 2B) for the years 2019 to 2022, calculated using the FAO56 Penman-Monteith equation, illustrates the daily /uniFB02 uctuations and cumulative trends of ET0.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "ET",
+        "ET0",
+        "Evapotranspiration (ET)"
+      ],
+      "id": "ent_33e4f715"
+    },
+    "soil1.txt_ENTITY_016_008": {
+      "id": "soil1.txt_ENTITY_016_008",
+      "name": "very low aggregate stability category (<15%)",
+      "entity_type": "QUANTITATIVE_OUTCOME",
+      "description": "A classification indicating very low soil aggregate stability, defined as less than 15%.",
+      "evidence_quote": "However, it is important to note that adding two years of bahiagrass to the conventional rotation did not change the soil aggregate stability category from the very low category (<15%) (Jemison et al., 2019).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "low stability category"
+      ]
+    },
+    "soil1.txt_ENTITY_016_009": {
+      "id": "soil1.txt_ENTITY_016_009",
+      "name": "soil rooting system",
+      "entity_type": "BIOLOGICAL_AGENT",
+      "description": "The root systems of plants, particularly perennial grasses like bahiagrass, which contribute to soil structure and health.",
+      "evidence_quote": "This distinction might be due to the fact that perennial grasses such as bahiagrass can develop a deep rooting system. As roots decompose, they create channels in the soil, which contribute bene /uniFB01 cially to soil structure and overall health (Elkins et al., 1977; Wright et al., 2004).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "root systems",
+        "deep rooting system"
+      ]
+    },
+    "soil1.txt_ENTITY_016_010": {
+      "id": "soil1.txt_ENTITY_016_010",
+      "name": "soil channels",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "Channels formed in the soil as a result of root decomposition, which contribute to soil structure and health.",
+      "evidence_quote": "As roots decompose, they create channels in the soil, which contribute bene /uniFB01 cially to soil structure and overall health (Elkins et al., 1977; Wright et al., 2004).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "soil pores",
+        "root channels"
+      ]
+    },
+    "soil1.txt_ENTITY_016_011": {
+      "id": "soil1.txt_ENTITY_016_011",
+      "name": "saprophytic and mycorrhizal hyphae",
+      "entity_type": "BIOLOGICAL_AGENT",
+      "description": "Hyphae of saprophytic and mycorrhizal fungi that contribute to the formation of water-stable soil aggregates.",
+      "evidence_quote": "Degens et al. (1996) reported an increase in water stable aggregates in sandy soil with increasing length of saprophytic and mycorrhizal hyphae in a glasshouse experiment.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "fungal hyphae"
+      ]
+    },
+    "soil1.txt_ENTITY_016_012": {
+      "id": "soil1.txt_ENTITY_016_012",
+      "name": "water stable aggregates",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "Soil aggregates that remain stable when exposed to water, indicating good soil structure.",
+      "evidence_quote": "Degens et al. (1996) reported an increase in water stable aggregates in sandy soil with increasing length of saprophytic and mycorrhizal hyphae in a glasshouse experiment.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "stable soil aggregates"
+      ]
+    },
+    "soil1.txt_ENTITY_016_013": {
+      "id": "soil1.txt_ENTITY_016_013",
+      "name": "soil health-enhanced rotation",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "A crop rotation designed to enhance soil health, resulting in higher aggregate stability.",
+      "evidence_quote": "Iheshiulo et al. (2024a) evaluated six crop rotation and their impact on aggregate stability across three sites in the Canadian prairies over four years. Signi /uniFB01 cant improvements in aggregate stability were observed at Lethbridge and Swift Current. At Lethbridge, the soil health-enhanced rotation achieved an aggregate stability of 78%, notably higher than other rotation.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "enhanced soil health rotation"
+      ]
+    },
+    "ent_2867d871": {
+      "name": "Bulk Density (75-90 cm depth)",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "Bulk density of soil at 75-90 cm depth interval.",
+      "evidence_quote": "Soil bulk density varied from 1.29 g cm -3 (at 75 -90 cm depth interval) to 1.47 g cm -3 (at 45 -60 cm depth interval).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Average Bulk Density (0-90 cm depth)",
+        "Average Bulk Density (0-90 cm)",
+        "Average Bulk Density at 0-90 cm",
+        "Bulk Density (15-90 cm depth)",
+        "Bulk Density (15-90 cm)",
+        "Bulk Density (45-60 cm depth)",
+        "Bulk Density (45-60 cm)",
+        "Bulk Density (75-90 cm)",
+        "Bulk Density at 15-90 cm",
+        "Bulk Density at 45-60 cm",
+        "Bulk Density at 75-90 cm"
+      ],
+      "id": "ent_2867d871"
+    },
+    "ent_56990c7d": {
+      "name": "Total Porosity (75-90 cm depth)",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "Total porosity of soil at 75-90 cm depth interval.",
+      "evidence_quote": "Likewise, porosity varied from 44.4% (at 45 -60 cm depth interval) to 51% (at 75 -90 cm depth interval).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Average Total Porosity (0-90 cm depth)",
+        "Average Total Porosity (0-90 cm)",
+        "Average Total Porosity at 0-90 cm",
+        "Porosity (15-90 cm depth)",
+        "Porosity (15-90 cm)",
+        "Porosity at 15-90 cm",
+        "Total Porosity (45-60 cm depth)",
+        "Total Porosity (45-60 cm)",
+        "Total Porosity (75-90 cm)",
+        "Total Porosity at 45-60 cm",
+        "Total Porosity at 75-90 cm"
+      ],
+      "id": "ent_56990c7d"
+    },
+    "ent_0e592d04": {
+      "name": "Bulk Density (Conventional vs Sod-based Rotation)",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "Bulk density comparison between conventional and sod-based rotations at all depths combined.",
+      "evidence_quote": "Likewise, no signi /uniFB01 cant differences were detected in bulk density (1.4 g cm -3 ) and total porosity (48%) between conventional and sod-based rotation (all depths combined).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Bulk Density (Conventional vs Sod-based)",
+        "Bulk Density Comparison"
+      ],
+      "id": "ent_0e592d04"
+    },
+    "ent_ee35aafa": {
+      "name": "Total Porosity (Conventional vs Sod-based Rotation)",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "Total porosity comparison between conventional and sod-based rotations at all depths combined.",
+      "evidence_quote": "Likewise, no signi /uniFB01 cant differences were detected in bulk density (1.4 g cm -3 ) and total porosity (48%) between conventional and sod-based rotation (all depths combined).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Total Porosity (Conventional vs Sod-based)",
+        "Total Porosity Comparison"
+      ],
+      "id": "ent_ee35aafa"
+    },
+    "ent_bc8f68ca": {
+      "name": "Bulk Density (Hurricane, Albany, Chipley soils)",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "Bulk density of Hurricane, Albany, and Chipley soils as reported by NRCS (2024).",
+      "evidence_quote": "NRCS (2024) reported bulk density values are 1.5 g cm -3 for Hurricane, Albany, and Chipley soils, primarily linked to the CAP, BBCP, and BBCAP rotation, and 1.45 g cm -3 for the Blanton-Foxworth-Alpin complex, associated with the PC and CP rotation.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Bulk Density (Hurricane, Albany, Chipley)",
+        "Bulk Density for Hurricane, Albany, Chipley Soils"
+      ],
+      "id": "ent_bc8f68ca"
+    },
+    "ent_0753e373": {
+      "name": "Bulk Density (Blanton-Foxworth-Alpin complex)",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "Bulk density of Blanton-Foxworth-Alpin complex soils as reported by NRCS (2024).",
+      "evidence_quote": "NRCS (2024) reported bulk density values are 1.5 g cm -3 for Hurricane, Albany, and Chipley soils, primarily linked to the CAP, BBCP, and BBCAP rotation, and 1.45 g cm -3 for the Blanton-Foxworth-Alpin complex, associated with the PC and CP rotation.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Bulk Density (Blanton-Foxworth-Alpin)",
+        "Bulk Density for Blanton-Foxworth-Alpin Complex"
+      ],
+      "id": "ent_0753e373"
+    },
+    "ent_ab1953f8": {
+      "name": "Soil Texture (Blanton, Foxworth-Alpin soil under CP rotation)",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "Soil texture of Blanton, Foxworth-Alpin soil under maize-peanut (CP) rotation.",
+      "evidence_quote": "The Blanton, Foxworth-Alpin soil under maize-peanut (CP) rotation is composed of 94.8% sand with a bulk density of 1.4 g cm ³, porosity of 47.9%, and SOC of 0.5%.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Soil Texture (Blanton, Foxworth-Alpin CP)",
+        "Soil Texture for Blanton, Foxworth-Alpin under CP"
+      ],
+      "id": "ent_ab1953f8"
+    },
+    "ent_fa4ad9a0": {
+      "name": "Soil Texture (Hurricane, Albany, Chipley soils under CAP rotation)",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "Soil texture of Hurricane, Albany, and Chipley soils under maize-carrot-peanut (CAP) rotation.",
+      "evidence_quote": "The Hurricane, Albany, and Chipley soils under maize-carrot-peanut (CAP) rotation maintain similar bulk density and slightly higher porosity of 48.7%, with SOC at 0.55%.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Soil Texture (Hurricane, Albany, Chipley CAP)",
+        "Soil Texture for Hurricane, Albany, Chipley under CAP"
+      ],
+      "id": "ent_fa4ad9a0"
+    },
+    "soil1.txt_ENTITY_018_007": {
+      "id": "soil1.txt_ENTITY_018_007",
+      "name": "Pore Volume",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "Volume of pores in soil, particularly those larger than 1.0 mm.",
+      "evidence_quote": "Long and Elkins (1983) observed a sevenfold increase in pore volume for pores larger than 1.0 mm in the dense soil layers below the plow depth when comparing cotton grown after three years of continuous bahiagrass sod to continuous cotton.",
+      "paper_source": "soil1.txt",
+      "confidence": "HIGH",
+      "aliases": [
+        "Soil Pore Volume"
+      ]
+    },
+    "soil_aggregation": {
+      "id": "soil_aggregation",
+      "name": "Soil Aggregation",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "A physical property of soil that is enhanced by the presence of soil organic carbon (SOC).",
+      "evidence_quote": "SOC in influences various aspects of soil quality, including enhancing soil aggregation, increasing water infiltration, serving as a reservoir for slow nutrient release, and supplying substrates for soil organisms such as microbes and earthworms.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "aggregation"
+      ]
+    },
+    "water_infiltration": {
+      "id": "water_infiltration",
+      "name": "Water Infiltration",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "A physical property of soil that is increased by the presence of soil organic carbon (SOC).",
+      "evidence_quote": "SOC in influences various aspects of soil quality, including enhancing soil aggregation, increasing water infiltration, serving as a reservoir for slow nutrient release, and supplying substrates for soil organisms such as microbes and earthworms.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "infiltration"
+      ]
+    },
+    "nutrient_release": {
+      "id": "nutrient_release",
+      "name": "Nutrient Release",
+      "entity_type": "SOIL_CHEMICAL_PROPERTY",
+      "description": "A chemical property of soil that is facilitated by the presence of soil organic carbon (SOC), acting as a reservoir for slow nutrient release.",
+      "evidence_quote": "SOC in influences various aspects of soil quality, including enhancing soil aggregation, increasing water infiltration, serving as a reservoir for slow nutrient release, and supplying substrates for soil organisms such as microbes and earthworms.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "slow nutrient release"
+      ]
+    },
+    "soil_organisms": {
+      "id": "soil_organisms",
+      "name": "Soil Organisms",
+      "entity_type": "BIOLOGICAL_AGENT",
+      "description": "Biological agents in soil, such as microbes and earthworms, that are supported by the presence of soil organic carbon (SOC).",
+      "evidence_quote": "SOC in influences various aspects of soil quality, including enhancing soil aggregation, increasing water infiltration, serving as a reservoir for slow nutrient release, and supplying substrates for soil organisms such as microbes and earthworms.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "microbes",
+        "earthworms"
+      ]
+    },
+    "ent_2023pc_treatment": {
+      "name": "PC Treatment",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "A treatment involving conventional crop rotations (PC) as indicated in the data series.",
+      "evidence_quote": "- PC (blue, x-markers)",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "PC"
+      ],
+      "id": "ent_2023pc_treatment"
+    },
+    "ent_2023cp_treatment": {
+      "name": "CP Treatment",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "A treatment involving conventional crop rotations (CP) as indicated in the data series.",
+      "evidence_quote": "- CP (orange, circle-markers)",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "CP"
+      ],
+      "id": "ent_2023cp_treatment"
+    },
+    "ent_2023cap_treatment": {
+      "name": "CAP Treatment",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "A treatment involving conventional crop rotations with animal grazing (CAP) as indicated in the data series.",
+      "evidence_quote": "- CAP (green, triangle-markers)",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "CAP"
+      ],
+      "id": "ent_2023cap_treatment"
+    },
+    "ent_2023bbcp_treatment": {
+      "name": "BBCP Treatment",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "A treatment involving sod-based rotations with animal grazing (BBCP) as indicated in the data series.",
+      "evidence_quote": "- BBCP (green, square-markers)",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "BBCP"
+      ],
+      "id": "ent_2023bbcp_treatment"
+    },
+    "ent_2023bbcap_treatment": {
+      "name": "BBCAP Treatment",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "A treatment involving sod-based rotations with animal grazing (BBCAP) as indicated in the data series.",
+      "evidence_quote": "- BBCAP (blue, diamond-markers)",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "BBCAP"
+      ],
+      "id": "ent_2023bbcap_treatment"
+    },
+    "soil1.txt_ENTITY_013": {
+      "id": "soil1.txt_ENTITY_013",
+      "name": "maize-carrot-peanut rotation",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "A conventional crop rotation system involving maize, carrot, and peanut.",
+      "evidence_quote": "The maize-carrot-peanut rotation in the Hurricane, Albany and Chipley FC values estimated at 10.7% and 10.1% for the Van Genuchten and Brooks and Corey models, respectively.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "maize-carrot-peanut"
+      ]
+    },
+    "ent_13d0d82f": {
+      "name": "CAP Soil Sample",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "A soil sample with higher volumetric water content at the same suction values compared to the BBCAP sample.",
+      "evidence_quote": "The CAP soil sample generally has a higher volumetric water content at the same suction values compared to the BBCAP sample.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "CAP"
+      ],
+      "id": "ent_13d0d82f"
+    },
+    "ent_2a58eaef": {
+      "name": "BBCAP Soil Sample",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "A soil sample with lower volumetric water content at the same suction values compared to the CAP sample.",
+      "evidence_quote": "The CAP soil sample generally has a higher volumetric water content at the same suction values compared to the BBCAP sample.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "BBCAP"
+      ],
+      "id": "ent_2a58eaef"
+    },
+    "ent_d9c715d6": {
+      "name": "Θs",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "Saturated water content or porosity of the soil.",
+      "evidence_quote": "As Θs increases, NSE tends to increase (e.g., 0.333 to 0.408 for Θs and 0.99 to 0.98 for NSE, but note the NSE of 1 for the third Hurricane condition).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "ent_d9c715d6"
+    },
+    "ent_b1c9b285": {
+      "name": "α",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "Inverse of air entry suction, indicating the suction required for water to enter the soil pores.",
+      "evidence_quote": "The α values are inversely related to the suction required for water retention.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "ent_b1c9b285",
+      "aliases": [
+        "α"
+      ]
+    },
+    "ent_15cm_water_content": {
+      "name": "Soil Water Content at 15 cm depth",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "Soil water content measured at 15 cm depth for different production systems.",
+      "evidence_quote": "The seasonal distribution of measured soil water present at 15 cm, 30 cm and 45 cm depth for each production system is presented in Figure 7.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_15cm_water_content",
+      "aliases": [
+        "Soil Water Content at 30 cm depth",
+        "Soil Water Content at 45 cm depth",
+        "Soil depth 15 cm"
+      ]
+    },
+    "ent_conventional_rotation": {
+      "name": "Conventional Crop Rotation",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "A production system where crops are rotated without sod-based components.",
+      "evidence_quote": "For these years, maize, peanut, and carrot crops were grown in both conventional and sod-based rotation at same time.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_conventional_rotation",
+      "aliases": [
+        "Conventional crop rotations"
+      ]
+    },
+    "ent_maize_crop": {
+      "name": "Maize Crop",
+      "entity_type": "CROP_SPECIES",
+      "description": "Maize (corn) grown in the study's production systems.",
+      "evidence_quote": "For these years, maize, peanut, and carrot crops were grown in both conventional and sod-based rotation at same time.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_maize_crop"
+    },
+    "ent_peanut_crop": {
+      "name": "Peanut Crop",
+      "entity_type": "CROP_SPECIES",
+      "description": "Peanut grown in the study's production systems.",
+      "evidence_quote": "For these years, maize, peanut, and carrot crops were grown in both conventional and sod-based rotation at same time.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_peanut_crop"
+    },
+    "ent_carrot_crop": {
+      "name": "Carrot Crop",
+      "entity_type": "CROP_SPECIES",
+      "description": "Carrot grown in the study's production systems.",
+      "evidence_quote": "For these years, maize, peanut, and carrot crops were grown in both conventional and sod-based rotation at same time.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_carrot_crop"
+    },
+    "ent_precipitation": {
+      "name": "Precipitation",
+      "entity_type": "ENVIRONMENTAL_FACTOR",
+      "description": "Natural rainfall affecting soil moisture availability.",
+      "evidence_quote": "As expected, the availability of soil moisture in the soil profile at different depths and cropping systems was affected by the magnitude amount of irrigation applied, precipitation, and management practices during different growing seasons.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_precipitation"
+    },
+    "ent_management_practices": {
+      "name": "Management Practices",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "Agricultural practices that influence soil moisture availability.",
+      "evidence_quote": "As expected, the availability of soil moisture in the soil profile at different depths and cropping systems was affected by the magnitude amount of irrigation applied, precipitation, and management practices during different growing seasons.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_management_practices"
+    },
+    "ent_soil_water_retention_brooks_corey": {
+      "name": "Soil Water Retention Parameters (Brooks and Corey Model)",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "Parameters describing soil water retention using the Brooks and Corey model for different soil types.",
+      "evidence_quote": "TABLE 5 Water retention parameters for Brooks and Corey of various soil types across rotational production for top 15 cm of soil surface measured on 23 August 2022.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_soil_water_retention_brooks_corey"
+    },
+    "ent_bf90d136": {
+      "name": "Θr",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "Residual water content of the soil.",
+      "evidence_quote": "- **Residual Volumetric Water Content (Θr):** Ranges from 0.001 to 0.06 cm³ cm⁻³. The Hurricane, Albany and Chipley soil type with Θs = 0.325 cm³ cm⁻³ has the highest Θr.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "ent_bf90d136"
+    },
+    "ent_139c2011": {
+      "name": "n",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "Pore size distribution parameter in the Brooks and Corey model.",
+      "evidence_quote": "- **Soil type:** Hurricane, Albany and Chipley\n  - Θs: 0.325 cm³ cm⁻³\n  - Θr: 0.06 cm³ cm⁻³\n  - α: 0.0462\n  - n: 0.8197\n  - RMSE: 0.01\n  - NRMSE: 0.05\n  - NSE: 0.99",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "ent_139c2011"
+    },
+    "ent_c9cb020c": {
+      "name": "Blanton, Foxworth-Alpin",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "A soil type with specific water retention characteristics.",
+      "evidence_quote": "- **Soil type:** Blanton, Foxworth-Alpin\n  - Θs: 0.3713 cm³ cm⁻³\n  - Θr: 0.001 cm³ cm⁻³\n  - α: 0.8852\n  - n: 0.7073\n  - RMSE: 0.02\n  - NRMSE: 0.2\n  - NSE: 0.97",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "ent_c9cb020c"
+    },
+    "ent_43daecde": {
+      "name": "Hurricane, Albany and Chipley",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "A soil type with specific water retention characteristics.",
+      "evidence_quote": "- **Soil type:** Hurricane, Albany and Chipley\n  - Θs: 0.325 cm³ cm⁻³\n  - Θr: 0.06 cm³ cm⁻³\n  - α: 0.0462\n  - n: 0.8197\n  - RMSE: 0.01\n  - NRMSE: 0.05\n  - NSE: 0.99",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "ent_43daecde"
+    },
+    "ent_3f224ddf": {
+      "name": "Uncalibrated Soil Moisture Sensor Readings",
+      "entity_type": "QUANTITATIVE_OUTCOME",
+      "description": "Measurements of soil moisture obtained from uncalibrated sensors.",
+      "evidence_quote": "Plot A compares uncalibrated soil moisture sensor readings with gravimetric soil moisture content.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Calibrated Sensor Readings",
+        "Calibrated Soil Moisture Sensor Readings",
+        "Uncalibrated Sensor Readings"
+      ],
+      "id": "ent_3f224ddf"
+    },
+    "ent_a2f3bb1d": {
+      "name": "Gravimetric Soil Moisture Content",
+      "entity_type": "QUANTITATIVE_OUTCOME",
+      "description": "Soil moisture content measured by weight, serving as a reference standard.",
+      "evidence_quote": "Plot A compares uncalibrated soil moisture sensor readings with gravimetric soil moisture content.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Gravimetric Moisture"
+      ],
+      "id": "ent_a2f3bb1d"
+    },
+    "ent_cb761ce3": {
+      "name": "Predicted Soil Moisture Readings",
+      "entity_type": "QUANTITATIVE_OUTCOME",
+      "description": "Calibrated soil moisture sensor readings after adjustment for accuracy.",
+      "evidence_quote": "Plot B compares predicted soil moisture readings (after calibration) with gravimetric soil moisture content.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Calibrated Sensor Readings"
+      ],
+      "id": "ent_cb761ce3"
+    },
+    "ent_3da4ad25": {
+      "name": "Soil Moisture Content (Maize, 2021)",
+      "entity_type": "QUANTITATIVE_OUTCOME",
+      "description": "Average soil moisture content for maize during the 2021 growing season under different management practices.",
+      "evidence_quote": "Sod-based rotation, particularly the BBCP, reports the highest average soil moisture content for maize (2021 growing season) at 18 mm and for peanuts (2022 growing season) at 14 mm, implying higher moisture retention capabilities when compared to conventional practices.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Soil Moisture Content (Maize, 2021)",
+        "Soil Moisture Content (Maize, 2021) - BBCAP"
+      ],
+      "id": "ent_3da4ad25"
+    },
+    "ent_58fe643c": {
+      "name": "Soil Moisture Content (Peanuts, 2022)",
+      "entity_type": "QUANTITATIVE_OUTCOME",
+      "description": "Average soil moisture content for peanuts during the 2022 growing season under different management practices.",
+      "evidence_quote": "Sod-based rotation, particularly the BBCP, reports the highest average soil moisture content for maize (2021 growing season) at 18 mm and for peanuts (2022 growing season) at 14 mm, implying higher moisture retention capabilities when compared to conventional practices.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Soil Moisture Content (Peanuts, 2022)",
+        "Soil Moisture Content (Peanuts, 2022) - BBCAP"
+      ],
+      "id": "ent_58fe643c"
+    },
+    "ent_a7f112ff": {
+      "name": "Soil depth 30 cm",
+      "entity_type": "SOIL_PHYSICAL_PROPERTY",
+      "description": "Soil water content measured at a depth of 30 cm.",
+      "evidence_quote": "30 cm Depth: Begins at around 20 mm on 4/15...",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "ent_a7f112ff",
+      "aliases": [
+        "Soil depth 45 cm"
+      ]
+    },
+    "ent_b7b92b48": {
+      "name": "Maize Yield (2021, Conventional vs Sod-based)",
+      "entity_type": "PLANT_RESPONSE",
+      "description": "Maize yield comparison between conventional and sod-based rotations in 2021.",
+      "evidence_quote": "In 2021, maize yields varied signi /uniFB01 cantly between the conventional and sod-based rotations, with a p-value of 0.048 and a least signi /uniFB01 cant difference of 1408 kg ha -1 , indicating that conventional rotation may offer short-term bene /uniFB01 ts within a fouryear cycle (Bullock, 1992; Porter et al., 2003).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Maize Yield 2021",
+        "Maize Yield Comparison 2021"
+      ],
+      "id": "ent_b7b92b48"
+    },
+    "ent_a751d5ab": {
+      "name": "Peanut Yield (2022, Conventional vs Sod-based)",
+      "entity_type": "PLANT_RESPONSE",
+      "description": "Peanut yield comparison between conventional and sod-based rotations in 2022.",
+      "evidence_quote": "In contrast, yields from the 2022 peanut and carrot growing seasons showed no signi /uniFB01 cant differences between rotations, with p-values of 0.057 and 0.08, respectively, suggesting that rotational effects could be crop-speci /uniFB01 c (Smith et al., 2008).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Peanut Yield 2022",
+        "Peanut Yield Comparison 2022"
+      ],
+      "id": "ent_a751d5ab"
+    },
+    "ent_035e716d": {
+      "name": "Carrot Yield (2022, Conventional vs Sod-based)",
+      "entity_type": "PLANT_RESPONSE",
+      "description": "Carrot yield comparison between conventional and sod-based rotations in 2022.",
+      "evidence_quote": "In contrast, yields from the 2022 peanut and carrot growing seasons showed no signi /uniFB01 cant differences between rotations, with p-values of 0.057 and 0.08, respectively, suggesting that rotational effects could be crop-speci /uniFB01 c (Smith et al., 2008).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Carrot Yield 2022",
+        "Carrot Yield Comparison 2022"
+      ],
+      "id": "ent_035e716d"
+    },
+    "ent_024045e0": {
+      "name": "Conventional Rotation (PC, CP, CAP)",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "Conventional crop rotations including peanut-maize (PC), maize-peanut (CP), and maize-carrot-peanut (CAP).",
+      "evidence_quote": "For maize, the average yield in conventional rotations (PC, CP, and CAP) was 14,879 kg ha -1 with a standard deviation (SD) of 809 kg ha -1 , while yields in sod-based rotations (BBCP and BBCAP) averaged 13,755 kg ha -1 (SD: 1,010 kg ha -1 ).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Conventional Rotations (PC, CP, CAP)",
+        "Conventional Rotations"
+      ],
+      "id": "ent_024045e0"
+    },
+    "ent_bd76c330": {
+      "name": "Maize Cumulative ETc",
+      "entity_type": "QUANTITATIVE_OUTCOME",
+      "description": "Cumulative evapotranspiration for maize crops over growing seasons.",
+      "evidence_quote": "Graph A: Maize Cumulative ETc - At around 100 days after planting, the cumulative ETc for most treatments is approximately 400-500 mm. By 140 days, the values range from about 500 to 600 mm.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Maize ETc"
+      ],
+      "id": "ent_bd76c330"
+    },
+    "ent_5f66be00": {
+      "name": "Peanut Cumulative ETc",
+      "entity_type": "QUANTITATIVE_OUTCOME",
+      "description": "Cumulative evapotranspiration for peanut crops over growing seasons.",
+      "evidence_quote": "Graph B: Peanut Cumulative ETc - At around 100 days after planting, the cumulative ETc values are approximately 400-500 mm. By 150 days, the values range from about 500 to 600 mm.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Peanut ETc"
+      ],
+      "id": "ent_5f66be00"
+    },
+    "ent_72137174": {
+      "name": "Carrot Cumulative ETc",
+      "entity_type": "QUANTITATIVE_OUTCOME",
+      "description": "Cumulative evapotranspiration for carrot crops over growing seasons.",
+      "evidence_quote": "Graph C: Carrot Cumulative ETc - At around 100 days after planting, the cumulative ETc is approximately 250 mm for both treatments. By 175 days, the values reach about 300 mm.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Carrot ETc"
+      ],
+      "id": "ent_72137174"
+    },
+    "ent_7edc40ea": {
+      "name": "Maize Yield (2021, CAP vs BBCAP)",
+      "entity_type": "PLANT_RESPONSE",
+      "description": "Maize yield comparison between CAP and BBCAP rotations in 2021.",
+      "evidence_quote": "CAP and BBCAP show higher yields compared to CP and BBCP.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Maize Yield 2021 CAP vs BBCAP",
+        "Maize Yield Comparison 2021"
+      ],
+      "id": "ent_7edc40ea"
+    },
+    "ent_df5cefc6": {
+      "name": "Maize Yield (2021, CP vs BBCP)",
+      "entity_type": "PLANT_RESPONSE",
+      "description": "Maize yield comparison between CP and BBCP rotations in 2021.",
+      "evidence_quote": "BBCP has a slightly lower yield compared to CP.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Maize Yield 2021 CP vs BBCP",
+        "Maize Yield Comparison 2021"
+      ],
+      "id": "ent_df5cefc6"
+    },
+    "ent_8a6dfafc": {
+      "name": "Peanut Yield (2022, All Treatments)",
+      "entity_type": "PLANT_RESPONSE",
+      "description": "Peanut yield comparison across all treatments in 2022.",
+      "evidence_quote": "All treatments show similar yields, with no significant differences.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Peanut Yield 2022",
+        "Peanut Yield Comparison 2022"
+      ],
+      "id": "ent_8a6dfafc"
+    },
+    "ent_a99bac0c": {
+      "name": "Carrot Yield (2022, CAP vs BBCAP)",
+      "entity_type": "PLANT_RESPONSE",
+      "description": "Carrot yield comparison between CAP and BBCAP rotations in 2022.",
+      "evidence_quote": "Both CAP and BBCAP show similar yields with a slight variation.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "aliases": [
+        "Carrot Yield 2022 CAP vs BBCAP",
+        "Carrot Yield Comparison 2022"
+      ],
+      "id": "ent_a99bac0c"
+    },
+    "ent_67890": {
+      "id": "ent_67890",
+      "name": "N fertilization",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "Application of nitrogen fertilizer to crops, particularly maize, as part of crop management practices.",
+      "evidence_quote": "Maize crops generally receive higher levels of N fertilization and organic N fertilization compared to other crops like peanut.",
+      "paper_source": "soil1.txt_chunk_009",
+      "confidence": 0.9,
+      "aliases": [
+        "N fertilization"
+      ]
+    },
+    "ent_006": {
+      "id": "ent_006",
+      "name": "Organic N (broiler litter) fertilization",
+      "entity_type": "MANAGEMENT_PRACTICE",
+      "description": "Application of organic nitrogen (broiler litter) fertilization in crop rotations.",
+      "evidence_quote": "Organic N (broiler litter) fertilization (kg ha -1 )",
+      "paper_source": "soil1.txt_chunk_009",
+      "confidence": 0.9
+    }
+  },
+  "findings": {
+    "find_ed5dd613": {
+      "source_id": "ent_a0476d6f",
+      "target_id": "ent_4a18a440",
+      "relation_type": "CORRELATES_WITH",
+      "conditions": [
+        {
+          "condition_text": "North Florida region, typical grower practices",
+          "statistical_evidence": "R² = 0.28 for maize, R² = 0.09 for peanuts"
+        }
+      ],
+      "evidence_quote": "However, in this study a weak correlation between yields and ETc was observed, with R² values of 0.28 for maize and 0.09 for peanuts.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "find_ed5dd613"
+    },
+    "find_38fa5734": {
+      "source_id": "ent_f7fc16b0",
+      "target_id": "ent_4a18a440",
+      "relation_type": "CORRELATES_WITH",
+      "conditions": [
+        {
+          "condition_text": "North Florida region, typical grower practices",
+          "statistical_evidence": "R² = 0.28 for maize, R² = 0.09 for peanuts"
+        }
+      ],
+      "evidence_quote": "However, in this study a weak correlation between yields and ETc was observed, with R² values of 0.28 for maize and 0.09 for peanuts.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "find_38fa5734"
+    },
+    "find_c18683d3": {
+      "source_id": "ent_adebcae3",
+      "target_id": "ent_47cb3e72",
+      "relation_type": "HAS_VALUE",
+      "conditions": [
+        {
+          "condition_text": "Study observations",
+          "parameter": "maize baseline ETc = 300 mm, peanut baseline ETc = 100 mm"
+        }
+      ],
+      "evidence_quote": "A baseline ETc of approximately 300 mm for maize and approximately 100 mm for peanuts was observed.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_c18683d3"
+    },
+    "find_db4242ef": {
+      "source_id": "ent_040d4971",
+      "target_id": "ent_47cb3e72",
+      "relation_type": "HAS_VALUE",
+      "conditions": [
+        {
+          "condition_text": "Study observations",
+          "parameter": "maize baseline ETc = 300 mm, peanut baseline ETc = 100 mm"
+        }
+      ],
+      "evidence_quote": "A baseline ETc of approximately 300 mm for maize and approximately 100 mm for peanuts was observed.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_db4242ef"
+    },
+    "find_f6801786": {
+      "source_id": "ent_fbd0e51d",
+      "target_id": "ent_adebcae3",
+      "relation_type": "INCLUDES",
+      "evidence_quote": "| PC         | Maize      | 12/03/20                | 10/08/20               |      226 |                           298 |                                                     81 |",
+      "paper_source": "soil1.txt",
+      "conditions": [
+        {
+          "condition_text": "PC Rotation"
+        }
+      ],
+      "id": "find_f6801786"
+    },
+    "find_0be75ccf": {
+      "source_id": "ent_fbd0e51d",
+      "target_id": "ent_040d4971",
+      "relation_type": "INCLUDES",
+      "evidence_quote": "| PC         | Peanut     | 16/05/19                | 30/09/19               |      197 |                             0 |                                                      0 |",
+      "paper_source": "soil1.txt",
+      "conditions": [
+        {
+          "condition_text": "PC Rotation"
+        }
+      ],
+      "id": "find_0be75ccf"
+    },
+    "find_17f65e00": {
+      "source_id": "ent_800c9af4",
+      "target_id": "ent_adebcae3",
+      "relation_type": "INCLUDES",
+      "evidence_quote": "| CP         | Maize      | 19/03/19                | 12/08/19               |      222 |                           300 |                                                     81 |",
+      "paper_source": "soil1.txt",
+      "conditions": [
+        {
+          "condition_text": "CP Rotation"
+        }
+      ],
+      "id": "find_17f65e00"
+    },
+    "find_118b1abb": {
+      "source_id": "ent_800c9af4",
+      "target_id": "ent_040d4971",
+      "relation_type": "INCLUDES",
+      "evidence_quote": "| CP         | Peanut     | 13/05/20                | 25/09/20               |       13 |                            14 |                                                      0 |",
+      "paper_source": "soil1.txt",
+      "conditions": [
+        {
+          "condition_text": "CP Rotation"
+        }
+      ],
+      "id": "find_118b1abb"
+    },
+    "find_d6a64995": {
+      "source_id": "ent_91e29b8d",
+      "target_id": "ent_1847b6fb",
+      "relation_type": "INCREASES",
+      "conditions": [
+        {
+          "condition_text": "compared to conventional crop systems",
+          "context": "Sod-based rotations improve soil water balance components."
+        }
+      ],
+      "evidence_quote": "Estimating soil water balance components, including crop evapotranspiration, is crucial for comparing water use in sodbased versus conventional crop systems.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_d6a64995"
+    },
+    "find_8e2a2afc": {
+      "source_id": "ent_91e29b8d",
+      "target_id": "ent_d5811dd3",
+      "relation_type": "INCREASES",
+      "conditions": [
+        {
+          "condition_text": "compared to conventional crop systems",
+          "context": "Sod-based rotations improve crop evapotranspiration."
+        }
+      ],
+      "evidence_quote": "Estimating soil water balance components, including crop evapotranspiration, is crucial for comparing water use in sodbased versus conventional crop systems.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_8e2a2afc"
+    },
+    "find_31805ac3": {
+      "source_id": "ent_91e29b8d",
+      "target_id": "ent_5265d700",
+      "relation_type": "INCREASES",
+      "conditions": [
+        {
+          "condition_text": "compared to conventional crop systems",
+          "context": "Sod-based rotations improve soil aggregate stability."
+        }
+      ],
+      "evidence_quote": "While some research has focused on how sod-based rotations impact soil aggregate stability, structure, and in /uniFB01 ltration rates, there remains limited data on the dynamics of water balance components and water-use ef /uniFB01 ciency within sod-based systems.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_31805ac3"
+    },
+    "find_2f9d9214": {
+      "source_id": "ent_91e29b8d",
+      "target_id": "ent_7cfe83f0",
+      "relation_type": "IMPROVES",
+      "conditions": [
+        {
+          "condition_text": "compared to conventional crop systems",
+          "context": "Sod-based rotations improve soil structure."
+        }
+      ],
+      "evidence_quote": "While some research has focused on how sod-based rotations impact soil aggregate stability, structure, and in /uniFB01 ltration rates, there remains limited data on the dynamics of water balance components and water-use ef /uniFB01 ciency within sod-based systems.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_2f9d9214"
+    },
+    "find_5db970f8": {
+      "source_id": "ent_91e29b8d",
+      "target_id": "ent_d8969d74",
+      "relation_type": "INCREASES",
+      "conditions": [
+        {
+          "condition_text": "compared to conventional crop systems",
+          "context": "Sod-based rotations increase infiltration rates."
+        }
+      ],
+      "evidence_quote": "While some research has focused on how sod-based rotations impact soil aggregate stability, structure, and in /uniFB01 ltration rates, there remains limited data on the dynamics of water balance components and water-use ef /uniFB01 ciency within sod-based systems.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_5db970f8"
+    },
+    "soil1.txt_FINDING_001": {
+      "id": "soil1.txt_FINDING_001",
+      "source_id": "soil1.txt_ENTITY_007",
+      "target_id": "ent_91e29b8d",
+      "relation_type": "ENABLES",
+      "conditions": [
+        {
+          "condition_text": "Field divided into four 4 ha sections for distinct crop rotation strategies"
+        }
+      ],
+      "evidence_quote": "The field was divided into four 4 ha sections for distinct crop rotation strategies (Figure 1).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95
+    },
+    "soil1.txt_FINDING_002": {
+      "id": "soil1.txt_FINDING_002",
+      "source_id": "soil1.txt_ENTITY_008",
+      "target_id": "ent_173e8bff",
+      "relation_type": "DEPENDS_ON",
+      "conditions": [
+        {
+          "condition_text": "Sod-based rotation treatments involving bahiagrass"
+        }
+      ],
+      "evidence_quote": "Of the four sections, two were allocated for sod-based rotation treatments involving bahiagrass.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95
+    },
+    "find_624de658": {
+      "source_id": "ent_e7597d8d",
+      "target_id": "ent_7a462756",
+      "relation_type": "DEPENDS_ON",
+      "conditions": [
+        {
+          "condition_text": "Study site in Northern Florida with high sand content (95.4%) and somewhat poor drainage"
+        }
+      ],
+      "evidence_quote": "The study site ' s soil composition predominantly includes the Hurricane, Albany, and Chipley mix in CAP, BBCP, and BBCAP rotation, characterized by a 0-3% slope, high sand content of 95.4%, and somewhat poor drainage.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_624de658"
+    },
+    "find_c75d06c7": {
+      "source_id": "ent_800c9af4",
+      "target_id": "ent_620832e1",
+      "relation_type": "DEPENDS_ON",
+      "conditions": [
+        {
+          "condition_text": "Study site in Northern Florida with 94.8% sand content and moderate drainage"
+        }
+      ],
+      "evidence_quote": "The Blanton, Foxworth-Alpin complex in PC and CP rotation, features a 0-5% slope, 94.8% sand content, and a moderate drainage (NRCS, 2024).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_c75d06c7"
+    },
+    "finding_001": {
+      "id": "finding_001",
+      "source_id": "management_practice_001",
+      "target_id": "crop_species_001",
+      "relation_type": "DEPENDS_ON",
+      "conditions": [
+        {
+          "condition_text": "Used in Northern Florida for maize, peanut, and carrot crops",
+          "spatial": "Northern Florida",
+          "soil_type": "sandy"
+        }
+      ],
+      "evidence_quote": "The study employed a uniFB01 ve span GPS guided center pivot irrigation system with Variable rate Irrigation (VRI) zone control capabilities (Valmont Industries, Valley, Nebraska), adhering to standard irrigation scheduling practices common in Northern Florida.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95
+    },
+    "finding_002": {
+      "id": "finding_002",
+      "source_id": "management_practice_002",
+      "target_id": "crop_species_001",
+      "relation_type": "DEPENDS_ON",
+      "conditions": [
+        {
+          "condition_text": "Applied to maize in Northern Florida",
+          "spatial": "Northern Florida"
+        }
+      ],
+      "evidence_quote": "Fertilization was applied in two forms: inorganic fertilization utilized a mix of granular and liquid fertilizers, while broiler litter, commonly used as organic fertilizer in the North Florida region, was speci /uniFB01 cally applied to maize.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95
+    },
+    "finding_003": {
+      "id": "finding_003",
+      "source_id": "management_practice_003",
+      "target_id": "crop_species_001",
+      "relation_type": "DEPENDS_ON",
+      "conditions": [
+        {
+          "condition_text": "Specifically applied to maize in Northern Florida",
+          "spatial": "Northern Florida"
+        }
+      ],
+      "evidence_quote": "Fertilization was applied in two forms: inorganic fertilization utilized a mix of granular and liquid fertilizers, while broiler litter, commonly used as organic fertilizer in the North Florida region, was speci /uniFB01 cally applied to maize.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95
+    },
+    "find_0cc53c20": {
+      "source_id": "ent_6c5fe531",
+      "target_id": "ent_d47f0e16",
+      "relation_type": "INCREASES",
+      "conditions": [
+        {
+          "condition_text": "Hurricane, Albany and Chipley soil type",
+          "soil_type": "Hurricane, Albany and Chipley"
+        }
+      ],
+      "evidence_quote": "The BBCAP rotation has the highest SOC (0.83%) and Sand content (95.9%) among the Hurricane, Albany and Chipley soil type rotations.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_0cc53c20"
+    },
+    "find_727f5758": {
+      "source_id": "ent_cfef977c",
+      "target_id": "ent_d47f0e16",
+      "relation_type": "DECREASES",
+      "conditions": [
+        {
+          "condition_text": "Blanton, Foxworth-Alpin soil type",
+          "soil_type": "Blanton, Foxworth-Alpin"
+        }
+      ],
+      "evidence_quote": "SOC content varies, with the highest in the BBCAP rotation (0.83%) and the lowest in the PC/CP rotation (0.5%).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_727f5758"
+    },
+    "find_6791b9cc": {
+      "source_id": "ent_6c5fe531",
+      "target_id": "ent_cbf62066",
+      "relation_type": "DECREASES",
+      "conditions": [
+        {
+          "condition_text": "Hurricane, Albany and Chipley soil type",
+          "soil_type": "Hurricane, Albany and Chipley"
+        }
+      ],
+      "evidence_quote": "The BBCAP rotation has the highest SOC (0.83%) and Sand content (95.9%) among the Hurricane, Albany and Chipley soil type rotations.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_6791b9cc"
+    },
+    "find_0313aa8c": {
+      "source_id": "ent_cfef977c",
+      "target_id": "ent_cbf62066",
+      "relation_type": "INCREASES",
+      "conditions": [
+        {
+          "condition_text": "Blanton, Foxworth-Alpin soil type",
+          "soil_type": "Blanton, Foxworth-Alpin"
+        }
+      ],
+      "evidence_quote": "The Blanton, Foxworth-Alpin soil under PC/CP rotation has a slightly lower Sand content and higher Silt and Clay content compared to the others.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_0313aa8c"
+    },
+    "find_3368126c": {
+      "source_id": "ent_6c5fe531",
+      "target_id": "ent_78cb907c",
+      "relation_type": "DECREASES",
+      "conditions": [
+        {
+          "condition_text": "Hurricane, Albany and Chipley soil type",
+          "soil_type": "Hurricane, Albany and Chipley"
+        }
+      ],
+      "evidence_quote": "The BBCAP rotation has the highest SOC (0.83%) and Sand content (95.9%) among the Hurricane, Albany and Chipley soil type rotations.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_3368126c"
+    },
+    "find_f409e68c": {
+      "source_id": "ent_cfef977c",
+      "target_id": "ent_78cb907c",
+      "relation_type": "INCREASES",
+      "conditions": [
+        {
+          "condition_text": "Blanton, Foxworth-Alpin soil type",
+          "soil_type": "Blanton, Foxworth-Alpin"
+        }
+      ],
+      "evidence_quote": "pH levels are slightly acidic to neutral, ranging from 5.5 to 6.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_f409e68c"
+    },
+    "find_12345678": {
+      "source_id": "ent_1847b6fb",
+      "target_id": "ent_2a1b3c4d",
+      "relation_type": "INCREASES",
+      "conditions": [
+        {
+          "condition_text": "In the study region with sandy soil and humid subtropical climate",
+          "soil_type": "sandy",
+          "geographic_region": "Suwannee River Basin, Northern Florida",
+          "climate_zone": "humid subtropical"
+        }
+      ],
+      "evidence_quote": "Soil water balance accounts for the water entering, stored ( D S = q i -q i -1 ), and leaving the soil system. Inputs included precipitation (P) and irrigation (I), while outputs encompassed crop evapotranspiration (ETc, combined water loss through soil evaporation and plant transpiration), runoff (RO), and deep percolation (DP) beyond the root zone.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_12345678"
+    },
+    "find_23456789": {
+      "source_id": "ent_1847b6fb",
+      "target_id": "ent_3b4c5d6e",
+      "relation_type": "INCREASES",
+      "conditions": [
+        {
+          "condition_text": "In the study region with sandy soil and humid subtropical climate",
+          "soil_type": "sandy",
+          "geographic_region": "Suwannee River Basin, Northern Florida",
+          "climate_zone": "humid subtropical"
+        }
+      ],
+      "evidence_quote": "Soil water balance accounts for the water entering, stored ( D S = q i -q i -1 ), and leaving the soil system. Inputs included precipitation (P) and irrigation (I), while outputs encompassed crop evapotranspiration (ETc, combined water loss through soil evaporation and plant transpiration), runoff (RO), and deep percolation (DP) beyond the root zone.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_23456789"
+    },
+    "find_f05682be": {
+      "source_id": "ent_a489cd4c",
+      "target_id": "ent_01be7936",
+      "relation_type": "ENABLES",
+      "conditions": [
+        {
+          "condition_text": "Used to calculate ETc for determining WPC-ETc"
+        }
+      ],
+      "evidence_quote": "The (ETo) was determined using the FAO-56 Penman-Monteith equation as described by Allen et al. (1998) (Equation 7) as:",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_f05682be"
+    },
+    "find_5d907937": {
+      "source_id": "ent_629f62e8",
+      "target_id": "ent_01be7936",
+      "relation_type": "ENABLES",
+      "conditions": [
+        {
+          "condition_text": "Used to calculate ETc for determining WPC-ETc"
+        }
+      ],
+      "evidence_quote": "The Kc values used in this study were also sourced from Allen et al. (1998).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_5d907937"
+    },
+    "find_c35137e9": {
+      "source_id": "ent_a489cd4c",
+      "target_id": "ent_a2ac228d",
+      "relation_type": "ENABLES",
+      "conditions": [
+        {
+          "condition_text": "Used to calculate ETo for determining WP C-TWU"
+        }
+      ],
+      "evidence_quote": "The (ETo) was determined using the FAO-56 Penman-Monteith equation as described by Allen et al. (1998) (Equation 7) as:",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_c35137e9"
+    },
+    "find_31ac35a3": {
+      "source_id": "ent_629f62e8",
+      "target_id": "ent_a2ac228d",
+      "relation_type": "ENABLES",
+      "conditions": [
+        {
+          "condition_text": "Used to calculate ETc for determining WP C-TWU"
+        }
+      ],
+      "evidence_quote": "The Kc values used in this study were also sourced from Allen et al. (1998).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_31ac35a3"
+    },
+    "find_ea12505b": {
+      "source_id": "ent_33e4f715",
+      "target_id": "ent_5265d700",
+      "relation_type": "CORRELATES_WITH",
+      "conditions": [
+        {
+          "condition_text": "Measured at 0-90 cm soil depth on 17 May 2022"
+        }
+      ],
+      "evidence_quote": "Volumetric soil aggregate stability measurements taken on 17 May 2022 at 0-90 cm soil depths is presented in Figure 3A.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_ea12505b"
+    },
+    "find_2ed5418a": {
+      "source_id": "ent_33e4f715",
+      "target_id": "ent_adebcae3",
+      "relation_type": "CORRELATES_WITH",
+      "conditions": [
+        {
+          "condition_text": "2019 had the highest ET0 (1303 mm) indicating greater water demand for maize growing season"
+        }
+      ],
+      "evidence_quote": "In 2019, the total ET0 reached 1303 mm, which was the highest among the four years, suggesting a greater demand for water due to atmospheric conditions conducive to evapotranspiration.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_2ed5418a"
+    },
+    "find_f18e26da": {
+      "source_id": "ent_33e4f715",
+      "target_id": "ent_040d4971",
+      "relation_type": "CORRELATES_WITH",
+      "conditions": [
+        {
+          "condition_text": "2021 had the lowest ET0 (1160 mm) indicating lower water demand for peanut growing season"
+        }
+      ],
+      "evidence_quote": "The year 2021 had the lowest ET0, totaling 1160 mm, indicating lower evaporative demand.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_f18e26da"
+    },
+    "find_03db69a6": {
+      "source_id": "ent_33e4f715",
+      "target_id": "ent_c04e01db",
+      "relation_type": "CORRELATES_WITH",
+      "conditions": [
+        {
+          "condition_text": "2020 and 2022 had moderate ET0 values (1262 mm and 1269 mm) indicating moderate water demand for carrot growing season"
+        }
+      ],
+      "evidence_quote": "The years 2020 and 2022 had total ET0 values of 1262 mm and 1269 mm, respectively, re /uniFB02 ecting moderate evaporative demands.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_03db69a6"
+    },
+    "soil1.txt_FINDING_018_001": {
+      "id": "soil1.txt_FINDING_018_001",
+      "source_id": "env_factor_002",
+      "target_id": "ent_33e4f715",
+      "relation_type": "CORRELATES_WITH",
+      "conditions": [
+        {
+          "condition_text": "Across four years (2019-2022)",
+          "temporal": "2019-2022"
+        }
+      ],
+      "evidence_quote": "The figures demonstrate the interannual variability in rainfall and ET, which are crucial for understanding soil health, water balance, and agricultural management.",
+      "paper_source": "soil1.txt",
+      "confidence": "HIGH"
+    },
+    "soil1.txt_FINDING_018_002": {
+      "id": "soil1.txt_FINDING_018_002",
+      "source_id": "env_factor_002",
+      "target_id": "ent_6e22993f",
+      "relation_type": "REGULATES",
+      "conditions": [
+        {
+          "condition_text": "Influence on soil organic carbon (SOC) through water availability",
+          "environmental_factor": "Rainfall"
+        }
+      ],
+      "evidence_quote": "This data is relevant to soil health research as it provides insights into water availability (rainfall) and water loss (ET), which are critical for assessing soil moisture, erosion risk, and crop water requirements. Parameters like these can influence soil pH, nutrient cycling, microbial activity, and soil structure.",
+      "paper_source": "soil1.txt",
+      "confidence": "HIGH"
+    },
+    "soil1.txt_FINDING_018_003": {
+      "id": "soil1.txt_FINDING_018_003",
+      "source_id": "ent_173e8bff",
+      "target_id": "ent_cbf62066",
+      "relation_type": "INCREASES",
+      "conditions": [
+        {
+          "condition_text": "When bahiagrass roots decay, they leave behind pores large enough to facilitate cotton root growth",
+          "biological_agent": "Bahiagrass"
+        }
+      ],
+      "evidence_quote": "They attributed the increase in pore volume to the ability of bahiagrass roots to penetrate the dense soil layer; as these roots decayed, they left behind pores large enough to facilitate cotton root growth.",
+      "paper_source": "soil1.txt",
+      "confidence": "HIGH"
+    },
+    "soil1.txt_FINDING_018_004": {
+      "id": "soil1.txt_FINDING_018_004",
+      "source_id": "ent_173e8bff",
+      "target_id": "ent_e240c6fa",
+      "relation_type": "INHIBITS",
+      "conditions": [
+        {
+          "condition_text": "Non-significant differences in bulk density and total porosity among crop rotations",
+          "biological_agent": "Bahiagrass"
+        }
+      ],
+      "evidence_quote": "Iheshiulo et al. (2024b) reported non-signi /uniFB01 cant differences for bulk density and total porosity from 5 to 20 cm soil depths among seven different crop rotation across three sites.",
+      "paper_source": "soil1.txt",
+      "confidence": "HIGH"
+    },
+    "SOC_increases_soil_aggregation": {
+      "id": "SOC_increases_soil_aggregation",
+      "source_id": "ent_6e22993f",
+      "target_id": "soil_aggregation",
+      "relation_type": "INCREASES",
+      "conditions": [
+        {
+          "condition_text": "presence of SOC in soil"
+        }
+      ],
+      "evidence_quote": "SOC in influences various aspects of soil quality, including enhancing soil aggregation...",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95
+    },
+    "find_11223344": {
+      "source_id": "ent_2867d871",
+      "target_id": "ent_56990c7d",
+      "relation_type": "INVERSELY_CORRELATES_WITH",
+      "conditions": [
+        {
+          "condition_text": "Soil depth from 15 cm to 90 cm",
+          "depth": "15-90 cm"
+        }
+      ],
+      "evidence_quote": "Inverse relationship between bulk density and porosity.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_11223344"
+    },
+    "find_55667788": {
+      "source_id": "ent_b7863d64",
+      "target_id": "ent_5265d700",
+      "relation_type": "INCREASES",
+      "conditions": [
+        {
+          "condition_text": "Soil depth from 15 cm to 90 cm",
+          "depth": "15-90 cm"
+        }
+      ],
+      "evidence_quote": "BBCP and BBCAP treatments show higher aggregate stability",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_55667788"
+    },
+    "find_99887766": {
+      "source_id": "ent_b7863d64",
+      "target_id": "ent_6e22993f",
+      "relation_type": "INCREASES",
+      "conditions": [
+        {
+          "condition_text": "Study duration from 2018 to 2022",
+          "temporal": "2018-2022"
+        }
+      ],
+      "evidence_quote": "Furthermore, by the end of the study, the percentage of SOC in the soil profile had increased by 42% (significantly higher) in BBCAP, 22% in BBCP, 16% in CAP, while it had decreased by 27% in the PC/CP rotation (Figures 4A, B).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_99887766"
+    },
+    "find_3b73db19": {
+      "source_id": "ent_ca24e44f",
+      "target_id": "ent_13d0d82f",
+      "relation_type": "ENABLES",
+      "conditions": [
+        {
+          "condition_text": "Soil suction ranges from 0 to 900 cm[H2O]"
+        }
+      ],
+      "evidence_quote": "The Van Genuchten and Brooks and Corey models both fit the observed data well, but with slight variations in the fitted curves and field capacity (FC) values for each soil sample.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_3b73db19"
+    },
+    "find_3cdd4ff6": {
+      "source_id": "ent_f094e7fc",
+      "target_id": "ent_2a58eaef",
+      "relation_type": "ENABLES",
+      "conditions": [
+        {
+          "condition_text": "Soil suction ranges from 0 to 900 cm[H2O]"
+        }
+      ],
+      "evidence_quote": "The Van Genuchten and Brooks and Corey models both fit the observed data well, but with slight variations in the fitted curves and field capacity (FC) values for each soil sample.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_3cdd4ff6"
+    },
+    "find_6e58f144": {
+      "source_id": "ent_13d0d82f",
+      "target_id": "ent_2a58eaef",
+      "relation_type": "CORRELATES_WITH",
+      "conditions": [
+        {
+          "condition_text": "Soil suction ranges from 0 to 900 cm[H2O]"
+        }
+      ],
+      "evidence_quote": "The CAP soil sample generally has a higher volumetric water content at the same suction values compared to the BBCAP sample.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_6e58f144"
+    },
+    "find_e1a1f456": {
+      "source_id": "ent_ca24e44f",
+      "target_id": "soil1.txt_ENTITY_004",
+      "relation_type": "REGULATES",
+      "conditions": [
+        {
+          "condition_text": "Measured on 23 August 2022 for the top 15 cm of soil surface",
+          "parameter": "depth",
+          "threshold": "15 cm",
+          "operator": "at",
+          "spatial": "top 15 cm"
+        }
+      ],
+      "evidence_quote": "For Blanton, Foxworth-Alpin: Θs = 0.408 cm³ cm⁻³, Θr = 0.001 cm³ cm⁻³, α = 0.0766 cm⁻¹, n = 1.7891, RMSE = 0.02, NRMSE = 0.15, NSE = 0.98",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_e1a1f456"
+    },
+    "find_5052745b": {
+      "source_id": "ent_ca24e44f",
+      "target_id": "soil1.txt_ENTITY_005",
+      "relation_type": "REGULATES",
+      "conditions": [
+        {
+          "condition_text": "Measured on 23 August 2022 for the top 15 cm of soil surface",
+          "parameter": "depth",
+          "threshold": "15 cm",
+          "operator": "at",
+          "spatial": "top 15 cm"
+        }
+      ],
+      "evidence_quote": "For Hurricane, Albany and Chipley (first condition): Θs = 0.389 cm³ cm⁻³, Θr = 0.001 cm³ cm⁻³, α = 0.0256 cm⁻¹, n = 2.2753, RMSE = 0.01, NRMSE = 0.1, NSE = 0.99",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_5052745b"
+    },
+    "find_8a26ddf9": {
+      "source_id": "ent_ca24e44f",
+      "target_id": "soil1.txt_ENTITY_005",
+      "relation_type": "REGULATES",
+      "conditions": [
+        {
+          "condition_text": "Measured on 23 August 2022 for the top 15 cm of soil surface",
+          "parameter": "depth",
+          "threshold": "15 cm",
+          "operator": "at",
+          "spatial": "top 15 cm"
+        }
+      ],
+      "evidence_quote": "For Hurricane, Albany and Chipley (second condition): Θs = 0.333 cm³ cm⁻³, Θr = 0.073 cm³ cm⁻³, α = 0.0297 cm⁻¹, n = 2.2769, RMSE = 0.01, NRMSE = 0.08, NSE = 0.99",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_8a26ddf9"
+    },
+    "find_b0588378": {
+      "source_id": "ent_ca24e44f",
+      "target_id": "soil1.txt_ENTITY_005",
+      "relation_type": "REGULATES",
+      "conditions": [
+        {
+          "condition_text": "Measured on 23 August 2022 for the top 15 cm of soil surface",
+          "parameter": "depth",
+          "threshold": "15 cm",
+          "operator": "at",
+          "spatial": "top 15 cm"
+        }
+      ],
+      "evidence_quote": "For Hurricane, Albany and Chipley (third condition): Θs = 0.367 cm³ cm⁻³, Θr = 0.029 cm³ cm⁻³, α = 0.0278 cm⁻¹, n = 2.2979, RMSE = 0.01, NRMSE = 0.06, NSE = 1",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_b0588378"
+    },
+    "find_27d11dfd": {
+      "source_id": "ent_d9c715d6",
+      "target_id": "soil1.txt_ENTITY_008",
+      "relation_type": "CORRELATES_WITH",
+      "conditions": [
+        {
+          "condition_text": "As Θs increases, NSE tends to increase (e.g., 0.333 to 0.408 for Θs and 0.99 to 0.98 for NSE, but note the NSE of 1 for the third Hurricane condition)."
+        }
+      ],
+      "evidence_quote": "As Θs increases, NSE tends to increase (e.g., 0.333 to 0.408 for Θs and 0.99 to 0.98 for NSE, but note the NSE of 1 for the third Hurricane condition).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "find_27d11dfd"
+    },
+    "find_f8cac027": {
+      "source_id": "soil1.txt_ENTITY_008",
+      "target_id": "soil1.txt_ENTITY_007",
+      "relation_type": "DECREASES",
+      "conditions": [
+        {
+          "condition_text": "The NRMSE decreases as NSE increases, indicating better model performance."
+        }
+      ],
+      "evidence_quote": "The NRMSE decreases as NSE increases, indicating better model performance.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "find_f8cac027"
+    },
+    "find_41404e36": {
+      "source_id": "ent_b1c9b285",
+      "target_id": "soil1.txt_ENTITY_008",
+      "relation_type": "INHIBITS",
+      "conditions": [
+        {
+          "condition_text": "The α values are inversely related to the suction required for water retention."
+        }
+      ],
+      "evidence_quote": "The α values are inversely related to the suction required for water retention.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "find_41404e36"
+    },
+    "find_b09dfe22": {
+      "source_id": "soil1.txt_ENTITY_004",
+      "target_id": "ent_d9c715d6",
+      "relation_type": "INCREASES",
+      "conditions": [
+        {
+          "condition_text": "Blanton, Foxworth-Alpin has a higher Θs compared to all Hurricane, Albany and Chipley conditions."
+        }
+      ],
+      "evidence_quote": "Blanton, Foxworth-Alpin has a higher Θs and lower n compared to all Hurricane, Albany and Chipley conditions.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "find_b09dfe22"
+    },
+    "find_34566c5c": {
+      "source_id": "soil1.txt_ENTITY_005",
+      "target_id": "ent_d9c715d6",
+      "relation_type": "DECREASES",
+      "conditions": [
+        {
+          "condition_text": "Among Hurricane, Albany and Chipley conditions, the second condition has the lowest Θs."
+        }
+      ],
+      "evidence_quote": "Among Hurricane, Albany and Chipley conditions, the second condition has the lowest Θs and highest Θr.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "find_34566c5c"
+    },
+    "find_7f78c9d3": {
+      "source_id": "ent_43daecde",
+      "target_id": "ent_d9c715d6",
+      "relation_type": "HAS_PROPERTY",
+      "conditions": [
+        {
+          "condition_text": "Soil type: Hurricane, Albany and Chipley"
+        }
+      ],
+      "evidence_quote": "- **Saturated Volumetric Water Content (Θs):** Ranges from 0.325 to 0.3713 cm³ cm⁻³. The Blanton, Foxworth-Alpin soil type has the highest Θs.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "find_7f78c9d3"
+    },
+    "find_f9779054": {
+      "source_id": "ent_43daecde",
+      "target_id": "ent_bf90d136",
+      "relation_type": "HAS_PROPERTY",
+      "conditions": [
+        {
+          "condition_text": "Soil type: Hurricane, Albany and Chipley"
+        }
+      ],
+      "evidence_quote": "- **Residual Volumetric Water Content (Θr):** Ranges from 0.001 to 0.06 cm³ cm⁻³. The Hurricane, Albany and Chipley soil type with Θs = 0.325 cm³ cm⁻³ has the highest Θr.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "find_f9779054"
+    },
+    "find_8c65ddf5": {
+      "source_id": "ent_43daecde",
+      "target_id": "ent_b1c9b285",
+      "relation_type": "HAS_PROPERTY",
+      "conditions": [
+        {
+          "condition_text": "Soil type: Hurricane, Albany and Chipley"
+        }
+      ],
+      "evidence_quote": "- **Soil type:** Hurricane, Albany and Chipley\n  - Θs: 0.325 cm³ cm⁻³\n  - Θr: 0.06 cm³ cm⁻³\n  - α: 0.0462\n  - n: 0.8197\n  - RMSE: 0.01\n  - NRMSE: 0.05\n  - NSE: 0.99",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "find_8c65ddf5"
+    },
+    "find_20d6a0c8": {
+      "source_id": "ent_43daecde",
+      "target_id": "ent_139c2011",
+      "relation_type": "HAS_PROPERTY",
+      "conditions": [
+        {
+          "condition_text": "Soil type: Hurricane, Albany and Chipley"
+        }
+      ],
+      "evidence_quote": "- **Soil type:** Hurricane, Albany and Chipley\n  - Θs: 0.325 cm³ cm⁻³\n  - Θr: 0.06 cm³ cm⁻³\n  - α: 0.0462\n  - n: 0.8197\n  - RMSE: 0.01\n  - NRMSE: 0.05\n  - NSE: 0.99",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "find_20d6a0c8"
+    },
+    "find_b4e4732a": {
+      "source_id": "ent_3f224ddf",
+      "target_id": "ent_a2f3bb1d",
+      "relation_type": "CORRELATES_WITH",
+      "conditions": [
+        {
+          "condition_text": "Regression line equation y = 0.3627x + 0.0175, R² = 0.938, RMSE = 0.08 m³ m⁻³"
+        }
+      ],
+      "evidence_quote": "The data points show a positive linear trend, indicating that as uncalibrated soil moisture sensor readings increase, gravimetric soil moisture content also increases.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_b4e4732a"
+    },
+    "find_b8b64ba6": {
+      "source_id": "ent_cb761ce3",
+      "target_id": "ent_a2f3bb1d",
+      "relation_type": "CORRELATES_WITH",
+      "conditions": [
+        {
+          "condition_text": "Regression line equation y = 1.0663x - 0.0064, R² = 0.97, RMSE = 0.002 m³ m⁻³, NSE = 0.96"
+        }
+      ],
+      "evidence_quote": "The data points closely align with the 1:1 line (dashed line), indicating a very strong positive linear relationship between predicted soil moisture readings and gravimetric soil moisture content.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_b8b64ba6"
+    },
+    "find_60150290": {
+      "source_id": "ent_3f224ddf",
+      "target_id": "ent_a2f3bb1d",
+      "relation_type": "CORRELATES_WITH",
+      "conditions": [
+        {
+          "condition_text": "Uncalibrated sensor readings show a strong correlation with gravimetric soil moisture content but with some error."
+        }
+      ],
+      "evidence_quote": "The image demonstrates that while uncalibrated soil moisture sensor readings show a strong correlation with gravimetric soil moisture content but with some error, calibrated (predicted) sensor readings have a very high accuracy and strong agreement with gravimetric measurements.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_60150290"
+    },
+    "find_e55021ca": {
+      "source_id": "ent_cb761ce3",
+      "target_id": "ent_a2f3bb1d",
+      "relation_type": "INCREASES",
+      "conditions": [
+        {
+          "condition_text": "Calibrated sensor readings have a very high accuracy and strong agreement with gravimetric measurements."
+        }
+      ],
+      "evidence_quote": "The image demonstrates that while uncalibrated soil moisture sensor readings show a strong correlation with gravimetric soil moisture content but with some error, calibrated (predicted) sensor readings have a very high accuracy and strong agreement with gravimetric measurements.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_e55021ca"
+    },
+    "find_a958abc1": {
+      "source_id": "ent_adebcae3",
+      "target_id": "ent_7cda8c0a",
+      "relation_type": "REGULATES",
+      "conditions": [
+        {
+          "condition_text": "2021 growing season, 15 cm depth",
+          "parameter": "Total soil water content",
+          "threshold": "23 mm to 17 mm",
+          "operator": "decreases",
+          "temporal": "4/15 to 7/24"
+        }
+      ],
+      "evidence_quote": "15 cm Depth: Starts at approximately 23 mm on 4/15, peaks at around 24 mm, and ends at about 17 mm on 7/24.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "find_a958abc1"
+    },
+    "find_ff9f63a1": {
+      "source_id": "ent_adebcae3",
+      "target_id": "ent_a7f112ff",
+      "relation_type": "REGULATES",
+      "conditions": [
+        {
+          "condition_text": "2021 growing season, 30 cm depth",
+          "parameter": "Total soil water content",
+          "threshold": "20 mm to 16 mm",
+          "operator": "decreases",
+          "temporal": "4/15 to 7/24"
+        }
+      ],
+      "evidence_quote": "30 cm Depth: Begins at around 20 mm on 4/15, peaks at approximately 22 mm, and ends at about 16 mm on 7/24.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "find_ff9f63a1"
+    },
+    "find_4991f8fc": {
+      "source_id": "ent_adebcae3",
+      "target_id": "ent_a7f112ff",
+      "relation_type": "REGULATES",
+      "conditions": [
+        {
+          "condition_text": "2021 growing season, 45 cm depth",
+          "parameter": "Total soil water content",
+          "threshold": "19 mm to 15 mm",
+          "operator": "decreases",
+          "temporal": "4/15 to 7/24"
+        }
+      ],
+      "evidence_quote": "45 cm Depth: Starts at approximately 19 mm on 4/15, peaks at around 20 mm, and ends at about 15 mm on 7/24.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "find_4991f8fc"
+    },
+    "find_d0ed58ea": {
+      "source_id": "ent_040d4971",
+      "target_id": "ent_7cda8c0a",
+      "relation_type": "REGULATES",
+      "conditions": [
+        {
+          "condition_text": "2022 growing season, 15 cm depth",
+          "parameter": "Total soil water content",
+          "threshold": "11 mm to 16 mm",
+          "operator": "fluctuates",
+          "temporal": "5/25 to 9/22"
+        }
+      ],
+      "evidence_quote": "15 cm Depth: Fluctuates between approximately 11 mm and 16 mm throughout the season.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "find_d0ed58ea"
+    },
+    "find_dbdd9e71": {
+      "source_id": "ent_040d4971",
+      "target_id": "ent_a7f112ff",
+      "relation_type": "REGULATES",
+      "conditions": [
+        {
+          "condition_text": "2022 growing season, 30 cm depth",
+          "parameter": "Total soil water content",
+          "threshold": "12 mm to 16 mm",
+          "operator": "fluctuates",
+          "temporal": "5/25 to 9/22"
+        }
+      ],
+      "evidence_quote": "30 cm Depth: Ranges from about 12 mm to 16 mm.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "find_dbdd9e71"
+    },
+    "find_9b23bd6a": {
+      "source_id": "ent_040d4971",
+      "target_id": "ent_a7f112ff",
+      "relation_type": "REGULATES",
+      "conditions": [
+        {
+          "condition_text": "2022 growing season, 45 cm depth",
+          "parameter": "Total soil water content",
+          "threshold": "13 mm to 16 mm",
+          "operator": "fluctuates",
+          "temporal": "5/25 to 9/22"
+        }
+      ],
+      "evidence_quote": "45 cm Depth: Varies between approximately 13 mm and 16 mm.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.9,
+      "id": "find_9b23bd6a"
+    },
+    "find_68ea98f5": {
+      "source_id": "ent_b7b92b48",
+      "target_id": "ent_adebcae3",
+      "relation_type": "INCREASES",
+      "conditions": [
+        {
+          "condition_text": "2021 growing season",
+          "temporal": "2021"
+        }
+      ],
+      "evidence_quote": "In 2021, maize yields varied signi /uniFB01 cantly between the conventional and sod-based rotations, with a p-value of 0.048 and a least signi /uniFB01 cant difference of 1408 kg ha -1 , indicating that conventional rotation may offer short-term bene /uniFB01 ts within a fouryear cycle (Bullock, 1992; Porter et al., 2003).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_68ea98f5"
+    },
+    "find_6a05f9d2": {
+      "source_id": "ent_a751d5ab",
+      "target_id": "ent_040d4971",
+      "relation_type": "CORRELATES_WITH",
+      "conditions": [
+        {
+          "condition_text": "2022 growing season",
+          "temporal": "2022"
+        }
+      ],
+      "evidence_quote": "In contrast, yields from the 2022 peanut and carrot growing seasons showed no signi /uniFB01 cant differences between rotations, with p-values of 0.057 and 0.08, respectively, suggesting that rotational effects could be crop-speci /uniFB01 c (Smith et al., 2008).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_6a05f9d2"
+    },
+    "find_84649588": {
+      "source_id": "ent_035e716d",
+      "target_id": "ent_c04e01db",
+      "relation_type": "CORRELATES_WITH",
+      "conditions": [
+        {
+          "condition_text": "2022 growing season",
+          "temporal": "2022"
+        }
+      ],
+      "evidence_quote": "In contrast, yields from the 2022 peanut and carrot growing seasons showed no signi /uniFB01 cant differences between rotations, with p-values of 0.057 and 0.08, respectively, suggesting that rotational effects could be crop-speci /uniFB01 c (Smith et al., 2008).",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_84649588"
+    },
+    "find_e509dc16": {
+      "id": "find_e509dc16",
+      "source_id": "ent_adebcae3",
+      "target_id": "ent_67890",
+      "relation_type": "INCREASES",
+      "conditions": [
+        {
+          "condition_text": "Maize crops in rotation PC received higher N fertilization compared to other crops like peanut."
+        }
+      ],
+      "evidence_quote": "Maize crops generally receive higher levels of N fertilization and organic N fertilization compared to other crops like peanut.",
+      "paper_source": "soil1.txt_chunk_009",
+      "confidence": 0.9
+    },
+    "find_0beef084": {
+      "id": "find_0beef084",
+      "source_id": "ent_adebcae3",
+      "target_id": "ent_67890",
+      "relation_type": "INCREASES",
+      "conditions": [
+        {
+          "condition_text": "Maize crops generally receive higher levels of N fertilization compared to other crops like peanut."
+        }
+      ],
+      "evidence_quote": "Maize crops generally receive higher levels of N fertilization and organic N fertilization compared to other crops like peanut.",
+      "paper_source": "soil1.txt_chunk_009",
+      "confidence": 0.9
+    },
+    "find_4d430ca3": {
+      "source_id": "ent_conventional_rotation",
+      "target_id": "ent_72137174",
+      "relation_type": "INCREASES",
+      "conditions": [
+        {
+          "condition_text": "Growing season from 2020/21",
+          "temporal": "2020/21 growing season"
+        }
+      ],
+      "evidence_quote": "Graph C: Carrot Cumulative ETc - Both lines show a steady, nearly linear increase.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_4d430ca3"
+    },
+    "find_25c49044": {
+      "source_id": "ent_7edc40ea",
+      "target_id": "ent_f99d60c0",
+      "relation_type": "INCREASES",
+      "conditions": [
+        {
+          "condition_text": "2021 growing season",
+          "temporal": "2021"
+        }
+      ],
+      "evidence_quote": "CAP and BBCAP show higher yields compared to CP and BBCP.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_25c49044"
+    },
+    "find_11329267": {
+      "source_id": "ent_df5cefc6",
+      "target_id": "ent_adebcae3",
+      "relation_type": "DECREASES",
+      "conditions": [
+        {
+          "condition_text": "2021 growing season",
+          "temporal": "2021"
+        }
+      ],
+      "evidence_quote": "BBCP has a slightly lower yield compared to CP.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_11329267"
+    },
+    "find_d6b9afd6": {
+      "source_id": "ent_8a6dfafc",
+      "target_id": "ent_040d4971",
+      "relation_type": "CORRELATES_WITH",
+      "conditions": [
+        {
+          "condition_text": "2022 growing season",
+          "temporal": "2022"
+        }
+      ],
+      "evidence_quote": "All treatments show similar yields, with no significant differences.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_d6b9afd6"
+    },
+    "find_bec86290": {
+      "source_id": "ent_a99bac0c",
+      "target_id": "ent_c04e01db",
+      "relation_type": "CORRELATES_WITH",
+      "conditions": [
+        {
+          "condition_text": "2022 growing season",
+          "temporal": "2022"
+        }
+      ],
+      "evidence_quote": "Both CAP and BBCAP show similar yields with a slight variation.",
+      "paper_source": "soil1.txt",
+      "confidence": 0.95,
+      "id": "find_bec86290"
+    }
+  },
+  "study_contexts": {
+    "soil1.txt": {
+      "geographic_region": "Suwannee River Basin, Northern Florida",
+      "climate_zone": "humid subtropical",
+      "soil_series": "Hurricane, Albany, Chipley, Blanton, Foxworth-Alpin complex",
+      "soil_texture": "sandy (94.8-95.4% sand content)",
+      "study_scale": "16-hectare field",
+      "study_duration": "16 years (with first 4 years focused on BMP assessment)",
+      "treatments": [
+        "conventional crop rotations (maize-peanut, maize-carrot-peanut)",
+        "sod-based rotations (bahiagrass followed by maize-peanut, bahiagrass followed by maize-carrot-peanut)",
+        "animal grazing on BBCP and BBCAP sections"
+      ],
+      "rainfall_range": "high annual rainfall",
+      "statistical_design": "experimental plots with different treatments, including control sections for conventional rotations",
+      "paper_source": "soil1.txt"
+    }
+  },
+  "concepts": {},
+  "metadata": {
+    "paper_sources": [
+      "soil1.txt"
+    ],
+    "extraction_history": [
+      {
+        "paper_source": "soil1.txt",
+        "stage": "round_1",
+        "note": "40 tasks",
+        "at": "2026-07-02T09:31:52.929049+00:00"
+      },
+      {
+        "paper_source": "soil1.txt",
+        "stage": "round_2",
+        "note": "3 tasks",
+        "at": "2026-07-02T09:33:50.973596+00:00"
+      }
+    ],
+    "provider": "vllm",
+    "model": "/models/Qwen3-32B",
+    "created_at": "2026-07-02T08:40:35.981267+00:00",
+    "updated_at": "2026-07-02T09:33:59.203314+00:00"
+  }
+}
